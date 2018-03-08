@@ -1,0 +1,1490 @@
+09/16/2014 Transfer In                                           653 NF 09/16/2014 TSNF STLUKE HOSP
+09/17/2014 Transfer In                                          1827 NF 00/00/0000 ICF  HOME   MOVE
+09/18/2014 Transfer In                                          1742 AL 09/16/2014 RES  HOME   MOVE
+09/18/2014 Transfer In                                          1472 NF 09/21/2014 TICF DRIDGE NA
+09/18/2014 Transfer Out                                         1472 IL 09/21/2014 IL2
+09/19/2014 Transfer Out                                          699 IL 09/18/2014 IL1
+09/19/2014 Transfer Out                                         1621 AL 09/18/2014 ALL1
+09/21/2014 Transfer In                                          1438 SL 09/19/2014 SL2B NA     NA
+09/21/2014 Transfer In                                          1824 AL 09/19/2014 ALL1 WDLAND MOVE
+09/22/2014 Transfer In                                          1742 NF 09/22/2014 TSNF STLUKE HOSP
+09/22/2014 Transfer In                                          1621 AL 09/22/2014 ALL1 WDLAND MOVE
+09/24/2014 Transfer In                                           699 NF 09/24/2014 TSNF STLUKE HOSP
+09/26/2014 Transfer Out                                         1700 SL 09/23/2014 SL1B
+09/26/2014 Transfer Out                                         1621 AL 09/24/2014 ALL1
+09/26/2014 Transfer In                                          1621 AL 09/25/2014 ALL1 WDLAND MOVE
+09/26/2014 Transfer In                                          1834 SL 09/25/2014 SL1B HOME   MOVE
+09/26/2014 Transfer In                                          1472 IL 09/26/2014 IL2  NA     NA
+09/30/2014 Transfer Out                                         1489 NF 09/29/2014 TICF
+09/30/2014 Transfer In                                          1019 AL 09/29/2014 ALL1 CCARE  MOVE
+09/30/2014 Transfer In                                          1330 AL 09/29/2014 RES  GWOOD  DIH
+09/30/2014 Transfer Out                                         1076 AL 09/30/2014 ALL2
+09/30/2014 Transfer In                                          1076 NF 09/30/2014 ICF  MANOR  DIH
+10/01/2014 Transfer Out                                         1558 SL 09/30/2014 SL1B
+10/01/2014 Transfer In                                          1700 NF 10/01/2014 TSNF UIHC   HOSP
+10/02/2014 Transfer In                                           488 AL 10/01/2014 ALL2 CCARE  MOVE
+10/02/2014 Transfer In                                          1380 NF 10/02/2014 TSNF STLUKE HOSP
+10/03/2014 Transfer In                                          1251 AL 10/02/2014 RES  GWOOD  DIH
+10/03/2014 Transfer In                                          1648 AL 10/02/2014 RES  HOME   DIH
+10/03/2014 Transfer In                                          1080 IL 10/03/2014 IL1  NA     NA
+10/03/2014 Transfer In                                          1489 NF 10/03/2014 TSNF MERIA  HOSP
+10/03/2014 Transfer In                                          1575 NF 10/04/2014 TSNF STLUKE HOSP
+10/07/2014 Transfer Out                                         1489 NF 10/06/2014 TICF
+10/08/2014 Transfer In                                          1838 SL 10/12/2014 SL1B HOME   MOVE
+10/08/2014 Transfer In                                          1837 IL 10/13/2014 IL1  HOME   MOVE
+10/08/2014 Transfer In                                          1836 IL 10/13/2014 IL2  HOME   MOVE
+10/08/2014 Transfer Out                                         1621 AL 10/08/2014 ALL1
+10/08/2014 Transfer In                                          1621 NF 10/08/2014 TICF ARBOR  DIH
+10/10/2014 Transfer In                                          1330 NF 10/10/2014 ICF  MMCCR  HOSP
+10/10/2014 Transfer In                                          1251 AL 10/09/2014 ALL1 CCARE  MOVE
+10/10/2014 Transfer In                                          1489 NF 10/10/2014 TSNF MERIA  HOSP
+10/10/2014 Transfer In                                          1829 AL 10/10/2014 ALL1 HOME   MOVE
+10/13/2014 Transfer In                                          1839 NF 10/13/2014 TSNF MMCCR  HOSP
+10/14/2014 Transfer In                                          1628 AL 10/11/2014 RES  MANOR  DIH
+10/14/2014 Transfer In                                          1482 AL 10/11/2014 RES  MANOR  DIH
+10/14/2014 Transfer In                                          1831 IL 10/13/2014 IL1  HOME   MOVE
+10/14/2014 Transfer In                                          1830 IL 10/13/2014 IL2  HOME   MOVE
+10/14/2014 Transfer In                                           699 AL 10/14/2014 RES  WDLAND IIH
+10/15/2014 Transfer In                                          1758 NF 10/15/2014 TICF STLUKE HOSP
+10/15/2014 Transfer In                                          1840 IL 10/16/2014 IL1  HOME   MOVE
+10/15/2014 Transfer In                                          1841 IL 10/16/2014 IL2  HOME   MOVE
+10/16/2014 Transfer In                                          1628 NF 10/16/2014 TICF CCARE  DIH
+10/17/2014 Transfer In                                          1844 IL 10/17/2014 IL1  HOME   MOVE
+10/17/2014 Transfer In                                          1845 IL 10/17/2014 IL2  HOME   MOVE
+10/17/2014 Transfer In                                          1842 IL 10/20/2014 IL1  HOME   MOVE
+10/17/2014 Transfer In                                          1843 IL 10/20/2014 IL2  HOME   MOVE
+10/17/2014 Transfer Out                                         1669 IL 10/03/2014 IL1
+10/17/2014 Transfer In                                          1669 NF 10/17/2014 TSNF STLUKE HOSP
+10/21/2014 Transfer In                                           699 IL 10/18/2014 IL1  NA     NA
+10/22/2014 Transfer In                                          1405 NF 10/22/2014 TSNF MMCCR  HOSP
+10/22/2014 Transfer Out                                         1225 IL 10/22/2014 IL1
+10/23/2014 Transfer In                                          1225 AL 10/22/2014 ALL1 DRIDGE MOVE
+10/24/2014 Transfer In                                          1482 NF 10/24/2014 TSNF STLUKE HOSP
+10/28/2014 Transfer Out                                         1700 NF 10/27/2014 TICF
+10/28/2014 Transfer In                                          1700 NF 10/28/2014 TSNF UIHC   HOSP
+10/29/2014 Transfer In                                           540 AL 10/28/2014 ALL2 MANOR  MOVE
+10/30/2014 Transfer Out                                         1521 AL 10/29/2014 ALL1
+10/30/2014 Transfer In                                          1781 NF 10/30/2014 TSNF STLUKE HOSP
+10/30/2014 Transfer In                                          1637 NF 10/30/2014 TSNF STLUKE HOSP
+10/31/2014 Transfer In                                          1847 NF 10/31/2014 TICF OTRFAC NA
+10/31/2014 Transfer In                                          1542 NF 10/31/2014 ICF  ARBOR  DIH
+11/01/2014 Transfer In                                          1669 AL 11/01/2014 RES  WDLAND IIH
+11/03/2014 Transfer In                                           583 NF 11/03/2014 TSNF OTRFAC NA
+11/03/2014 Transfer In                                          1521 AL 11/01/2014 ALL1 WDLAND MOVE
+11/06/2014 Transfer Out                                         1420 SL 11/03/2014 SL1B
+11/06/2014 Transfer In                                          1420 NF 11/06/2014 TSNF STLUKE HOSP
+11/06/2014 Transfer In                                          1850 NF 11/06/2014 TSNF STLUKE HOSP
+11/08/2014 Transfer In                                          1758 SL 11/07/2014 SL1B CCARE  MOVE
+11/08/2014 Transfer Out                                         1452 SL 11/07/2014 SL1B
+11/10/2014 Transfer Out                                          488 AL 11/08/2014 ALL1
+11/11/2014 Transfer In                                          1851 NF 11/11/2014 ICF  MMCCR  HOSP
+11/12/2014 Transfer In                                          1849 SL 11/10/2014 SL1B HOME   MOVE
+11/12/2014 Transfer In                                          1814 SL 11/10/2014 SL2B HOME   MOVE
+11/12/2014 Transfer In                                          1848 SL 11/12/2014 SL1B HOME   MOVE
+11/13/2014 Transfer In                                          1452 NF 11/13/2014 TSNF STLUKE HOSP
+11/14/2014 Transfer In                                          1637 SL 11/14/2014 SL1B HOME   MOVE
+11/17/2014 Transfer In                                          1554 AL 11/14/2014 RES  MANOR  DIH
+11/17/2014 Transfer In                                          1380 AL 11/15/2014 ALL1 WDLAND MOVE
+11/18/2014 Transfer In                                          1854 NF 11/18/2014 TSNF STLUKE HOSP
+11/19/2014 Transfer In                                          1852 IL 11/19/2014 IL1  HOME   MOVE
+11/19/2014 Transfer In                                          1853 IL 11/19/2014 IL2  HOME   MOVE
+11/20/2014 Transfer In                                          1482 NF 11/20/2014 TSNF STLUKE HOSP
+11/24/2014 Transfer Out                                         1080 IL 11/21/2014 IL1
+11/24/2014 Transfer In                                          1080 SL 11/21/2014 SL1B GWOOD  MOVE
+11/25/2014 Transfer In                                          1452 SL 11/25/2014 SL1B NA     NA
+11/26/2014 Transfer Out                                         1229 SL 11/24/2014 SL1B
+11/26/2014 Transfer In                                          1229 NF 11/25/2014 ICF  STLUKE HOSP
+12/01/2014 Transfer In                                          1854 NF 12/01/2014 TSNF STLUKE HOSP
+12/02/2014 Transfer In                                          1823 SL 12/01/2014 SL1B HOME   MOVE
+12/03/2014 Transfer Out                                         1650 AL 12/02/2014 ALL1
+12/03/2014 Transfer In                                          1650 NF 12/03/2014 TICF MMCCR  HOSP
+12/04/2014 Transfer Out                                         1800 IL 11/26/2014 IL1
+12/05/2014 Transfer In                                          1827 NF 12/05/2014 TICF HOME   DIH
+12/08/2014 Transfer In                                          1554 AL 12/05/2014 RES  MANOR  DIH
+12/08/2014 Transfer In                                          1857 IL 12/06/2014 IL1  HOME   MOVE
+12/08/2014 Transfer In                                          1856 IL 12/06/2014 IL2  HOME   MOVE
+12/11/2014 Transfer In                                          1855 SL 12/11/2014 SL1B HOME   MOVE
+12/12/2014 Transfer Out                                         1217 SL 12/12/2014 SL1B
+12/12/2014 Transfer In                                          1217 NF 12/12/2014 TICF MANOR  NA
+12/15/2014 Transfer In                                          1506 AL 12/14/2014 RES  CCARE
+12/16/2014 Transfer In                                          1010 AL 12/16/2014 RES  DRIDGE DIH
+12/16/2014 Transfer In                                          1858 AL 12/16/2014 RES  STLUKE DIH
+12/17/2014 Transfer Out                                         1545 IL 12/13/2014 IL1
+12/17/2014 Transfer In                                          1545 NF 12/17/2014 TSNF STLUKE HOSP
+12/19/2014 Transfer In                                          1217 AL 12/19/2014 RES  WDLAND IIH
+12/20/2014 Transfer Out                                         1117 IL 12/15/2014 IL1
+12/20/2014 Transfer In                                          1117 NF 12/20/2014 TSNF MMCCR  HOSP
+12/22/2014 Transfer Out                                         1660 AL 12/22/2014 ALL1
+12/22/2014 Transfer In                                          1660 NF 12/22/2014 TICF ARBOR  DIH
+12/23/2014 Transfer In                                          1700 AL 12/22/2014 RES  WDLAND IIH
+12/26/2014 Transfer In                                          1660 AL 12/24/2014 ALL1 HOME   DIH
+12/30/2014 Transfer Out                                         1513 SL 12/25/2014 SL1B
+12/30/2014 Transfer In                                          1513 NF 12/30/2014 TSNF STLUKE HOSP
+12/30/2014 Transfer In                                          1545 NF 12/30/2014 TSNF STLUKE HOSP
+12/30/2014 Transfer In                                          1010 NF 12/30/2014 TSNF STLUKE HOSP
+01/02/2015 Transfer In                                           514 AL 12/31/2014 RES  MANOR  DIH
+01/02/2015 Transfer In                                          1239 NF 01/02/2015 ICF  ARBOR  DIH
+01/03/2015 Transfer Out                                         1824 AL 12/28/2014 ALL1
+01/03/2015 Transfer In                                          1824 NF 01/03/2015 TSNF UIHC   HOSP
+01/05/2015 Transfer In                                           946 AL 01/02/2015 RES  DRIDGE DIH
+01/05/2015 Transfer In                                          1144 AL 01/04/2015 RES  DRIDGE DIH
+01/05/2015 Transfer In                                          1506 NF 01/05/2015 TSNF MMCCR  HOSP
+01/06/2015 Transfer In                                          1810 AL 01/05/2015 ALL1 MANOR  MOVE
+01/07/2015 Transfer In                                          1859 IL 01/06/2015 IL1  HOME   MOVE
+01/09/2015 Transfer In                                          1800 NF 01/09/2015 TSNF DRIDGE DIH
+01/12/2015 Transfer In                                          1860 NF 01/12/2015 TSNF STLUKE HOSP
+01/21/2015 Transfer Out                                         1843 IL 01/17/2015 IL2
+01/21/2015 Transfer In                                          1843 NF 01/21/2015 TSNF STLUKE HOSP
+01/21/2015 Transfer In                                           993 AL 01/20/2015 RES  HOME   DIH
+01/21/2015 Transfer In                                          1863 AL 01/20/2015 RES  HOME   DIH
+01/21/2015 Transfer In                                          1229 AL 01/21/2015 RES  WDLAND IIH
+01/21/2015 Transfer Out                                         1365 IL 01/21/2015 IL1
+01/21/2015 Transfer In                                          1830 AL 01/21/2015 RES  STLUKE HOSP
+01/21/2015 Transfer In                                          1365 NF 01/21/2015 TICF DRIDGE NA
+01/22/2015 Transfer In                                          1862 IL 01/22/2015 IL1  HOME   MOVE
+01/23/2015 Transfer In                                          1800 AL 01/23/2015 RES  WDLAND IIH
+01/26/2015 Transfer In                                          1602 NF 01/26/2015 ICF  NA     NA
+01/26/2015 Transfer In                                          1860 NF 01/26/2015 ICF  STLUKE HOSP
+01/26/2015 Transfer In                                          1248 IL 01/24/2015 IL1  MANOR  MOVE
+01/27/2015 Transfer Out                                         1500 NF 01/27/2015 ICF
+01/27/2015 Transfer In                                          1365 AL 01/26/2015 RES  GWOOD  DIH
+01/27/2015 Transfer In                                          1482 AL 01/26/2015 RES  WDLAND IIH
+01/27/2015 Transfer In                                          1629 NF 01/27/2015 TSNF STLUKE HOSP
+01/28/2015 Transfer In                                          1217 NF 01/28/2015 ICF  MANOR  DIH
+01/28/2015 Transfer Out                                         1225 AL 01/28/2015 ALL1
+01/28/2015 Transfer In                                          1225 NF 01/28/2015 TICF ARBOR  DIH
+01/29/2015 Transfer In                                          1752 AL 01/28/2015 RES  MANOR  DIH
+02/02/2015 Transfer Out                                         1733 NF 01/30/2015 ICF
+02/02/2015 Transfer Out                                         1751 SL 01/30/2015 SL1B
+02/02/2015 Transfer In                                          1751 AL 01/31/2015 ALL1 MANOR  MOVE
+02/02/2015 Transfer In                                          1752 AL 01/31/2015 ALL1 MANOR  MOVE
+02/02/2015 Transfer In                                          1865 NF 02/02/2015 ICF  MMCCR  DIH
+02/03/2015 Transfer In                                          1372 NF 02/03/2015 TICF STLUKE HOSP
+02/04/2015 Transfer In                                          1099 NF 02/04/2015 TICF MMCCR  HOSP
+02/05/2015 Transfer In                                          1364 AL 02/04/2015 RES  STLUKE HOSP
+02/05/2015 Transfer In                                          1500 NF 02/05/2015 PSNF MMCCR  HOSP
+02/05/2015 Transfer In                                          1406 NF 02/05/2015 ICF  ARBOR  DIH
+02/06/2015 Transfer In                                          1485 AL 02/05/2015 RES  MMCCR  HOSP
+02/06/2015 Transfer In                                          1866 NF 02/06/2015 ICF  HOME   DIH
+02/09/2015 Transfer Out                                         1389 NF 02/09/2015 ICF
+02/09/2015 Transfer In                                          1718 NF 02/09/2015 TICF MMCCR  HOSP
+02/09/2015 Transfer In                                           699 AL 02/07/2015 RES  BVILLG DIH
+02/09/2015 Transfer Out                                         1800 IL 02/09/2015 IL1
+02/09/2015 Transfer In                                          1800 NF 02/09/2015 TSNF STLUKE HOSP
+02/10/2015 Transfer Out                                         1865 NF 02/09/2015 ICF
+02/10/2015 Transfer Out                                         1718 IL 02/05/2015 IL1
+02/12/2015 Transfer Out                                         1845 IL 02/12/2015 IL2
+02/12/2015 Transfer In                                          1845 NF 02/12/2015 TICF BVILLG DIH
+02/12/2015 Transfer In                                          1389 NF 02/12/2015 ICF  NA     NA
+02/13/2015 Transfer In                                          1865 NF 02/13/2015 ICF  MMCCR  DIH
+02/13/2015 Transfer Out                                         1225 AL 02/07/2015 ALL1
+02/13/2015 Transfer In                                          1225 NF 02/14/2015 TSNF STLUKE HOSP
+02/17/2015 Transfer In                                          1868 AL 02/15/2015 ALL1 HOME   MOVE
+02/17/2015 Transfer Out                                         1494 AL 02/15/2015 ALL1
+02/17/2015 Transfer In                                          1494 NF 02/17/2015 TICF STLUKE HOSP
+02/18/2015 Transfer In                                          1845 IL 02/18/2015 IL2  HOME   MOVE
+02/20/2015 Transfer In                                          1869 SL 02/20/2015 SL1B HOME   MOVE
+02/20/2015 Transfer In                                          1010 IL 02/20/2015 IL2  NA     NA
+02/23/2015 Transfer In                                          1660 NF 02/23/2015 ICF  ARBOR  DIH
+02/23/2015 Transfer In                                          1420 AL 02/21/2015 RES  MANOR  DIH
+02/25/2015 Transfer In                                          1870 NF 02/25/2015 TSNF STLUKE HOSP
+02/27/2015 Transfer Out                                         1631 SL 02/26/2015 SL1B
+02/27/2015 Transfer In                                          1631 NF 02/27/2015 TICF MMCCR  HOSP
+02/27/2015 Transfer In                                          1861 AL 02/27/2015 ALL2 HOME   DIH
+03/02/2015 Transfer Out                                         1845 IL 03/02/2015 IL2
+03/02/2015 Transfer In                                          1845 NF 03/02/2015 TICF BVILLG DIH
+03/02/2015 Transfer In                                          1151 AL 02/27/2015 RES  MANOR  DIH
+03/02/2015 Transfer In                                          1854 SL 02/28/2015 SL1B WDLAND MOVE
+03/02/2015 Transfer In                                          1861 AL 02/28/2015 ALL2 CCARE  MOVE
+03/04/2015 Transfer In                                           699 SL 03/01/2015 SL1B BVILLG MOVE
+03/05/2015 Transfer In                                          1874 NF 03/05/2015 TICF STLUKE HOSP
+03/05/2015 Transfer In                                          1513 AL 03/04/2015 RES  WDLAND IIH
+03/09/2015 Transfer In                                          1339 AL 03/07/2015 RES  MANOR  DIH
+03/10/2015 Transfer In                                           945 NF 03/10/2015 TSNF MERIA  HOSP
+03/11/2015 Transfer In                                          1773 NF 03/11/2015 TICF STLUKE DIH
+03/12/2015 Transfer In                                          1494 AL 03/11/2015 ALL1 NA     NA
+03/16/2015 Transfer In                                          1513 AL 03/14/2015 ALL2 CCARE  MOVE
+03/16/2015 Transfer In                                          1873 AL 03/15/2015 ALL2 OTRFAC MOVE
+03/16/2015 Transfer Out                                         1080 SL 03/11/2015 SL1B
+03/16/2015 Transfer In                                          1080 NF 03/16/2015 TSNF MMCCR  HOSP
+03/18/2015 Transfer In                                           946 IL 03/17/2015 IL1  NA     NA
+03/18/2015 Transfer Out                                         1874 NF 03/18/2015 TICF
+03/20/2015 Transfer In                                          1631 AL 03/20/2015 ALL1 WDLAND MOVE
+03/21/2015 Transfer Out                                         1793 IL 03/21/2015 IL2
+03/21/2015 Transfer In                                          1793 NF 03/21/2015 TICF STLUKE HOSP
+03/23/2015 Transfer In                                          1874 NF 03/23/2015 TSNF STLUKE HOSP
+03/24/2015 Transfer In                                          1482 AL 03/21/2015 RES  STLUKE HOSP
+03/24/2015 Transfer In                                          1850 IL 03/11/2015 IL1  HOME   MOVE
+03/26/2015 Transfer In                                          1340 NF 03/26/2015 TICF MMCCR  DIH
+03/27/2015 Transfer In                                           424 AL 03/26/2015 RES  BVILLG DIH
+03/27/2015 Transfer In                                          1793 IL 03/26/2015 IL2  HOME   MOVE
+03/27/2015 Transfer In                                          1872 AL 03/27/2015 ALL2 HOME   MOVE
+03/27/2015 Transfer In                                          1605 NF 03/27/2015 ICF  WDLAND DIH
+03/30/2015 Transfer In                                          1682 AL 03/28/2015 ALL1 MANOR  DIH
+03/31/2015 Transfer In                                          1831 IL 03/30/2015 IL1  DRIDGE MOVE
+03/31/2015 Transfer In                                          1830 IL 03/30/2015 IL2  DRIDGE MOVE
+04/01/2015 Transfer In                                          1648 NF 04/01/2015 TICF HOME   DIH
+04/02/2015 Transfer Out                                         1318 NF 04/01/2015 ICF
+04/02/2015 Transfer In                                          1318 NF 04/02/2015 ICF  MMCCR  HOSP
+04/03/2015 Transfer In                                          1873 NF 04/03/2015 TICF CCARE  DIH
+04/06/2015 Transfer In                                          1475 NF 04/06/2015 TICF STLUKE DIH
+04/06/2015 Transfer In                                          1340 SL 04/05/2015 SL2B MANOR  MOVE
+04/07/2015 Transfer In                                          1773 IL 04/07/2015 IL1  HOME   MOVE
+04/09/2015 Transfer In                                          1877 NF 04/09/2015 TSNF STLUKE DIH
+04/10/2015 Transfer In                                          1700 AL 04/10/2015 RES  MANOR  DIH
+04/10/2015 Transfer In                                          1879 NF 04/10/2015 TSNF UIHC   HOSP
+04/10/2015 Transfer In                                          1882 AL 04/14/2015 ALL1 OTRFAC IIH
+04/13/2015 Transfer In                                          1876 NF 04/13/2015 TSNF UIHC   HOSP
+04/16/2015 Transfer In                                          1482 AL 04/15/2015 RES  STLUKE HOSP
+04/16/2015 Transfer In                                          1700 NF 04/16/2015 ICF  MMCCR  HOSP
+04/17/2015 Transfer In                                          1800 IL 04/16/2015 IL1  HOME   MOVE
+04/17/2015 Transfer In                                          1557 IL 04/17/2015 IL2  NA     NA
+04/17/2015 Transfer In                                          1455 IL 04/17/2015 IL2  NA     NA
+04/20/2015 Transfer In                                           933 NF 04/20/2015 TICF CCARE  DIH
+04/21/2015 Transfer In                                          1251 NF 04/21/2015 ICF  CCARE  DIH
+04/21/2015 Transfer In                                          1880 SL 04/18/2015 SL2B HOME   MOVE
+04/21/2015 Transfer In                                          1881 SL 04/18/2015 SL1B HOME   MOVE
+04/22/2015 Transfer In                                          1080 AL 04/21/2015 RES  WDLAND IIH
+04/23/2015 Transfer In                                          1384 SL 04/22/2015 SL1B MANOR  MOVE
+04/23/2015 Transfer Out                                         1632 SL 04/23/2015 SL1B
+04/23/2015 Transfer In                                          1632 SL 04/23/2015 SL1B MANOR  MOVE
+04/23/2015 Transfer Out                                         1110 SL 04/20/2015 SL1B
+04/23/2015 Transfer In                                          1110 NF 04/23/2015 TSNF STLUKE HOSP
+04/28/2015 Transfer Out                                         1602 NF 04/27/2015 ICF
+04/28/2015 Transfer In                                          1883 IL 04/28/2015 IL1  HOME   MOVE
+04/28/2015 Transfer In                                          1884 IL 04/28/2015 IL2  HOME   MOVE
+04/29/2015 Transfer Out                                         1650 NF 04/28/2015 ICF
+04/29/2015 Transfer In                                          1650 NF 04/29/2015 ICF  STLUKE HOSP
+04/30/2015 Transfer In                                          1885 SL 04/30/2015 SL1R HOME   MOVE
+05/01/2015 Transfer In                                          1472 NF 05/03/2015 TICF DRIDGE
+05/01/2015 Transfer In                                          1886 IL 04/28/2015 IL1  HOME   MOVE
+05/04/2015 Transfer Out                                         1472 IL 04/03/2015 IL2
+05/04/2015 Transfer In                                          1602 NF 05/04/2015 TSNF MMCCR  HOSP
+05/04/2015 Transfer In                                          1258 SL 05/02/2015 SL1B DRIDGE MOVE
+05/05/2015 Transfer Out                                          931 AL 05/01/2015 ALL1
+05/05/2015 Transfer In                                           931 NF 05/05/2015 TSNF STLUKE HOSP
+05/06/2015 Transfer In                                          1472 IL 05/06/2015 IL2  NA     NA
+05/08/2015 Transfer In                                          1482 AL 05/07/2015 ALL1 MANOR  MOVE
+05/08/2015 Transfer In                                          1080 AL 05/07/2015 ALL2 MANOR  MOVE
+05/11/2015 Transfer In                                          1420 AL 05/08/2015 RES  STLUKE HOSP
+05/12/2015 Transfer In                                          1887 IL 05/11/2015 IL2  HOME   MOVE
+05/14/2015 Transfer In                                          1420 AL 05/13/2015 ALL2 MANOR  MOVE
+05/14/2015 Transfer In                                          1888 IL 05/14/2015 IL1  HOME   MOVE
+05/14/2015 Transfer In                                          1889 IL 05/14/2015 IL2  HOME   MOVE
+05/15/2015 Transfer Out                                         1475 NF 05/14/2015 TICF
+05/15/2015 Transfer In                                          1475 NF 05/15/2015 TICF STLUKE DIH
+05/17/2015 Transfer Out                                         1395 SL 05/17/2015 SL1B
+05/17/2015 Transfer In                                          1395 NF 05/17/2015 TICF STLUKE HOSP
+05/18/2015 Transfer In                                          1110 NF 05/17/2015 TICF CCARE
+05/18/2015 Transfer Out                                         1472 IL 05/18/2015 IL2
+05/18/2015 Transfer In                                          1472 NF 05/18/2015 TICF DRIDGE NA
+05/19/2015 Transfer In                                          1471 NF 05/19/2015 TICF DRIDGE NA
+05/20/2015 Transfer Out                                         1235 NF 05/19/2015 ICF
+05/20/2015 Transfer In                                          1893 IL 05/20/2015 IL1  HOME   MOVE
+05/20/2015 Transfer In                                          1894 IL 05/20/2015 IL2  HOME   MOVE
+05/20/2015 Transfer In                                          1235 NF 05/20/2015 ICF  MANOR  DIH
+05/21/2015 Transfer In                                          1471 IL 05/20/2015 IL1  NA     NA
+05/21/2015 Transfer In                                          1472 IL 05/21/2015 IL2  NA     NA
+05/21/2015 Transfer In                                           263 AL 05/21/2015 ALL1 CCARE  MOVE
+05/22/2015 Transfer Out                                         1810 AL 05/20/2015 ALL1
+06/01/2015 Transfer In                                          1441 NF 06/01/2015 TICF MANOR
+06/01/2015 Transfer In                                           802 AL 05/29/2015 RES  MANOR  DIH
+06/01/2015 Transfer In                                          1151 AL 05/31/2015 RES  MANOR  DIH
+06/04/2015 Transfer In                                           805 AL 06/03/2015 RES  GWOOD  DIH
+06/05/2015 Transfer In                                          1441 SL 06/04/2015 SL2B GWOOD  MOVE
+06/05/2015 Transfer In                                          1893 IL 06/05/2015 IL1  DRIDGE MOVE
+06/05/2015 Transfer In                                          1894 IL 06/05/2015 IL2  DRIDGE MOVE
+06/08/2015 Transfer In                                           805 NF 06/08/2015 ICF  CCARE  DIH
+06/08/2015 Transfer Out                                          805 IL 06/06/2015 IL1
+06/08/2015 Transfer In                                           805 AL 06/07/2015 RES  GWOOD  DIH
+06/08/2015 Transfer In                                          1810 AL 06/08/2015 ALL1 MANOR  MOVE
+06/09/2015 Transfer Out                                         1793 IL 06/02/2015 IL2
+06/09/2015 Transfer In                                          1793 NF 06/09/2015 TSNF NA     HOSP
+06/10/2015 Transfer In                                          1792 AL 06/09/2015 RES  GWOOD  DIH
+06/10/2015 Transfer Out                                         1792 IL 06/09/2015 IL1
+06/11/2015 Transfer In                                          1895 AL 06/11/2015 ALL1 HOME   MOVE
+06/12/2015 Transfer Out                                          556 IL 06/11/2015 IL1
+06/14/2015 Transfer In                                           805 NF 06/14/2015 TICF STLUKE HOSP
+06/15/2015 Transfer Out                                         1602 NF 06/12/2015 ICF
+06/15/2015 Transfer In                                           805 NF 06/15/2015 TICF STLUKE HOSP
+06/16/2015 Transfer In                                          1209 AL 06/15/2015 RES  DRIDGE DIH
+06/16/2015 Transfer In                                          1602 NF 06/16/2015 TSNF STLUKE HOSP
+06/17/2015 Transfer In                                          1890 IL 06/17/2015 IL1  HOME   MOVE
+06/17/2015 Transfer In                                          1891 IL 06/17/2015 IL2  HOME   MOVE
+06/22/2015 Transfer In                                           961 AL 06/19/2015 RES  MANOR  DIH
+06/24/2015 Transfer In                                          1902 AL 06/24/2015 ALL1 OTRFAC IIH
+06/24/2015 Transfer In                                          1903 IL 06/24/2015 IL1  HOME   MOVE
+06/25/2015 Transfer In                                          1899 SL 06/25/2015 SL1B HOME   MOVE
+06/25/2015 Transfer In                                          1900 SL 06/25/2015 SL2B HOME   MOVE
+06/25/2015 Transfer Out                                         1861 AL 06/25/2015 ALL2
+06/25/2015 Transfer In                                          1861 NF 06/25/2015 TICF CCARE  DIH
+06/26/2015 Transfer In                                           534 NF 06/26/2015 ICF  STLUKE HOSP
+06/29/2015 Transfer In                                          1901 SL 06/29/2015 SL1B HOME   MOVE
+06/30/2015 Transfer In                                          1905 NF 06/30/2015 TSNF HOME   DIH
+07/01/2015 Transfer In                                           556 AL 06/30/2015 ALL1 CCARE  MOVE
+07/01/2015 Transfer In                                          1904 SL 07/01/2015 SL1B HOME   MOVE
+07/06/2015 Transfer In                                          1847 NF 07/06/2015 ICF  OTRFAC NA
+07/07/2015 Transfer In                                          1861 AL 07/06/2015 ALL2 CCARE  MOVE
+07/07/2015 Transfer In                                          1704 AL 07/07/2015 RES  GWOOD  DIH
+07/08/2015 Transfer In                                          1440 AL 07/07/2015 RES  MANOR  DIH
+07/17/2015 Transfer In                                          1704 AL 07/16/2015 RES  GWOOD  DIH
+07/20/2015 Transfer In                                          1827 NF 07/20/2015 ICF  OTRFAC NA
+07/22/2015 Transfer In                                           805 IL 07/22/2015 IL1  NA     NA
+07/22/2015 Transfer In                                          1302 AL 07/22/2015 RES  DRIDGE DIH
+07/24/2015 Transfer In                                          1906 NF 07/24/2015 TSNF MMCCR  HOSP
+07/26/2015 Transfer Out                                         1771 IL 07/23/2015 IL2
+07/26/2015 Transfer In                                          1771 NF 07/26/2015 TSNF STLUKE HOSP
+07/26/2015 Transfer In                                          1909 NF 07/26/2015 TSNF STLUKE HOSP
+07/28/2015 Transfer In                                          1704 AL 07/23/2015 RES  GWOOD  DIH
+07/28/2015 Transfer In                                          1773 AL 07/23/2015 RES  BVILLG DIH
+07/29/2015 Transfer Out                                         1637 SL 07/29/2015 SL1B
+07/29/2015 Transfer In                                          1637 NF 07/29/2015 TICF MANOR  DIH
+07/31/2015 Transfer In                                          1209 SL 07/30/2015 SL1B DRIDGE MOVE
+07/31/2015 Transfer In                                          1908 SL 07/31/2015 SL1B HOME   MOVE
+08/04/2015 Transfer Out                                         1172 AL 08/03/2015 ALL1
+08/07/2015 Transfer In                                          1172 NF 08/07/2015 TSNF MMCCR
+08/08/2015 Transfer Out                                         1523 IL 07/14/2015 IL1
+08/08/2015 Transfer In                                          1523 NF 08/08/2015 TSNF STLUKE HOSP
+08/10/2015 Transfer Out                                         1298 SL 08/05/2015 SL1B
+08/10/2015 Transfer In                                          1298 NF 08/10/2015 TSNF STLUKE HOSP
+08/10/2015 Transfer In                                          1704 AL 08/09/2015 RES  GWOOD  DIH
+08/11/2015 Transfer In                                          1841 AL 08/10/2015 RES  DRIDGE DIH
+08/12/2015 Transfer In                                          1910 SL 08/12/2015 SL1B HOME   MOVE
+08/12/2015 Transfer In                                          1232 AL 08/12/2015 RES  DRIDGE DIH
+08/12/2015 Transfer In                                          1905 NF 08/12/2015 TSNF HOME   DIH
+08/14/2015 Transfer In                                          1398 NF 08/14/2015 TICF STLUKE DIH
+08/17/2015 Transfer In                                          1841 IL 08/14/2015 IL1  HOME   MOVE
+08/17/2015 Transfer In                                           770 AL 08/14/2015 RES  MANOR  DIH
+08/19/2015 Transfer In                                          1771 IL 08/19/2015 IL2  HOME   MOVE
+08/19/2015 Transfer In                                           805 SL 08/19/2015 SL1B GWOOD  MOVE
+08/21/2015 Transfer In                                          1911 IL 08/20/2015 IL1  HOME   MOVE
+08/21/2015 Transfer In                                          1912 IL 08/20/2015 IL2  HOME   MOVE
+08/21/2015 Transfer Out                                         1827 NF 08/21/2015 ICF
+08/25/2015 Transfer In                                          1827 NF 08/25/2015 TSNF STLUKE HOSP
+08/26/2015 Transfer In                                          1704 AL 08/25/2015 RES  GWOOD  DIH
+08/27/2015 Transfer Out                                         1800 IL 08/26/2015 IL1
+08/27/2015 Transfer In                                          1800 SL 08/26/2015 SL1B DRIDGE MOVE
+08/27/2015 Transfer Out                                         1535 SL 08/26/2015 SL1B
+08/28/2015 Transfer Out                                         1872 AL 08/27/2015 ALR2
+08/28/2015 Transfer In                                          1298 NF 08/28/2015 TSNF STLUKE HOSP
+08/29/2015 Transfer In                                          1872 NF 08/29/2015 TICF UIHC   HOSP
+08/29/2015 Transfer In                                          1535 NF 08/29/2015 TSNF STLUKE HOSP
+08/29/2015 Transfer In                                          1523 IL 08/28/2015 IL1  NA     NA
+08/31/2015 Transfer Out                                         1217 NF 08/28/2015 ICF
+08/31/2015 Transfer In                                          1172 AL 08/28/2015 ALL1 MANOR  DIH
+08/31/2015 Transfer In                                          1872 AL 08/29/2015 RES  UIHC   HOSP
+08/31/2015 Transfer In                                          1872 AL 08/31/2015 ALR2 HOME   MOVE
+09/01/2015 Transfer In                                          1217 NF 09/01/2015 PSNF MMCCR  HOSP
+09/02/2015 Transfer In                                          1704 AL 08/31/2015 ALL1 ARBOR  MOVE
+09/02/2015 Transfer In                                          1914 IL 09/02/2015 IL1  HOME   MOVE
+09/08/2015 Transfer In                                          1637 SL 09/04/2015 SL1B HOME   MOVE
+09/08/2015 Transfer Out                                         1411 SL 09/07/2015 SL1B
+09/11/2015 Transfer Out                                         1808 IL 09/09/2015 IL2
+09/11/2015 Transfer In                                          1808 NF 09/11/2015 TSNF STLUKE HOSP
+09/14/2015 Transfer In                                          1916 IL 09/14/2015 IL1  HOME   MOVE
+09/14/2015 Transfer In                                          1917 IL 09/14/2015 IL2  HOME   MOVE
+09/16/2015 Transfer In                                           730 AL 09/15/2015 RES  BVILLG DIH
+09/16/2015 Transfer In                                          1817 NF 09/16/2015 TSNF MMCCR  HOSP
+09/18/2015 Transfer In                                          1915 SL 09/17/2015 SL1B HOME   MOVE
+09/18/2015 Transfer Out                                          203 IL 09/17/2015 IL1
+09/22/2015 Transfer In                                          1919 AL 09/22/2015 ALL2 HOME   MOVE
+09/23/2015 Transfer In                                          1817 NF 09/23/2015 TSNF MMCCR  HOSP
+09/24/2015 Transfer In                                          1535 AL 09/23/2015 ALL1 MANOR  DIH
+09/24/2015 Transfer In                                          1920 SL 09/24/2015 SL1B HOME   MOVE
+09/24/2015 Transfer In                                          1921 SL 09/24/2015 SL2B HOME   MOVE
+09/29/2015 Transfer In                                           862 SL 09/24/2015 SL1B GWOOD  MOVE
+09/30/2015 Transfer In                                          1924 SL 09/30/2015 SL1B HOME   MOVE
+09/30/2015 Transfer In                                          1925 SL 09/30/2015 SL2B HOME   MOVE
+10/02/2015 Transfer Out                                          862 SL 09/24/2015 SL1B
+10/02/2015 Transfer In                                          1885 AL 10/01/2015 RES  MANOR  DIH
+10/02/2015 Transfer Out                                         1749 IL 09/30/2015 IL2
+10/02/2015 Transfer In                                          1749 NF 10/02/2015 TSNF MMCCR  HOSP
+10/05/2015 Transfer Out                                         1322 IL 09/29/2015 IL1
+10/05/2015 Transfer Out                                         1323 IL 10/03/2015 IL2
+10/05/2015 Transfer In                                          1648 AL 10/02/2015 RES  HOME   DIH
+10/05/2015 Transfer In                                          1927 AL 10/03/2015 ALL1 STLUKE HOSP
+10/06/2015 Transfer Out                                          538 AL 10/06/2015 ALL1
+10/06/2015 Transfer In                                          1334 AL 10/03/2015 RES  DRIDGE DIH
+10/06/2015 Transfer In                                          1929 NF 10/06/2015 TSNF UIHC   HOSP
+10/07/2015 Transfer In                                           203 IL 10/06/2015 IL1  NA     NA
+10/08/2015 Transfer Out                                         1080 AL 10/06/2015 ALL2
+10/08/2015 Transfer In                                          1384 AL 10/06/2015 RES  MANOR  DIH
+10/08/2015 Transfer In                                          1366 AL 10/07/2015 RES  DRIDGE DIH
+10/08/2015 Transfer In                                          1808 IL 10/08/2015 IL2  HOME   MOVE
+10/09/2015 Transfer In                                          1749 IL 10/08/2015 IL2  HOME   MOVE
+10/09/2015 Transfer In                                          1930 NF 10/09/2015 TICF MMCCR  HOSP
+10/09/2015 Transfer In                                          1931 NF 10/09/2015 TSNF NA     HOSP
+10/12/2015 Transfer In                                          1323 IL 10/09/2015 IL2  NA     NA
+10/12/2015 Transfer In                                          1080 AL 10/12/2015 ALL2 MANOR  MOVE
+10/12/2015 Transfer Out                                         1919 AL 10/12/2015 ALL2
+10/12/2015 Transfer In                                          1919 NF 10/12/2015 TICF STLUKE DIH
+10/13/2015 Transfer Out                                         1549 NF 10/12/2015 ICF
+10/13/2015 Transfer Out                                         1080 AL 10/13/2015 ALL2
+10/13/2015 Transfer In                                          1080 NF 10/13/2015 TICF CCARE
+10/13/2015 Transfer Out                                         1768 AL 10/13/2015 ALL1
+10/13/2015 Transfer In                                          1334 AL 10/13/2015 RES  DRIDGE DIH
+10/14/2015 Transfer In                                          1549 NF 10/14/2015 ICF  MMCCR  HOSP
+10/15/2015 Transfer In                                          1768 AL 10/14/2015 ALL1 CCARE  MOVE
+10/15/2015 Transfer In                                           514 AL 10/14/2015 RES  MANOR  DIH
+10/15/2015 Transfer Out                                         1814 SL 10/15/2015 SL2B
+10/15/2015 Transfer In                                          1814 NF 10/15/2015 TICF MANOR  DIH
+10/15/2015 Transfer In                                          1932 NF 10/15/2015 TICF HOME   DIH
+10/19/2015 Transfer Out                                         1927 AL 10/17/2015 RES
+10/19/2015 Transfer In                                          1927 NF 10/19/2015 TICF STLUKE HOSP
+10/21/2015 Transfer Out                                         1234 IL 10/17/2015 IL1
+10/21/2015 Transfer In                                          1234 NF 10/21/2015 TSNF STLUKE HOSP
+10/22/2015 Transfer In                                           613 NF 10/22/2015 ICF  ARBOR  DIH
+10/22/2015 Transfer Out                                         1792 AL 10/22/2015 ALL1
+10/23/2015 Transfer In                                          1322 NF 10/23/2015 TSNF MMCCR  HOSP
+10/26/2015 Transfer In                                          1762 AL 10/22/2015 RES  MANOR  DIH
+10/26/2015 Transfer In                                          1919 AL 10/23/2015 RES  WDLAND DIH
+10/26/2015 Transfer In                                          1818 AL 10/23/2015 RES  DRIDGE DIH
+10/26/2015 Transfer In                                           556 AL 10/23/2015 RES  CCARE  DIH
+10/27/2015 Transfer In                                          1919 AL 10/26/2015 ALL2 HOME   MOVE
+10/27/2015 Transfer Out                                         1768 AL 10/27/2015 ALL1
+10/29/2015 Transfer In                                           556 AL 10/28/2015 ALL1 CCARE  MOVE
+10/29/2015 Transfer Out                                         1455 IL 10/23/2015 IL2
+10/29/2015 Transfer In                                          1455 NF 10/29/2015 TSNF STLUKE HOSP
+10/30/2015 Transfer In                                          1234 AL 10/29/2015 RES  WDLAND DIH
+11/02/2015 Transfer In                                          1768 AL 10/30/2015 ALL1 CCARE  MOVE
+11/02/2015 Transfer Out                                         1834 SL 10/30/2015 SL1B
+11/02/2015 Transfer In                                          1834 NF 11/02/2015 TSNF MMCCR  HOSP
+11/04/2015 Transfer Out                                          729 IL 10/28/2015 IL1
+11/04/2015 Transfer In                                           729 NF 11/04/2015 TSNF STLUKE HOSP
+11/06/2015 Transfer Out                                         1468 IL 11/05/2015 IL2
+11/09/2015 Transfer In                                          1792 AL 11/06/2015 ALL1 GWOOD  DIH
+11/09/2015 Transfer In                                          1350 AL 11/09/2015 RES  BVILLG HOSP
+11/11/2015 Transfer In                                          1322 IL 11/10/2015 IL1  NA     NA
+11/13/2015 Transfer Out                                         1762 SL 11/08/2015 SL1B
+11/13/2015 Transfer In                                          1762 NF 11/13/2015 TSNF MMCCR  HOSP
+11/13/2015 Transfer Out                                         1019 AL 11/13/2015 ALL1
+11/13/2015 Transfer In                                          1019 NF 11/13/2015 ICF  ARBOR  DIH
+11/18/2015 Transfer In                                          1339 AL 11/17/2015 RES  MANOR  DIH
+11/19/2015 Transfer In                                          1366 AL 11/18/2015 RES  DRIDGE DIH
+11/19/2015 Transfer In                                          1935 IL 11/19/2015 IL1  HOME   MOVE
+11/19/2015 Transfer In                                          1936 IL 11/19/2015 IL2  HOME   MOVE
+11/19/2015 Transfer Out                                          585 IL 11/19/2015 IL1
+11/19/2015 Transfer In                                           585 NF 11/19/2015 ICF  MMCCR  HOSP
+11/23/2015 Transfer Out                                         1204 IL 11/16/2015 IL2
+11/23/2015 Transfer In                                          1204 NF 11/23/2015 TSNF UIHC   HOSP
+11/23/2015 Transfer In                                          1938 NF 11/23/2015 ICF  OTRFAC NA
+11/23/2015 Transfer In                                          1455 IL 11/20/2015 IL2  NA     NA
+11/25/2015 Transfer In                                          1219 AL 11/24/2015 RES  GWOOD  DIH
+11/25/2015 Transfer Out                                         1930 NF 11/25/2015 ICF
+11/26/2015 Transfer In                                          1930 NF 11/25/2015 ICF  MMCCR  HOSP
+11/30/2015 Transfer In                                          1366 AL 11/26/2015 RES  DRIDGE DIH
+11/30/2015 Transfer In                                          1940 IL 11/30/2015 IL1  HOME   MOVE
+11/30/2015 Transfer In                                          1937 SL 11/30/2015 SL1R HOME   MOVE
+12/04/2015 Transfer In                                          1204 IL 12/04/2015 IL2  NA     NA
+12/04/2015 Transfer In                                          1941 NF 12/04/2015 TSNF NA     HOSP
+12/04/2015 Transfer Out                                          540 AL 12/04/2015 ALR2
+12/04/2015 Transfer In                                           540 NF 12/04/2015 TICF CCARE  DIH
+12/07/2015 Transfer In                                          1870 NF 12/07/2015 TICF STLUKE HOSP
+12/08/2015 Transfer Out                                         1555 AL 12/05/2015 ALL1
+12/08/2015 Transfer In                                          1555 NF 12/08/2015 TSNF MMCCR  HOSP
+12/08/2015 Transfer In                                          1939 SL 12/08/2015 SL1B HOME   MOVE
+12/09/2015 Transfer In                                          1830 AL 12/08/2015 RES  HPARK  DIH
+12/09/2015 Transfer In                                          1762 AL 12/08/2015 RES  WDLAND IIH
+12/10/2015 Transfer Out                                         1637 SL 12/05/2015 SL1B
+12/10/2015 Transfer In                                          1637 NF 12/10/2015 TSNF STLUKE HOSP
+12/12/2015 Transfer In                                          1942 NF 12/12/2015 TICF HOME   DIH
+12/14/2015 Transfer In                                          1422 AL 12/11/2015 RES  STLUKE HOSP
+12/14/2015 Transfer In                                          1758 AL 12/11/2015 RES  STLUKE HOSP
+12/14/2015 Transfer In                                          1393 AL 12/12/2015 RES  BVILLG DIH
+12/16/2015 Transfer In                                          1555 AL 12/14/2015 ALL1 NA     NA
+12/18/2015 Transfer In                                          1834 SL 12/17/2015 SL1B HOME   MOVE
+12/21/2015 Transfer Out                                         1366 AL 12/18/2015 RES
+12/21/2015 Transfer In                                          1814 AL 12/18/2015 RES  WDLAND IIH
+12/21/2015 Transfer In                                          1769 AL 12/18/2015 RES  GWOOD  DIH
+12/23/2015 Transfer In                                          1943 SL 12/23/2015 SL1B HOME   MOVE
+12/23/2015 Transfer In                                          1944 SL 12/23/2015 SL2B HOME   MOVE
+12/23/2015 Transfer In                                          1945 NF 12/23/2015 TSNF MERIA  HOSP
+12/23/2015 Transfer In                                          1393 NF 12/23/2015 TSNF STLUKE HOSP
+12/24/2015 Transfer In                                          1062 AL 12/23/2015 RES  DRIDGE DIH
+12/25/2015 Transfer In                                          1850 NF 12/25/2015 TSNF STLUKE HOSP
+12/28/2015 Transfer Out                                         1850 IL 12/22/2015 IL1
+12/29/2015 Transfer In                                          1365 AL 12/28/2015 RES  GWOOD  DIH
+12/29/2015 Transfer Out                                         1768 AL 12/28/2015 ALL1
+12/30/2015 Transfer Out                                          991 SL 12/17/2015 SL1B
+12/30/2015 Transfer In                                           991 NF 12/30/2015 TSNF STLUKE HOSP
+12/30/2015 Transfer In                                          1768 NF 12/30/2015 TICF STLUKE HOSP
+12/31/2015 Transfer In                                          1769 AL 12/31/2015 RES  CCARE  DIH
+01/01/2016 Transfer Out                                         1902 AL 12/24/2015 ALL1
+01/01/2016 Transfer In                                          1366 AL 12/31/2015 RES  DRIDGE DIH
+01/04/2016 Transfer In                                          1364 NF 01/04/2016 TSNF UIHC   HOSP
+01/05/2016 Transfer In                                          1949 IL 01/05/2016 IL1  HOME   MOVE
+01/07/2016 Transfer In                                          1769 AL 01/05/2016 ALL1 ARBOR  MOVE
+01/07/2016 Transfer In                                          1669 AL 01/06/2016 RES  STLUKE HOSP
+01/07/2016 Transfer Out                                         1455 IL 01/07/2016 IL2
+01/07/2016 Transfer In                                          1455 NF 01/07/2016 TICF STLUKE HOSP
+01/07/2016 Transfer In                                          1870 SL 01/07/2016 SL1R WDLAND MOVE
+01/08/2016 Transfer In                                          1902 AL 01/07/2016 ALL1 OTRFAC IIH
+01/08/2016 Transfer In                                          1062 AL 01/07/2016 RES  DRIDGE DIH
+01/08/2016 Transfer Out                                          754 AL 01/07/2016 ALR1
+01/08/2016 Transfer In                                          1850 IL 01/07/2016 IL1  HOME   MOVE
+01/08/2016 Transfer In                                           991 NF 01/08/2016 TSNF STLUKE HOSP
+01/11/2016 Transfer In                                          1762 AL 01/08/2016 ALL1 CCARE  DIH
+01/11/2016 Transfer In                                           754 AL 01/08/2016 ALR1 MANOR  DIH
+01/11/2016 Transfer In                                          1947 IL 01/11/2016 IL1  HOME   MOVE
+01/11/2016 Transfer In                                          1948 IL 01/11/2016 IL2  HOME   MOVE
+01/11/2016 Transfer In                                          1704 NF 01/11/2016 ICF  ARBOR  DIH
+01/11/2016 Transfer In                                          1944 NF 01/11/2016 TSNF STLUKE IIH
+01/13/2016 Transfer Out                                         1944 NF 01/12/2016 TSNF
+01/13/2016 Transfer In                                          1384 AL 01/12/2016 RES  MANOR  DIH
+01/14/2016 Transfer In                                          1950 AL 01/14/2016 RES  HOME   DIH
+01/14/2016 Transfer In                                          1882 NF 01/14/2016 ICF  ARBOR  MOVE
+01/14/2016 Transfer In                                          1445 NF 01/14/2016 TSNF STLUKE IIH
+01/15/2016 Transfer Out                                         1204 IL 01/05/2016 IL2
+01/15/2016 Transfer In                                          1204 NF 01/15/2016 TSNF UIHC   HOSP
+01/15/2016 Transfer Out                                         1945 NF 01/15/2016 TSNF
+01/15/2016 Transfer In                                          1791 NF 01/15/2016 ICF  CCARE  DIH
+01/18/2016 Transfer In                                          1814 AL 01/16/2016 RES  MANOR  DIH
+01/18/2016 Transfer In                                          1946 AL 01/18/2016 ALL2 HOME   MOVE
+01/21/2016 Transfer Out                                         1080 NF 01/20/2016 ICF
+01/21/2016 Transfer In                                          1365 NF 01/21/2016 TICF GWOOD  DIH
+01/21/2016 Transfer In                                          1951 NF 01/21/2016 TSNF STLUKE HOSP
+01/22/2016 Transfer In                                          1080 NF 01/22/2016 ICF  STLUKE HOSP
+01/25/2016 Transfer In                                           730 AL 01/24/2016 RES  BVILLG DIH
+01/25/2016 Transfer In                                          1945 NF 01/25/2016 TSNF MMCCR  HOSP
+01/25/2016 Transfer In                                          1847 AL 01/25/2016 ALL1 WDLAND IIH
+01/29/2016 Transfer In                                          1954 NF 01/29/2016 ICF  UIHC   HOSP
+02/03/2016 Transfer In                                          1669 AL 02/02/2016 ALL1 ARBOR  MOVE
+02/03/2016 Transfer In                                           991 AL 02/03/2016 ALL1 WDLAND IIH
+02/05/2016 Transfer In                                          1809 AL 02/04/2016 RES  DRIDGE DIH
+02/05/2016 Transfer Out                                         1540 NF 01/04/2016 ICF
+02/05/2016 Transfer In                                          1540 NF 02/05/2016 ICF  ARBOR  DIH
+02/05/2016 Transfer Out                                         1808 IL 02/03/2016 IL2
+02/05/2016 Transfer In                                          1808 NF 02/05/2016 TSNF STLUKE HOSP
+02/05/2016 Transfer In                                          1952 IL 02/05/2016 IL1  HOME   MOVE
+02/05/2016 Transfer In                                          1953 IL 02/05/2016 IL2  HOME   MOVE
+02/05/2016 Transfer In                                           713 AL 02/05/2016 RES  GWOOD  DIH
+02/05/2016 Transfer In                                          1956 NF 02/05/2016 TICF STLUKE DIH
+02/09/2016 Transfer In                                           730 SL 02/08/2016 SL1B BVILLG MOVE
+02/10/2016 Transfer In                                          1955 NF 02/10/2016 TSNF MMCCR  HOSP
+02/15/2016 Transfer In                                          1638 AL 02/12/2016 RES  MANOR  DIH
+02/16/2016 Transfer Out                                         1287 SL 02/15/2016 SL1R
+02/16/2016 Transfer In                                          1199 AL 02/15/2016 RES  MANOR  DIH
+02/17/2016 Transfer Out                                          991 AL 02/16/2016 ALL2
+02/18/2016 Transfer Out                                         1638 SL 02/17/2016 SL1B
+02/22/2016 Transfer In                                          1638 AL 02/19/2016 RES  STLUKE HOSP
+02/22/2016 Transfer In                                           535 AL 02/19/2016 RES  DRIDGE DIH
+02/22/2016 Transfer In                                          1706 AL 02/20/2016 RES  DRIDGE DIH
+02/23/2016 Transfer In                                           709 AL 02/23/2016 RES  MANOR  DIH
+02/23/2016 Transfer Out                                         1937 SL 02/23/2016 SL1R
+02/23/2016 Transfer Out                                         1809 IL 02/21/2016 IL1
+02/23/2016 Transfer In                                          1809 NF 02/23/2016 TICF STLUKE HOSP
+02/24/2016 Transfer In                                          1808 IL 02/24/2016 IL2  HOME   MOVE
+02/24/2016 Transfer In                                           991 NF 02/24/2016 TSNF STLUKE HOSP
+02/24/2016 Transfer In                                           713 AL 02/24/2016 ALL2 CCARE  MOVE
+02/25/2016 Transfer In                                          1937 AL 02/24/2016 RES  MMCCR  HOSP
+02/25/2016 Transfer In                                          1706 NF 02/25/2016 TSNF STLUKE HOSP
+02/25/2016 Transfer In                                          1287 NF 02/25/2016 TSNF MMCCR  HOSP
+02/26/2016 Transfer Out                                         1768 NF 02/26/2016 TICF
+02/26/2016 Transfer In                                          1445 NF 02/26/2016 TSNF DRIDGE DIH
+02/29/2016 Transfer Out                                         1638 AL 02/29/2016 RES
+02/29/2016 Transfer In                                          1638 NF 02/29/2016 TICF CCARE  NA
+02/29/2016 Transfer In                                          1907 IL 02/26/2016 IL1  MANOR  MOVE
+02/29/2016 Transfer Out                                          709 AL 02/27/2016 RES
+02/29/2016 Transfer Out                                          947 IL 02/24/2016 IL2
+02/29/2016 Transfer In                                           947 NF 02/29/2016 TSNF MMCCR  HOSP
+02/29/2016 Transfer In                                          1768 NF 02/29/2016 TSNF STLUKE
+03/01/2016 Transfer In                                          1959 AL 02/29/2016 RES  HOME   MOVE
+03/01/2016 Transfer In                                          1957 AL 03/01/2016 ALL1 STLUKE DIH
+03/02/2016 Transfer In                                           709 AL 03/01/2016 RES  MANOR  DIH
+03/02/2016 Transfer In                                          1491 SL 03/02/2016 SL1B DRIDGE MOVE
+03/03/2016 Transfer Out                                         1959 AL 03/02/2016 RES
+03/03/2016 Transfer Out                                          545 AL 03/02/2016 ALL2
+03/07/2016 Transfer In                                          1959 AL 03/04/2016 RES  HOME   NA
+03/07/2016 Transfer In                                           545 AL 03/04/2016 ALL2 NA     NA
+03/07/2016 Transfer Out                                         1762 AL 03/06/2016 ALL1
+03/09/2016 Transfer In                                          1960 NF 03/09/2016 TICF MMCCR  HOSP
+03/09/2016 Transfer In                                          1762 NF 03/09/2016 TICF MMCCR  HOSP
+03/10/2016 Transfer In                                           709 AL 03/09/2016 RES  MANOR  DIH
+03/10/2016 Transfer In                                          1706 IL 03/09/2016 IL1  HOME   MOVE
+03/10/2016 Transfer In                                          1287 SL 03/09/2016 SL1R NA     NA
+03/10/2016 Transfer In                                          1809 IL 03/09/2016 IL1  HOME   MOVE
+03/11/2016 Transfer Out                                         1339 SL 02/29/2016 SL1B
+03/11/2016 Transfer In                                          1339 NF 03/11/2016 TICF STLUKE HOSP
+03/14/2016 Transfer In                                          1962 AL 03/12/2016 RES  HOME   DIH
+03/14/2016 Transfer Out                                         1262 AL 03/12/2016 ALL1
+03/15/2016 Transfer In                                          1455 IL 03/15/2016 IL2  NA     NA
+03/18/2016 Transfer In                                           961 AL 03/17/2016 RES  MANOR  DIH
+03/22/2016 Transfer In                                          1262 NF 03/20/2016 TSNF MMCCR  HOSP
+03/22/2016 Transfer Out                                         1287 SL 03/18/2016 SL1R
+03/22/2016 Transfer In                                          1445 IL 03/20/2016 IL2  NA     NA
+03/22/2016 Transfer In                                          1384 AL 03/21/2016 RES  MANOR  DIH
+03/23/2016 Transfer In                                          1287 SL 03/22/2016 SL1R NA     NA
+03/24/2016 Transfer Out                                         1823 SL 03/18/2016 SL1B
+03/24/2016 Transfer In                                          1823 AL 03/23/2016 RES  MMCCR  HOSP
+03/24/2016 Transfer Out                                         1422 SL 03/24/2016 SL1B
+03/24/2016 Transfer In                                          1422 AL 03/24/2016 RES  MANOR  DIH
+03/29/2016 Transfer Out                                         1902 AL 03/28/2016 ALL1
+03/31/2016 Transfer Out                                         1809 IL 03/31/2016 IL1
+03/31/2016 Transfer In                                          1902 AL 03/31/2016 ALL1 OTRFAC IIH
+03/31/2016 Transfer In                                          1823 AL 03/31/2016 ALL1 CCARE  DIH
+04/01/2016 Transfer In                                          1963 NF 04/01/2016 TSNF MMCCR  HOSP
+04/02/2016 Transfer Out                                          709 SL 04/02/2016 SL1B
+04/02/2016 Transfer In                                           709 NF 04/02/2016 TICF MMCCR  HOSP
+04/03/2016 Transfer Out                                         1940 IL 03/22/2016 IL1
+04/03/2016 Transfer In                                          1940 NF 04/03/2016 TICF MMCCR  HOSP
+04/04/2016 Transfer In                                           709 AL 04/01/2016 RES  MANOR  DIH
+04/04/2016 Transfer In                                           709 NF 04/01/2016 TICF MMCCR  HOSP
+04/04/2016 Transfer In                                          1809 NF 04/04/2016 TICF STLUKE HOSP
+04/04/2016 Transfer In                                          1959 AL 04/04/2016 ALL1 CCARE  MOVE
+04/05/2016 Transfer In                                          1965 SL 04/05/2016 SL1B HOME   MOVE
+04/08/2016 Transfer In                                          1966 NF 04/08/2016 TSNF MMCCR  HOSP
+04/08/2016 Transfer Out                                          709 NF 04/08/2016 TICF
+04/09/2016 Transfer In                                          1967 NF 04/09/2016 TSNF MMCCR  HOSP
+04/10/2016 Transfer In                                          1969 NF 04/10/2016 TSNF STLUKE HOSP
+04/11/2016 Transfer In                                          1966 NF 04/11/2016 TSNF MMCCR  HOSP
+04/11/2016 Transfer In                                           709 NF 04/11/2016 TICF MMCCR  HOSP
+04/11/2016 Transfer In                                          1802 AL 04/10/2016 RES  HPARK  DIH
+04/12/2016 Transfer Out                                         1962 AL 04/10/2016 RES
+04/13/2016 Transfer In                                          1962 AL 04/12/2016 RES  HOME   DIH
+04/13/2016 Transfer Out                                         1011 IL 04/07/2016 IL1
+04/13/2016 Transfer In                                          1011 NF 04/13/2016 TSNF STLUKE HOSP
+04/13/2016 Transfer In                                          1870 AL 04/12/2016 RES  MANOR  DIH
+04/15/2016 Transfer In                                          1971 IL 04/14/2016 IL1  HOME   MOVE
+04/15/2016 Transfer In                                          1964 AL 04/15/2016 RES  HOME   MOVE
+04/15/2016 Transfer In                                          1972 NF 04/15/2016 TSNF MMCCR  HOSP
+04/17/2016 Transfer Out                                         1207 SL 04/15/2016 SL1B
+04/18/2016 Transfer Out                                         1758 SL 04/16/2016 SL1B
+04/18/2016 Transfer Out                                         1229 SL 04/17/2016 SL1B
+04/19/2016 Transfer In                                          1964 SL 04/18/2016 SL1B CCARE  MOVE
+04/20/2016 Transfer In                                          1758 AL 04/19/2016 RES  STLUKE DIH
+04/20/2016 Transfer In                                          1229 SL 04/19/2016 SL1B NA     NA
+04/21/2016 Transfer In                                          1207 AL 04/20/2016 RES  MMCCR  HOSP
+04/21/2016 Transfer In                                          1970 NF 04/21/2016 ICF  OTRFAC
+04/25/2016 Transfer In                                          1962 AL 04/23/2016 ALL1 CCARE  MOVE
+04/27/2016 Transfer In                                          1476 NF 04/27/2016 TSNF STLUKE HOSP
+04/28/2016 Transfer Out                                         1962 AL 04/28/2016 ALL2
+04/28/2016 Transfer In                                          1962 NF 04/28/2016 TICF CCARE  DIH
+04/28/2016 Transfer In                                          1973 AL 04/28/2016 ALL1 STLUKE HOSP
+05/02/2016 Transfer In                                          1968 AL 04/28/2016 RES  HOME   DIH
+05/02/2016 Transfer In                                           730 AL 04/29/2016 RES  MANOR  DIH
+05/02/2016 Transfer In                                          1941 SL 05/01/2016 SL1B HOME   MOVE
+05/02/2016 Transfer Out                                          947 IL 04/24/2016 IL2
+05/02/2016 Transfer In                                           947 NF 05/02/2016 TSNF MMCCR  HOSP
+05/03/2016 Transfer In                                          1648 AL 05/02/2016 RES  HOME   DIH
+05/03/2016 Transfer In                                          1974 NF 05/03/2016 TSNF MMCCR  HOSP
+05/03/2016 Transfer Out                                         1350 IL 05/03/2016 IL2
+05/03/2016 Transfer In                                          1350 NF 05/03/2016 TICF STLUKE HOSP
+05/10/2016 Transfer Out                                         1476 IL 05/08/2016 IL1
+05/10/2016 Transfer In                                          1476 AL 05/08/2016 RES  WDLAND IIH
+05/12/2016 Transfer In                                          1350 IL 05/11/2016 IL2  NA     NA
+05/12/2016 Transfer Out                                         1476 AL 05/11/2016 RES
+05/13/2016 Transfer In                                          1975 NF 05/13/2016 TSNF STLUKE HOSP
+05/13/2016 Transfer Out                                         1963 NF 05/12/2016 TSNF
+05/16/2016 Transfer In                                          1011 IL 05/14/2016 IL1  NA     NA
+05/16/2016 Transfer In                                           993 AL 05/15/2016 RES  GWOOD  DIH
+05/16/2016 Transfer In                                          1963 NF 05/16/2016 TSNF MMCCR  HOSP
+05/17/2016 Transfer Out                                         1970 NF 05/16/2016 ICF
+05/17/2016 Transfer In                                          1970 NF 05/17/2016 ICF  MMCCR  HOSP
+05/18/2016 Transfer In                                          1476 AL 05/17/2016 RES  MMCCR  HOSP
+05/19/2016 Transfer In                                          1476 AL 05/19/2016 ALL2 CCARE  MOVE
+05/23/2016 Transfer Out                                         1861 AL 05/20/2016 ALL1
+05/23/2016 Transfer In                                          1861 AL 05/21/2016 ALL1 CCARE  MOVE
+05/23/2016 Transfer In                                          1323 NF 05/23/2016 TICF MERIA  HOSP
+05/24/2016 Transfer Out                                         1766 AL 05/21/2016 ALL1
+05/26/2016 Transfer In                                           947 IL 05/26/2016 IL2  NA     NA
+05/26/2016 Transfer In                                          1766 AL 05/26/2016 ALL1 OTRFAC DIH
+05/26/2016 Transfer In                                          1980 SL 05/26/2016 SL1B HOME   MOVE
+05/27/2016 Transfer In                                           424 AL 05/26/2016 RES  BVILLG DIH
+05/27/2016 Transfer Out                                         1785 AL 05/26/2016 ALL1
+05/27/2016 Transfer In                                          1981 IL 05/27/2016 IL1  HOME   MOVE
+05/27/2016 Transfer In                                          1785 NF 05/27/2016 TSNF STLUKE HOSP
+05/31/2016 Transfer In                                          1979 NF 05/31/2016 TICF OTRFAC NA
+05/31/2016 Transfer In                                          1638 AL 05/28/2016 ALL1 WDLAND MOVE
+05/31/2016 Transfer In                                          1234 AL 05/28/2016 RES  GWOOD  DIH
+06/01/2016 Transfer In                                           993 AL 05/31/2016 ALL1 CCARE  DIH
+06/01/2016 Transfer In                                          1982 IL 06/01/2016 IL1  HOME   MOVE
+06/02/2016 Transfer In                                          1855 AL 06/01/2016 ALL1 MANOR  DIH
+06/02/2016 Transfer Out                                         1271 AL 06/02/2016 ALL2
+06/02/2016 Transfer In                                          1271 NF 06/02/2016 TICF CCARE
+06/03/2016 Transfer Out                                         1234 AL 06/02/2016 RES
+06/03/2016 Transfer In                                          1062 AL 06/03/2016 ALL1 DRIDGE MOVE
+06/03/2016 Transfer Out                                         1062 IL 06/03/2016 IL1
+06/05/2016 Transfer In                                          1934 NF 06/05/2016 TSNF STLUKE HOSP
+06/06/2016 Transfer In                                          1234 AL 06/05/2016 RES  GWOOD  DIH
+06/07/2016 Transfer In                                          1454 AL 06/06/2016 ALL1 DRIDGE DIH
+06/07/2016 Transfer In                                          1455 AL 06/06/2016 RES  ARBOR  DIH
+06/08/2016 Transfer In                                          1706 AL 06/07/2016 RES  DRIDGE DIH
+06/09/2016 Transfer In                                           730 SL 06/08/2016 SL1B BVILLG MOVE
+06/09/2016 Transfer Out                                         1706 AL 06/08/2016 RES
+06/09/2016 Transfer In                                          1984 IL 06/09/2016 IL1  HOME   MOVE
+06/10/2016 Transfer In                                          1323 NF 06/10/2016 TSNF MMCCR  HOSP
+06/10/2016 Transfer In                                          1706 NF 06/10/2016 TSNF STLUKE HOSP
+06/13/2016 Transfer In                                           424 AL 06/12/2016 RES  BVILLG DIH
+06/14/2016 Transfer In                                          1872 NF 06/14/2016 TSNF UIHC   HOSP
+06/15/2016 Transfer In                                          1722 AL 06/15/2016 RES  HOME   DIH
+06/15/2016 Transfer Out                                         1722 AL 06/15/2016 RES
+06/15/2016 Transfer In                                          1722 NF 06/15/2016 TICF CCARE  NA
+06/16/2016 Transfer In                                          1468 AL 06/14/2016 RES  BVILLG DIH
+06/16/2016 Transfer Out                                         1758 AL 06/16/2016 RES
+06/16/2016 Transfer In                                          1758 NF 06/16/2016 ICF  CCARE  DIH
+06/16/2016 Transfer In                                          1988 NF 06/16/2016 TICF STLUKE HOSP
+06/17/2016 Transfer Out                                         1491 SL 06/16/2016 SL1B
+06/17/2016 Transfer Out                                         1722 NF 06/17/2016 TICF
+06/17/2016 Transfer In                                          1722 NF 06/17/2016 TICF CCARE  NA
+06/20/2016 Transfer In                                          1491 SL 06/17/2016 SL1B DRIDGE MOVE
+06/21/2016 Transfer In                                          1454 AL 06/17/2016 ALL1 ARBOR  DIH
+06/21/2016 Transfer In                                          1455 AL 06/17/2016 ALL1 ARBOR  DIH
+06/27/2016 Transfer Out                                         1919 AL 06/26/2016 ALL2
+06/27/2016 Transfer In                                          1989 IL 06/27/2016 IL1  HOME   MOVE
+06/27/2016 Transfer In                                          1990 IL 06/27/2016 IL2  HOME   MOVE
+06/27/2016 Transfer In                                          1870 AL 06/27/2016 RES  MANOR  DIH
+06/27/2016 Transfer Out                                         1199 SL 06/26/2016 SL1B
+06/28/2016 Transfer Out                                          709 NF 06/26/2016 ICF
+06/28/2016 Transfer In                                          1993 IL 06/25/2016 IL1  HOME   MOVE
+06/28/2016 Transfer In                                          1531 AL 06/27/2016 RES  BVILLG DIH
+06/29/2016 Transfer In                                          1919 AL 06/28/2016 ALL2 HOME   MOVE
+06/29/2016 Transfer In                                           709 NF 06/29/2016 TSNF STLUKE HOSP
+07/01/2016 Transfer In                                          1323 NF 07/01/2016 TSNF UIHC   HOSP
+07/01/2016 Transfer In                                          1955 AL 06/30/2016 RES  WDLAND IIH
+07/01/2016 Transfer In                                          1229 AL 06/30/2016 RES  MANOR  DIH
+07/01/2016 Transfer In                                           532 AL 07/01/2016 RES  DRIDGE DIH
+07/05/2016 Transfer In                                          1706 AL 07/01/2016 RES  WDLAND IIH
+07/05/2016 Transfer In                                          1955 AL 07/02/2016 ALL2 CCARE  MOVE
+07/05/2016 Transfer Out                                         1476 AL 07/04/2016 ALL2
+07/07/2016 Transfer In                                          1476 NF 07/07/2016 TSNF STLUKE HOSP
+07/08/2016 Transfer In                                          1234 AL 07/07/2016 ALL2 GWOOD  MOVE
+07/08/2016 Transfer Out                                         1919 AL 07/07/2016 ALL2
+07/08/2016 Transfer In                                          1870 AL 07/08/2016 ALL2 MANOR  DIH
+07/08/2016 Transfer In                                          1985 AL 07/08/2016 RES  HOME   DIH
+07/11/2016 Transfer In                                           426 SL 07/08/2016 SL1B BVILLG MOVE
+07/11/2016 Transfer In                                          1997 AL 07/11/2016 RES  HOME   DIH
+07/12/2016 Transfer In                                          1919 NF 07/12/2016 TSNF STLUKE HOSP
+07/12/2016 Transfer Out                                         1984 IL 07/07/2016 IL1
+07/12/2016 Transfer In                                          1984 NF 07/12/2016 TSNF STLUKE HOSP
+07/15/2016 Transfer Out                                         1819 IL 07/15/2016 IL1
+07/15/2016 Transfer In                                          1819 AL 07/15/2016 RES  GWOOD  DIH
+07/18/2016 Transfer In                                          2001 IL 07/15/2016 IL1  HOME   MOVE
+07/18/2016 Transfer In                                          2002 IL 07/15/2016 IL2  HOME   MOVE
+07/18/2016 Transfer In                                          1872 AL 07/15/2016 ALR1 HOME   MOVE
+07/18/2016 Transfer Out                                         1870 AL 07/16/2016 ALL2
+07/18/2016 Transfer In                                           424 SL 07/18/2016 SL1B BVILLG MOVE
+07/19/2016 Transfer In                                           532 NF 07/19/2016 ICF  MMCCR  HOSP
+07/19/2016 Transfer In                                          1375 NF 07/19/2016 TICF MMCCR  HOSP
+07/19/2016 Transfer In                                           730 AL 07/18/2016 RES  MANOR  DIH
+07/19/2016 Transfer In                                          1999 SL 07/19/2016 SL1B HOME   MOVE
+07/20/2016 Transfer In                                          1870 NF 07/20/2016 TSNF MMCCR  HOSP
+07/21/2016 Transfer Out                                         1631 AL 07/19/2016 ALL1
+07/21/2016 Transfer In                                          1323 NF 07/21/2016 TSNF MMCCR  HOSP
+07/21/2016 Transfer In                                          1919 NF 07/21/2016 TSNF MMCCR  HOSP
+07/21/2016 Transfer In                                          2003 NF 07/21/2016 TICF OTRFAC HOSP
+07/21/2016 Transfer In                                          1631 AL 07/21/2016 ALL1 WDLAND MOVE
+07/22/2016 Transfer In                                          1375 AL 07/21/2016 RES  MANOR  IIH
+07/25/2016 Transfer In                                          1375 AL 07/25/2016 RES  MANOR  DIH
+07/27/2016 Transfer In                                          1229 AL 07/26/2016 RES  MANOR  DIH
+07/29/2016 Transfer In                                          2005 IL 07/29/2016 IL1  HOME   MOVE
+07/29/2016 Transfer In                                          2006 IL 07/29/2016 IL2  HOME   MOVE
+08/03/2016 Transfer In                                          1407 AL 08/02/2016 RES  MANOR  DIH
+08/03/2016 Transfer In                                          2007 AL 08/03/2016 ALL1 OTRFAC IIH
+08/04/2016 Transfer In                                          1706 AL 08/03/2016 ALL2 CCARE  MOVE
+08/08/2016 Transfer Out                                         1621 NF 08/07/2016 ICF
+08/09/2016 Transfer In                                          1166 AL 08/09/2016 RES  DRIDGE DIH
+08/10/2016 Transfer Out                                         1365 NF 08/09/2016 ICF
+08/11/2016 Transfer In                                          1365 NF 08/11/2016 ICF  GWOOD  HOSP
+08/12/2016 Transfer Out                                         1501 AL 08/11/2016 ALL2
+08/13/2016 Transfer In                                          1621 NF 08/13/2016 TSNF MMCCR  HOSP
+08/15/2016 Transfer In                                          1501 NF 08/15/2016 TICF MMCCR  HOSP
+08/16/2016 Transfer In                                          2009 AL 08/16/2016 ALL1 HOME   DIH
+08/17/2016 Transfer In                                          1993 IL 08/16/2016 IL1  DRIDGE MOVE
+08/17/2016 Transfer In                                          2010 IL 08/16/2016 IL2  HOME   MOVE
+08/17/2016 Transfer In                                          1407 AL 08/16/2016 RES  MANOR  DIH
+08/19/2016 Transfer In                                          1699 AL 08/17/2016 RES  GWOOD  DIH
+08/19/2016 Transfer In                                          1699 IL 08/19/2016 IL1  HOME   MOVE
+08/22/2016 Transfer Out                                         1959 AL 08/18/2016 ALL1
+08/22/2016 Transfer In                                          1959 AL 08/20/2016 ALL1 CCARE  MOVE
+08/22/2016 Transfer In                                          2011 IL 08/22/2016 IL1  HOME   MOVE
+08/22/2016 Transfer In                                          2012 IL 08/22/2016 IL2  HOME   MOVE
+08/23/2016 Transfer Out                                          540 NF 08/22/2016 ICF
+08/23/2016 Transfer In                                           540 NF 08/23/2016 ICF  MMCCR  HOSP
+08/24/2016 Transfer In                                          1984 IL 08/23/2016 IL1  HOME   MOVE
+08/25/2016 Transfer Out                                         1870 NF 08/25/2016 TSNF
+08/26/2016 Transfer Out                                          545 AL 08/26/2016 ALL2
+08/26/2016 Transfer In                                           545 NF 08/26/2016 ICF  CCARE  DIH
+08/29/2016 Transfer In                                          2015 AL 08/29/2016 ALL1 STLUKE MOVE
+08/29/2016 Transfer Out                                         1151 SL 08/27/2016 SL1B
+08/29/2016 Transfer In                                          1985 AL 08/29/2016 ALL1 CCARE  MOVE
+08/29/2016 Transfer In                                          1151 NF 08/29/2016 TSNF MMCCR  HOSP
+08/31/2016 Transfer In                                          1870 NF 08/31/2016 ICF  MMCCR  HOSP
+09/01/2016 Transfer In                                          2016 SL 09/01/2016 SL1B HOME   MOVE
+09/01/2016 Transfer In                                          2013 IL 09/01/2016 IL1  HOME   MOVE
+09/01/2016 Transfer In                                          2014 IL 09/01/2016 IL2  HOME   MOVE
+09/02/2016 Transfer In                                          2018 AL 09/02/2016 ALL1 MMCCR  HOSP
+09/03/2016 Transfer Out                                         1706 AL 09/03/2016 ALL2
+09/03/2016 Transfer In                                          1706 AL 09/02/2016 ALL2 CCARE  MOVE
+09/06/2016 Transfer In                                          2017 NF 09/06/2016 TSNF STLUKE HOSP
+09/08/2016 Transfer In                                          1699 AL 09/07/2016 RES  GWOOD  DIH
+09/12/2016 Transfer In                                          1705 AL 09/09/2016 RES  GWOOD  DIH
+09/12/2016 Transfer Out                                         1955 AL 09/11/2016 ALR1
+09/13/2016 Transfer In                                          1169 AL 09/12/2016 RES  DRIDGE DIH
+09/15/2016 Transfer In                                          1886 AL 09/14/2016 RES  STLUKE HOSP
+09/16/2016 Transfer Out                                          405 SL 09/15/2016 SL1B
+09/16/2016 Transfer In                                          1955 NF 09/16/2016 ICF  MMCCR  HOSP
+09/19/2016 Transfer In                                          1919 AL 09/16/2016 ALL2 HOME   MOVE
+09/19/2016 Transfer In                                          1773 NF 09/19/2016 TSNF STLUKE HOSP
+09/20/2016 Transfer In                                           405 NF 09/20/2016 TICF MMCCR  HOSP
+09/21/2016 Transfer Out                                         1800 SL 09/18/2016 SL1B
+09/21/2016 Transfer In                                          2021 NF 09/21/2016 ICF  STLUKE HOSP
+09/23/2016 Transfer Out                                         1734 AL 09/21/2016 ALL2
+09/23/2016 Transfer In                                          2018 AL 09/22/2016 ALL2 CCARE  MOVE
+09/23/2016 Transfer In                                          2020 AL 09/23/2016 ALL2 HOME   MOVE
+09/23/2016 Transfer In                                          2019 AL 09/23/2016 RES  HOME   MOVE
+09/26/2016 Transfer In                                          1734 AL 09/24/2016 ALL2 HOME   MOVE
+09/27/2016 Transfer In                                          1985 NF 09/27/2016 ICF  ARBOR  DIH
+09/27/2016 Transfer Out                                         1166 IL 09/27/2016 IL1
+09/27/2016 Transfer In                                          1166 NF 09/27/2016 TICF STLUKE DIH
+09/28/2016 Transfer In                                          1773 IL 09/28/2016 IL1  HOME   MOVE
+09/28/2016 Transfer In                                          2024 NF 09/28/2016 TSNF UIHC   HOSP
+09/30/2016 Transfer Out                                         1706 AL 09/30/2016 ALL2
+09/30/2016 Transfer In                                          1706 NF 09/30/2016 TSNF STLUKE DIH
+10/04/2016 Transfer Out                                         1704 NF 10/03/2016 ICF
+10/04/2016 Transfer In                                          2022 SL 10/03/2016 SL1B HOME   MOVE
+10/05/2016 Transfer In                                          1910 AL 10/04/2016 RES  MANOR  DIH
+10/05/2016 Transfer In                                          1704 NF 10/05/2016 ICF  ARBOR  DIH
+10/07/2016 Transfer In                                          2017 NF 10/07/2016 TSNF MMCCR  HOSP
+10/11/2016 Transfer In                                          1625 AL 10/10/2016 RES  HOME   DIH
+10/11/2016 Transfer In                                          1169 AL 10/10/2016 RES  DRIDGE DIH
+10/11/2016 Transfer Out                                         2019 AL 10/10/2016 ALL2
+10/12/2016 Transfer In                                          2019 NF 10/12/2016 TICF MMCCR  HOSP
+10/13/2016 Transfer In                                          1151 SL 10/11/2016 SL1B DRIDGE MOVE
+10/18/2016 Transfer Out                                         1768 NF 10/17/2016 ICF
+10/19/2016 Transfer In                                          1768 NF 10/19/2016 ICF  STLUKE HOSP
+10/20/2016 Transfer In                                           405 AL 10/19/2016 RES  WDLAND
+10/20/2016 Transfer In                                          1010 NF 10/20/2016 TICF STLUKE NA
+10/21/2016 Transfer In                                          2026 IL 10/21/2016 IL1  HOME   MOVE
+10/21/2016 Transfer In                                          2027 IL 10/21/2016 IL2  HOME   MOVE
+10/21/2016 Transfer In                                          1771 NF 10/21/2016 TSNF STLUKE HOSP
+10/23/2016 Transfer Out                                         1795 IL 10/20/2016 IL1
+10/23/2016 Transfer In                                          1795 AL 10/21/2016 RES  STLUKE HOSP
+10/23/2016 Transfer In                                           862 AL 10/21/2016 RES  MANOR  DIH
+10/23/2016 Transfer Out                                         1323 IL 10/23/2016 IL2
+10/24/2016 Transfer Out                                         1637 NF 10/22/2016 ICF
+10/26/2016 Transfer In                                          2024 AL 10/25/2016 RES  WDLAND IIH
+10/26/2016 Transfer In                                          1323 NF 10/26/2016 TSNF MMCCR  HOSP
+10/26/2016 Transfer Out                                         1734 AL 10/26/2016 ALL2
+10/26/2016 Transfer In                                          1637 NF 10/26/2016 TSNF STLUKE HOSP
+10/26/2016 Transfer In                                          1734 NF 10/26/2016 ICF  CCARE  DIH
+10/27/2016 Transfer In                                          2028 IL 10/27/2016 IL1  HOME   MOVE
+11/04/2016 Transfer Out                                         2004 NF 11/03/2016 TICF
+11/04/2016 Transfer In                                          1771 IL 11/03/2016 IL2  HOME   MOVE
+11/04/2016 Transfer Out                                          578 AL 11/04/2016 ALL1
+11/06/2016 Transfer In                                          2004 NF 11/06/2016 TSNF UIHC   HOSP
+11/07/2016 Transfer In                                           578 AL 11/06/2016 ALL1 DRIDGE MOVE
+11/07/2016 Transfer In                                          2029 IL 11/07/2016 IL1  HOME   MOVE
+11/07/2016 Transfer In                                          2032 AL 11/07/2016 ALL1 HOME   MOVE
+11/08/2016 Transfer In                                          1010 AL 11/07/2016 RES  WDLAND IIH
+11/10/2016 Transfer In                                          2033 NF 11/10/2016 TSNF STLUKE HOSP
+11/15/2016 Transfer In                                          1170 NF 11/15/2016 TICF STLUKE HOSP
+11/16/2016 Transfer Out                                         1170 IL 11/09/2016 IL2
+11/16/2016 Transfer In                                          2034 IL 11/16/2016 IL1  HOME   MOVE
+11/17/2016 Transfer In                                          1964 AL 11/17/2016 RES  MANOR  DIH
+11/18/2016 Transfer In                                          2035 NF 11/18/2016 TICF STLUKE HOSP
+11/21/2016 Transfer In                                           405 AL 11/19/2016 ALL2 MANOR  MOVE
+11/21/2016 Transfer In                                          1170 IL 11/19/2016 IL2  NA     NA
+11/21/2016 Transfer Out                                         1494 AL 11/20/2016 ALL1
+11/21/2016 Transfer In                                          1494 AL 11/21/2016 ALL1 NA     NA
+11/25/2016 Transfer Out                                         1445 IL 11/18/2016 IL2
+11/25/2016 Transfer In                                          1445 NF 11/25/2016 TICF STLUKE HOSP
+11/27/2016 Transfer In                                          2036 IL 11/22/2016 IL1  HOME   MOVE
+11/29/2016 Transfer Out                                         1438 SL 11/21/2016 SL2B
+11/29/2016 Transfer In                                          1438 NF 11/29/2016 TSNF STLUKE HOSP
+11/30/2016 Transfer Out                                         1472 IL 11/24/2016 IL2
+11/30/2016 Transfer In                                          1472 NF 11/30/2016 TSNF STLUKE HOSP
+12/02/2016 Transfer In                                          2040 NF 12/02/2016 TSNF UIHC   HOSP
+12/02/2016 Transfer In                                          2038 NF 12/02/2016 TSNF STLUKE HOSP
+12/02/2016 Transfer In                                          2039 SL 12/02/2016 SL1B HOME   MOVE
+12/06/2016 Transfer Out                                         2025 AL 12/05/2016 ALL2
+12/06/2016 Transfer In                                          2025 AL 12/06/2016 ALL2 HOME
+12/08/2016 Transfer In                                           424 AL 12/07/2016 RES  MANOR  DIH
+12/09/2016 Transfer Out                                         2025 AL 12/09/2016 ALL2
+12/09/2016 Transfer In                                          2025 NF 12/09/2016 TICF CCARE  DIH
+12/10/2016 Transfer Out                                         1471 IL 12/09/2016 IL1
+12/10/2016 Transfer In                                          1471 NF 12/10/2016 TICF STLUKE HOSP
+12/12/2016 Transfer In                                          2030 IL 12/09/2016 IL1  HOME   MOVE
+12/12/2016 Transfer In                                          2031 IL 12/09/2016 IL2  HOME   MOVE
+12/12/2016 Transfer In                                           699 AL 12/12/2016 RES  MANOR  DIH
+12/13/2016 Transfer In                                          1305 AL 12/12/2016 RES  MANOR  DIH
+12/13/2016 Transfer In                                           699 SL 12/13/2016 SL1B BVILLG MOVE
+12/15/2016 Transfer In                                          1471 IL 12/14/2016 IL1  NA     NA
+12/16/2016 Transfer In                                          2038 NF 12/16/2016 TSNF STLUKE DIH
+12/19/2016 Transfer In                                          1709 AL 12/18/2016 RES  MANOR  DIH
+12/19/2016 Transfer In                                          1337 NF 12/19/2016 TICF ARBOR  DIH
+12/19/2016 Transfer In                                          1445 NF 12/19/2016 TICF STLUKE HOSP
+12/20/2016 Transfer In                                          2042 NF 12/20/2016 TSNF STLUKE HOSP
+12/22/2016 Transfer In                                          1940 NF 12/22/2016 TSNF STLUKE
+12/23/2016 Transfer In                                          1439 AL 12/22/2016 RES  MANOR  DIH
+12/23/2016 Transfer Out                                         1556 IL 12/21/2016 IL1
+12/23/2016 Transfer In                                          1556 NF 12/23/2016 TICF STLUKE HOSP
+12/27/2016 Transfer Out                                          754 AL 12/27/2016 ALR1
+12/27/2016 Transfer In                                           754 NF 12/27/2016 TICF CCARE  DIH
+12/28/2016 Transfer In                                          1625 AL 12/27/2016 ALR2 CCARE  MOVE
+12/28/2016 Transfer Out                                         1709 SL 12/21/2016 SL1B
+12/28/2016 Transfer In                                          1709 NF 12/28/2016 TSNF MMCCR  HOSP
+12/29/2016 Transfer In                                          1305 AL 12/28/2016 RES  MANOR  DIH
+12/30/2016 Transfer Out                                         1973 AL 12/29/2016 ALL1
+12/31/2016 Transfer Out                                         1300 IL 01/03/2017 IL2
+12/31/2016 Transfer Out                                          540 NF 12/30/2016 ICF
+12/31/2016 Transfer In                                           540 NF 12/30/2016 ICF  MMCCR  HOSP
+01/01/2017 Transfer Out                                         1769 AL 01/01/2017 ALL1
+01/03/2017 Transfer In                                           540 NF 12/31/2016 ICF  MMCCR  HOSP
+01/03/2017 Transfer In                                          1973 AL 01/02/2017 ALL1 STLUKE HOSP
+01/03/2017 Transfer In                                          1300 NF 01/02/2017 TICF DRIDGE DIH
+01/03/2017 Transfer In                                          1813 NF 01/03/2016 TICF GWOOD  DIH
+01/04/2017 Transfer In                                          1769 NF 01/04/2017 TSNF STLUKE HOSP
+01/06/2017 Transfer In                                          1697 NF 01/06/2017 TSNF STLUKE HOSP
+01/09/2017 Transfer In                                          2006 NF 01/09/2017 TICF GWOOD  DIH
+01/09/2017 Transfer In                                          2046 NF 01/09/2017 TSNF MMCCR  HOSP
+01/10/2017 Transfer In                                          2038 NF 01/10/2017 TSNF HOME   DIH
+01/11/2017 Transfer In                                          1472 IL 01/06/2017 IL2  NA     NA
+01/11/2017 Transfer In                                          1813 IL 01/09/2017 IL1  HOME   MOVE
+01/11/2017 Transfer Out                                         1872 AL 01/09/2017 ALR2
+01/13/2017 Transfer In                                          1965 NF 01/13/2017 TICF STLUKE HOSP
+01/13/2017 Transfer In                                          2044 SL 01/13/2017 SL1B HOME   MOVE
+01/13/2017 Transfer In                                          1872 NF 01/13/2017 TSNF STLUKE HOSP
+01/15/2017 Transfer In                                           514 AL 01/14/2017 RES  MANOR  DIH
+01/17/2017 Transfer In                                          1144 AL 01/16/2017 RES  DRIDGE DIH
+01/17/2017 Transfer In                                           859 AL 01/16/2017 RES  MMCCR  HOSP
+01/17/2017 Transfer In                                          1709 NF 01/17/2017 TSNF MMCCR  HOSP
+01/19/2017 Transfer In                                          2047 SL 01/19/2017 SL1B HOME   MOVE
+01/19/2017 Transfer In                                          2048 NF 01/19/2017 TSNF STLUKE HOSP
+01/19/2017 Transfer In                                           696 AL 01/19/2017 RES  GWOOD  DIH
+01/19/2017 Transfer Out                                         2046 NF 01/19/2017 TSNF
+01/24/2017 Transfer In                                          1352 NF 01/24/2017 ICF  ARBOR  DIH
+01/24/2017 Transfer In                                          1556 AL 01/24/2017 ALL1 WDLAND MOVE
+01/25/2017 Transfer In                                          1925 AL 01/24/2017 RES  MANOR  DIH
+01/25/2017 Transfer In                                          2046 NF 01/25/2017 TSNF MMCCR  HOSP
+01/25/2017 Transfer In                                          2042 AL 01/25/2017 ALL1 WDLAND IIH
+01/26/2017 Transfer In                                          1765 AL 01/25/2017 RES  BVILLG DIH
+01/27/2017 Transfer Out                                         1765 AL 01/27/2017 RES
+01/27/2017 Transfer In                                          1765 NF 01/27/2017 TICF CCARE  DIH
+01/30/2017 Transfer In                                          1819 NF 01/30/2017 ICF  ARBOR  DIH
+01/30/2017 Transfer Out                                         1472 IL 01/30/2017 IL2
+01/30/2017 Transfer In                                          1472 NF 01/30/2017 TICF DRIDGE DIH
+01/30/2017 Transfer In                                          1924 NF 01/30/2017 TSNF STLUKE HOSP
+01/30/2017 Transfer Out                                         1841 IL 01/25/2017 IL1
+01/30/2017 Transfer In                                          1841 NF 01/30/2017 TSNF MMCCR  HOSP
+01/31/2017 Transfer In                                          1925 AL 01/31/2017 RES  CCARE  NA
+02/01/2017 Transfer In                                          2040 NF 02/01/2017 TSNF STLUKE HOSP
+02/02/2017 Transfer In                                          2051 IL 02/01/2017 IL1  HOME   MOVE
+02/03/2017 Transfer In                                          1349 NF 02/03/2017 SN   MMCCR  HOSP
+02/03/2017 Transfer In                                           514 AL 02/02/2017 ALL2 CCARE  DIH
+02/03/2017 Transfer In                                          2050 SL 02/03/2017 SL1B HOME   MOVE
+02/05/2017 Transfer Out                                          770 SL 02/04/2017 SL1R
+02/06/2017 Transfer In                                          2049 NF 02/06/2017 ICF  HOME   DIH
+02/07/2017 Transfer In                                          1984 NF 02/07/2017 TSNF UIHC   HOSP
+02/09/2017 Transfer Out                                         1966 NF 02/08/2017 ICF
+02/10/2017 Transfer In                                          1966 NF 02/10/2017 ICF  MMCCR  HOSP
+02/12/2017 Transfer Out                                         1349 NF 02/11/2017 TSNF
+02/15/2017 Transfer Out                                         2015 AL 02/14/2017 ALL1
+02/15/2017 Transfer In                                          1349 NF 02/14/2017 TICF MMCCR  NA
+02/16/2017 Transfer In                                          2015 AL 02/15/2017 ALL1 STLUKE MOVE
+02/21/2017 Transfer Out                                         1810 AL 02/20/2017 ALL1
+02/22/2017 Transfer In                                          1841 IL 02/21/2017 IL1  HOME   MOVE
+02/23/2017 Transfer In                                          2040 AL 02/23/2017 RES  WDLAND IIH
+02/24/2017 Transfer In                                          1810 NF 02/24/2017 TSNF MMCCR  HOSP
+02/24/2017 Transfer In                                           730 AL 02/24/2017 RES  MANOR  DIH
+02/27/2017 Transfer Out                                         1973 AL 02/25/2017 ALL1
+02/27/2017 Transfer In                                          1765 NF 02/27/2017 TSNF STLUKE HOSP
+03/03/2017 Transfer Out                                          514 AL 03/02/2017 ALL2
+03/03/2017 Transfer In                                           730 NF 03/03/2017 TICF CCARE  DIH
+03/03/2017 Transfer In                                          1349 NF 03/03/2017 TSNF MMCCR  HOSP
+03/08/2017 Transfer In                                          2055 IL 03/06/2017 IL1  HOME   MOVE
+03/10/2017 Transfer Out                                         1966 NF 03/09/2017 ICF
+03/10/2017 Transfer In                                          1984 IL 03/08/2017 IL1  HOME   MOVE
+03/10/2017 Transfer In                                          2054 IL 03/01/2017 IL1  HOME   MOVE
+03/12/2017 Transfer In                                          1966 NF 03/12/2017 ICF  MMCCR  HOSP
+03/13/2017 Transfer In                                          2057 NF 03/13/2017 TSNF STLUKE HOSP
+03/13/2017 Transfer In                                          1557 AL 03/13/2017 ALL1 BVILLG MOVE
+03/16/2017 Transfer In                                          2059 NF 03/16/2017 TSNF NA     HOSP
+03/17/2017 Transfer In                                           770 AL 03/14/2017 RES  WDLAND IIH
+03/17/2017 Transfer Out                                         2006 IL 03/14/2017 IL2
+03/17/2017 Transfer In                                          2006 NF 03/17/2017 TICF STLUKE HOSP
+03/17/2017 Transfer In                                          1939 SL 03/16/2017 SL1B MANOR  MOVE
+03/20/2017 Transfer In                                           770 AL 03/17/2017 ALL2 CCARE  MOVE
+03/21/2017 Transfer In                                          2060 IL 03/20/2017 IL1  HOME   MOVE
+03/22/2017 Transfer In                                          2056 IL 03/22/2017 IL2  HOME   MOVE
+03/22/2017 Transfer In                                          1841 NF 03/22/2017 TSNF HOME   DIH
+03/23/2017 Transfer In                                          2029 NF 03/23/2017 TICF STLUKE HOSP
+03/24/2017 Transfer In                                          2061 NF 03/24/2017 TSNF STLUKE HOSP
+03/27/2017 Transfer Out                                         1966 NF 03/27/2017 ICF
+03/29/2017 Transfer In                                          2057 NF 03/29/2017 TSNF MMCCR  HOSP
+03/29/2017 Transfer In                                          1910 NF 03/29/2017 TSNF STLUKE HOSP
+03/30/2017 Transfer In                                          1444 NF 03/30/2017 TSNF MMCCR  HOSP
+03/31/2017 Transfer In                                          1966 NF 03/31/2017 ICF  MMCCR  HOSP
+04/03/2017 Transfer In                                          1333 AL 04/02/2017 RES  DRIDGE DIH
+04/04/2017 Transfer Out                                         1910 NF 04/03/2017 TSNF
+04/05/2017 Transfer In                                          2062 NF 04/05/2017 TSNF STLUKE HOSP
+04/05/2017 Transfer In                                          1910 NF 04/05/2017 TSNF MMCCR  HOSP
+04/06/2017 Transfer In                                          2052 IL 04/06/2017 IL2  HOME   MOVE
+04/07/2017 Transfer In                                          1333 NF 04/07/2017 TICF STLUKE HOSP
+04/08/2017 Transfer Out                                         1791 NF 04/07/2017 ICF
+04/10/2017 Transfer In                                          1791 NF 04/10/2017 ICF  MMCCR  HOSP
+04/12/2017 Transfer Out                                         2025 AL 04/11/2017 ALL1
+04/14/2017 Transfer In                                           802 AL 04/13/2017 RES  MANOR  DIH
+04/14/2017 Transfer In                                          1841 IL 04/14/2017 IL1  HOME   MOVE
+04/15/2017 Transfer In                                          2025 NF 04/15/2017 TSNF UIHC   HOSP
+04/17/2017 Transfer Out                                         1625 AL 04/14/2017 ALR2
+04/17/2017 Transfer In                                          2029 IL 04/15/2017 IL1  HOME   MOVE
+04/17/2017 Transfer In                                          1625 NF 04/17/2017 TICF MMCCR  HOSP
+04/17/2017 Transfer Out                                         2059 NF 04/17/2017 TSNF
+04/18/2017 Transfer In                                          2059 NF 04/18/2017 TICF MMCCR  HOSP
+04/20/2017 Transfer Out                                         2062 NF 04/20/2017 TSNF
+04/21/2017 Transfer In                                          2001 AL 04/20/2017 RES  DRIDGE DIH
+04/21/2017 Transfer Out                                         1765 NF 04/20/2017 TSNF
+04/22/2017 Transfer Out                                         1859 IL 04/16/2017 IL1
+04/22/2017 Transfer In                                          1859 NF 04/22/2017 TSNF STLUKE HOSP
+04/24/2017 Transfer In                                          1773 AL 04/22/2017 RES  STLUKE DIH
+04/25/2017 Transfer In                                          2070 AL 04/25/2017 ALL2 OTRFAC
+04/25/2017 Transfer In                                          1765 NF 04/25/2017 TSNF STLUKE HOSP
+04/26/2017 Transfer Out                                          667 AL 04/24/2017 ALL2
+04/26/2017 Transfer Out                                         2019 AL 04/26/2017 ALL2
+04/26/2017 Transfer In                                          2019 NF 04/26/2017 TICF MMCCR  HOSP
+04/27/2017 Transfer In                                          2062 NF 04/27/2017 TSNF STLUKE HOSP
+04/27/2017 Transfer In                                          1384 AL 04/27/2017 RES  MANOR  DIH
+04/30/2017 Transfer Out                                         1890 IL 05/05/2017 IL1
+04/30/2017 Transfer In                                          1890 NF 04/30/2017 TSNF STLUKE HOSP
+05/01/2017 Transfer In                                           802 AL 04/30/2017 RES  MANOR  DIH
+05/01/2017 Transfer In                                          2071 SL 05/01/2017 SL1B HOME   MOVE
+05/01/2017 Transfer In                                          2072 SL 05/01/2017 SL2B HOME   MOVE
+05/01/2017 Transfer In                                           667 NF 05/01/2017 TICF STLUKE HOSP
+05/02/2017 Transfer Out                                         1910 NF 05/01/2017 TICF
+05/02/2017 Transfer In                                          1823 NF 05/02/2017 TICF MERIA  HOSP
+05/03/2017 Transfer In                                          1910 NF 05/03/2017 TICF MMCCR  HOSP
+05/05/2017 Transfer Out                                          228 NF 01/20/2016 ICF
+05/05/2017 Transfer Out                                          263 AL 10/23/2016 ALL1
+05/05/2017 Transfer Out                                          351 NF 03/22/2016 ICF
+05/05/2017 Transfer Out                                          405 AL 11/19/2016 RES
+05/05/2017 Transfer Out                                          405 NF 10/19/2016 TICF
+05/05/2017 Transfer Out                                          405 SL 12/06/2016 SL1B
+05/05/2017 Transfer Out                                          424 AL 06/01/2016 RES
+05/05/2017 Transfer Out                                          424 AL 06/21/2016 RES
+05/05/2017 Transfer Out                                          424 AL 12/09/2016 RES
+05/05/2017 Transfer Out                                          424 IL 07/29/2016 IL1
+05/05/2017 Transfer Out                                          426 IL 07/19/2016 IL1
+05/05/2017 Transfer Out                                          514 AL 02/02/2017 RES
+05/05/2017 Transfer Out                                          514 AL 03/10/2017 ALL2
+05/05/2017 Transfer Out                                          514 SL 02/10/2017 SL1B
+05/05/2017 Transfer Out                                          532 AL 07/18/2016 RES
+05/05/2017 Transfer Out                                          532 IL 10/04/2016 IL1
+05/05/2017 Transfer Out                                          535 AL 02/20/2016 RES
+05/05/2017 Transfer Out                                          538 NF 03/19/2016 ICF
+05/05/2017 Transfer Out                                          540 NF 01/02/2017 ICF
+05/05/2017 Transfer Out                                          544 NF 04/17/2016 ICF
+05/05/2017 Transfer Out                                          545 AL 09/04/2016 ALL2
+05/05/2017 Transfer Out                                          545 NF 10/21/2016 ICF
+05/05/2017 Transfer Out                                          585 IL 02/29/2016 IL1
+05/05/2017 Transfer Out                                          613 NF 12/16/2016 ICF
+05/05/2017 Transfer Out                                          687 NF 02/19/2017 ICF
+05/05/2017 Transfer Out                                          696 AL 01/21/2017 RES
+05/05/2017 Transfer Out                                          699 AL 12/13/2016 RES
+05/05/2017 Transfer Out                                          701 IL 05/14/2016 IL1
+05/05/2017 Transfer Out                                          709 AL 03/08/2016 RES
+05/05/2017 Transfer Out                                          709 AL 03/14/2016 RES
+05/05/2017 Transfer Out                                          709 AL 04/02/2016 RES
+05/05/2017 Transfer Out                                          709 SL 05/01/2016 SL1B
+05/05/2017 Transfer Out                                          713 AL 02/25/2016 RES
+05/05/2017 Transfer Out                                          713 IL 03/31/2016 IL1
+05/05/2017 Transfer Out                                          730 AL 01/26/2016 RES
+05/05/2017 Transfer Out                                          730 AL 04/30/2016 RES
+05/05/2017 Transfer Out                                          730 AL 07/22/2016 RES
+05/05/2017 Transfer Out                                          730 AL 02/26/2017 RES
+05/05/2017 Transfer Out                                          730 IL 02/21/2016 IL1
+05/05/2017 Transfer Out                                          730 NF 03/12/2017 ICF
+05/05/2017 Transfer Out                                          730 SL 04/02/2017 SL1B
+05/05/2017 Transfer Out                                          754 AL 12/30/2016 ALR1
+05/05/2017 Transfer Out                                          754 NF 12/28/2016 ICF
+05/05/2017 Transfer Out                                          770 AL 03/17/2017 RES
+05/05/2017 Transfer Out                                          770 NF 03/14/2017 TSNF
+05/05/2017 Transfer Out                                          770 SL 03/24/2017 SL1R
+05/05/2017 Transfer Out                                          802 AL 04/18/2017 RES
+05/05/2017 Transfer Out                                          859 AL 01/19/2017 RES
+05/05/2017 Transfer Out                                          862 AL 10/26/2016 RES
+05/05/2017 Transfer Out                                          945 NF 02/23/2016 ICF
+05/05/2017 Transfer Out                                          947 NF 04/19/2016 TICF
+05/05/2017 Transfer Out                                          947 NF 05/25/2016 TICF
+05/05/2017 Transfer Out                                          961 AL 03/18/2016 RES
+05/05/2017 Transfer Out                                          961 SL 02/11/2017 SL1B
+05/05/2017 Transfer Out                                          991 AL 03/06/2016 ALL2
+05/05/2017 Transfer Out                                          991 NF 01/05/2016 TSNF
+05/05/2017 Transfer Out                                          991 NF 02/03/2016 TSNF
+05/05/2017 Transfer Out                                          991 NF 03/23/2016 ICF
+05/05/2017 Transfer Out                                          991 SL 01/30/2016 SL1B
+05/05/2017 Transfer Out                                          993 AL 05/31/2016 RES
+05/05/2017 Transfer Out                                          993 IL 07/07/2016 IL1
+05/05/2017 Transfer Out                                         1010 AL 11/18/2016 RES
+05/05/2017 Transfer Out                                         1010 NF 11/07/2016 TICF
+05/05/2017 Transfer Out                                         1011 NF 05/13/2016 TSNF
+05/05/2017 Transfer Out                                         1043 IL 03/30/2016 IL1
+05/05/2017 Transfer Out                                         1062 AL 01/08/2016 RES
+05/05/2017 Transfer Out                                         1062 AL 11/23/2016 ALL1
+05/05/2017 Transfer Out                                         1062 IL 06/10/2016 IL1
+05/05/2017 Transfer Out                                         1080 NF 12/15/2016 ICF
+05/05/2017 Transfer Out                                         1144 AL 01/21/2017 RES
+05/05/2017 Transfer Out                                         1151 NF 10/11/2016 TICF
+05/05/2017 Transfer Out                                         1166 AL 08/14/2016 RES
+05/05/2017 Transfer Out                                         1166 IL 10/13/2016 IL1
+05/05/2017 Transfer Out                                         1166 NF 10/01/2016 TICF
+05/05/2017 Transfer Out                                         1169 AL 09/13/2016 RES
+05/05/2017 Transfer Out                                         1169 AL 10/11/2016 RES
+05/05/2017 Transfer Out                                         1170 NF 11/19/2016 TICF
+05/05/2017 Transfer Out                                         1171 NF 04/05/2016 ICF
+05/05/2017 Transfer Out                                         1185 NF 08/08/2016 ICF
+05/05/2017 Transfer Out                                         1199 AL 03/01/2016 RES
+05/05/2017 Transfer Out                                         1202 NF 02/15/2016 MHOS
+05/05/2017 Transfer Out                                         1204 IL 01/19/2016 IL2
+05/05/2017 Transfer Out                                         1204 NF 01/18/2016 TSNF
+05/05/2017 Transfer Out                                         1207 AL 04/21/2016 RES
+05/05/2017 Transfer Out                                         1217 NF 01/26/2016 ICF
+05/05/2017 Transfer Out                                         1229 AL 07/07/2016 RES
+05/05/2017 Transfer Out                                         1229 AL 07/26/2016 RES
+05/05/2017 Transfer Out                                         1229 SL 07/28/2016 SL1B
+05/05/2017 Transfer Out                                         1234 AL 06/21/2016 RES
+05/05/2017 Transfer Out                                         1234 IL 07/07/2016 IL1
+05/05/2017 Transfer Out                                         1249 NF 07/13/2016 ICF
+05/05/2017 Transfer Out                                         1262 AL 04/12/2016 ALL1
+05/05/2017 Transfer Out                                         1262 NF 12/06/2016 ICF
+05/05/2017 Transfer Out                                         1271 AL 06/25/2016 ALL2
+05/05/2017 Transfer Out                                         1287 NF 03/08/2016 TSNF
+05/05/2017 Transfer Out                                         1305 AL 12/13/2016 RES
+05/05/2017 Transfer Out                                         1305 AL 01/06/2017 RES
+05/05/2017 Transfer Out                                         1323 IL 12/06/2016 IL2
+05/05/2017 Transfer Out                                         1323 NF 06/02/2016 TICF
+05/05/2017 Transfer Out                                         1323 NF 06/14/2016 TSNF
+05/05/2017 Transfer Out                                         1323 NF 07/17/2016 TSNF
+05/05/2017 Transfer Out                                         1323 NF 09/02/2016 TSNF
+05/05/2017 Transfer Out                                         1323 NF 12/06/2016 TICF
+05/05/2017 Transfer Out                                         1333 AL 04/05/2017 RES
+05/05/2017 Transfer Out                                         1333 NF 04/20/2017 TICF
+05/05/2017 Transfer Out                                         1337 AL 12/19/2016 ALL1
+05/05/2017 Transfer Out                                         1339 NF 03/26/2016 ICF
+05/05/2017 Transfer Out                                         1339 SL 03/20/2016 SL1B
+05/05/2017 Transfer Out                                         1349 IL 03/16/2017 IL1
+05/05/2017 Transfer Out                                         1349 NF 02/20/2017 TICF
+05/05/2017 Transfer Out                                         1350 NF 05/10/2016 TICF
+05/05/2017 Transfer Out                                         1352 AL 01/24/2017 ALL1
+05/05/2017 Transfer Out                                         1352 NF 04/21/2017 ICF
+05/05/2017 Transfer Out                                         1363 AL 02/26/2016 ALR2
+05/05/2017 Transfer Out                                         1364 IL 02/20/2016 IL2
+05/05/2017 Transfer Out                                         1364 NF 03/08/2016 ICF
+05/05/2017 Transfer Out                                         1365 AL 01/06/2016 RES
+05/05/2017 Transfer Out                                         1365 IL 03/31/2016 IL1
+05/05/2017 Transfer Out                                         1365 NF 08/31/2016 ICF
+05/05/2017 Transfer Out                                         1366 AL 01/22/2016 RES
+05/05/2017 Transfer Out                                         1366 IL 01/16/2016 IL1
+05/05/2017 Transfer Out                                         1375 AL 07/24/2016 RES
+05/05/2017 Transfer Out                                         1375 AL 08/09/2016 RES
+05/05/2017 Transfer Out                                         1375 NF 07/21/2016 TICF
+05/05/2017 Transfer Out                                         1381 IL 01/20/2017 IL1
+05/05/2017 Transfer Out                                         1384 AL 01/14/2016 RES
+05/05/2017 Transfer Out                                         1384 AL 03/22/2016 RES
+05/05/2017 Transfer Out                                         1384 AL 04/28/2017 RES
+05/05/2017 Transfer Out                                         1392 NF 03/07/2016 ICF
+05/05/2017 Transfer Out                                         1393 IL 01/31/2016 IL1
+05/05/2017 Transfer Out                                         1393 NF 01/10/2016 PSNF
+05/05/2017 Transfer Out                                         1405 NF 09/25/2016 ICF
+05/05/2017 Transfer Out                                         1407 AL 08/03/2016 RES
+05/05/2017 Transfer Out                                         1407 AL 08/17/2016 RES
+05/05/2017 Transfer Out                                         1422 AL 04/05/2016 RES
+05/05/2017 Transfer Out                                         1422 SL 04/08/2016 SL1B
+05/05/2017 Transfer Out                                         1438 NF 01/09/2017 ICF
+05/05/2017 Transfer Out                                         1438 SL 01/02/2017 SL2B
+05/05/2017 Transfer Out                                         1439 AL 12/23/2016 RES
+05/05/2017 Transfer Out                                         1439 SL 04/18/2017 SL1B
+05/05/2017 Transfer Out                                         1440 SL 12/01/2016 SL1B
+05/05/2017 Transfer Out                                         1441 SL 05/15/2016 SL2B
+05/05/2017 Transfer Out                                         1445 IL 12/28/2016 IL2
+05/05/2017 Transfer Out                                         1445 NF 02/06/2016 TSNF
+05/05/2017 Transfer Out                                         1445 NF 03/20/2016 TSNF
+05/05/2017 Transfer Out                                         1445 NF 12/16/2016 TSNF
+05/05/2017 Transfer Out                                         1445 NF 12/28/2016 TICF
+05/05/2017 Transfer Out                                         1454 AL 06/17/2016 RES
+05/05/2017 Transfer Out                                         1454 AL 08/16/2016 ALL1
+05/05/2017 Transfer Out                                         1454 IL 06/20/2016 IL1
+05/05/2017 Transfer Out                                         1455 AL 06/17/2016 RES
+05/05/2017 Transfer Out                                         1455 AL 08/16/2016 ALL1
+05/05/2017 Transfer Out                                         1455 IL 06/20/2016 IL2
+05/05/2017 Transfer Out                                         1455 NF 01/11/2016 TICF
+05/05/2017 Transfer Out                                         1468 AL 06/19/2016 RES
+05/05/2017 Transfer Out                                         1471 NF 12/14/2016 TICF
+05/05/2017 Transfer Out                                         1472 NF 01/06/2017 TICF
+05/05/2017 Transfer Out                                         1472 NF 03/15/2017 ICF
+05/05/2017 Transfer Out                                         1475 NF 11/17/2016 MHOS
+05/05/2017 Transfer Out                                         1476 AL 05/13/2016 RES
+05/05/2017 Transfer Out                                         1476 AL 05/19/2016 RES
+05/05/2017 Transfer Out                                         1476 AL 08/30/2016 ALL2
+05/05/2017 Transfer Out                                         1476 IL 05/18/2016 IL1
+05/05/2017 Transfer Out                                         1476 NF 05/08/2016 TSNF
+05/05/2017 Transfer Out                                         1480 NF 07/06/2016 ICF
+05/05/2017 Transfer Out                                         1482 AL 02/06/2016 ALL2
+05/05/2017 Transfer Out                                         1489 IL 11/22/2016 IL2
+05/05/2017 Transfer Out                                         1489 NF 11/22/2016 TICF
+05/05/2017 Transfer Out                                         1491 IL 03/07/2016 IL1
+05/05/2017 Transfer Out                                         1493 NF 04/01/2016 ICF
+05/05/2017 Transfer Out                                         1499 AL 01/22/2016 ALL1
+05/05/2017 Transfer Out                                         1501 AL 08/29/2016 ALL2
+05/05/2017 Transfer Out                                         1531 AL 06/29/2016 RES
+05/05/2017 Transfer Out                                         1531 IL 07/08/2016 IL1
+05/05/2017 Transfer Out                                         1540 NF 05/18/2016 ICF
+05/05/2017 Transfer Out                                         1556 IL 01/24/2017 IL1
+05/05/2017 Transfer Out                                         1556 NF 01/24/2017 TICF
+05/05/2017 Transfer Out                                         1602 NF 04/04/2016 ICF
+05/05/2017 Transfer Out                                         1605 NF 02/06/2017 ICF
+05/05/2017 Transfer Out                                         1621 NF 08/13/2016 ICF
+05/05/2017 Transfer Out                                         1625 AL 12/27/2016 RES
+05/05/2017 Transfer Out                                         1625 AL 04/15/2017 ALR2
+05/05/2017 Transfer Out                                         1637 NF 10/26/2016 ICF
+05/05/2017 Transfer Out                                         1637 NF 11/05/2016 ICF
+05/05/2017 Transfer Out                                         1637 SL 01/28/2016 SL1B
+05/05/2017 Transfer Out                                         1638 AL 02/14/2016 RES
+05/05/2017 Transfer Out                                         1638 NF 05/28/2016 ICF
+05/05/2017 Transfer Out                                         1638 SL 03/29/2016 SL1B
+05/05/2017 Transfer Out                                         1648 AL 06/01/2016 RES
+05/05/2017 Transfer Out                                         1669 AL 02/02/2016 RES
+05/05/2017 Transfer Out                                         1669 IL 02/06/2016 IL1
+05/05/2017 Transfer Out                                         1674 NF 01/05/2016 ICF
+05/05/2017 Transfer Out                                         1697 NF 01/18/2017 TSNF
+05/05/2017 Transfer Out                                         1699 AL 08/18/2016 RES
+05/05/2017 Transfer Out                                         1699 AL 09/08/2016 RES
+05/05/2017 Transfer Out                                         1704 AL 01/11/2016 ALL1
+05/05/2017 Transfer Out                                         1705 AL 09/11/2016 RES
+05/05/2017 Transfer Out                                         1706 AL 02/21/2016 RES
+05/05/2017 Transfer Out                                         1706 AL 06/09/2016 RES
+05/05/2017 Transfer Out                                         1706 AL 08/03/2016 RES
+05/05/2017 Transfer Out                                         1706 AL 11/12/2016 ALL1
+05/05/2017 Transfer Out                                         1706 IL 08/06/2016 IL1
+05/05/2017 Transfer Out                                         1706 NF 03/08/2016 TSNF
+05/05/2017 Transfer Out                                         1706 NF 07/01/2016 TICF
+05/05/2017 Transfer Out                                         1706 NF 12/01/2016 ICF
+05/05/2017 Transfer Out                                         1709 AL 12/19/2016 RES
+05/05/2017 Transfer Out                                         1709 NF 01/05/2017 TSNF
+05/05/2017 Transfer Out                                         1709 SL 02/14/2017 SL1B
+05/05/2017 Transfer Out                                         1721 IL 02/29/2016 IL1
+05/05/2017 Transfer Out                                         1722 NF 08/05/2016 TICF
+05/05/2017 Transfer Out                                         1732 NF 11/22/2016 ICF
+05/05/2017 Transfer Out                                         1734 AL 11/05/2016 ALL2
+05/05/2017 Transfer Out                                         1758 SL 06/21/2016 SL1B
+05/05/2017 Transfer Out                                         1762 AL 01/06/2016 RES
+05/05/2017 Transfer Out                                         1762 AL 04/05/2016 ALL1
+05/05/2017 Transfer Out                                         1762 NF 12/22/2016 ICF
+05/05/2017 Transfer Out                                         1762 SL 01/08/2016 SL1B
+05/05/2017 Transfer Out                                         1765 NF 02/24/2017 TICF
+05/05/2017 Transfer Out                                         1768 AL 03/07/2016 ALL1
+05/05/2017 Transfer Out                                         1768 NF 02/29/2016 TICF
+05/05/2017 Transfer Out                                         1768 NF 10/19/2016 ICF
+05/05/2017 Transfer Out                                         1769 AL 01/05/2016 RES
+05/05/2017 Transfer Out                                         1769 AL 02/25/2017 ALL1
+05/05/2017 Transfer Out                                         1769 IL 01/30/2016 IL1
+05/05/2017 Transfer Out                                         1771 NF 11/03/2016 TSNF
+05/05/2017 Transfer Out                                         1773 AL 04/29/2017 RES
+05/05/2017 Transfer Out                                         1773 NF 09/24/2016 TSNF
+05/05/2017 Transfer Out                                         1785 AL 05/27/2016 ALL1
+05/05/2017 Transfer Out                                         1791 AL 01/15/2016 ALR2
+05/05/2017 Transfer Out                                         1794 IL 03/29/2016 IL1
+05/05/2017 Transfer Out                                         1795 AL 10/26/2016 RES
+05/05/2017 Transfer Out                                         1800 SL 09/22/2016 SL1B
+05/05/2017 Transfer Out                                         1802 AL 04/13/2016 RES
+05/05/2017 Transfer Out                                         1808 NF 02/22/2016 TICF
+05/05/2017 Transfer Out                                         1809 AL 02/22/2016 RES
+05/05/2017 Transfer Out                                         1809 IL 04/04/2016 IL1
+05/05/2017 Transfer Out                                         1809 NF 03/09/2016 TSNF
+05/05/2017 Transfer Out                                         1809 NF 04/06/2016 ICF
+05/05/2017 Transfer Out                                         1810 NF 03/10/2017 TSNF
+05/05/2017 Transfer Out                                         1813 NF 01/08/2016 TICF
+05/05/2017 Transfer Out                                         1814 AL 01/08/2016 RES
+05/05/2017 Transfer Out                                         1814 AL 01/18/2016 RES
+05/05/2017 Transfer Out                                         1819 AL 01/30/2017 ALL1
+05/05/2017 Transfer Out                                         1819 IL 07/28/2016 IL1
+05/05/2017 Transfer Out                                         1823 AL 03/31/2016 RES
+05/05/2017 Transfer Out                                         1823 AL 05/03/2017 ALL1
+05/05/2017 Transfer Out                                         1823 SL 04/02/2016 SL1B
+05/05/2017 Transfer Out                                         1841 NF 02/21/2017 TSNF
+05/05/2017 Transfer Out                                         1841 NF 04/13/2017 TSNF
+05/05/2017 Transfer Out                                         1847 NF 01/25/2016 ICF
+05/05/2017 Transfer Out                                         1850 NF 01/07/2016 TSNF
+05/05/2017 Transfer Out                                         1852 IL 02/17/2017 IL1
+05/05/2017 Transfer Out                                         1855 AL 06/25/2016 ALL1
+05/05/2017 Transfer Out                                         1855 SL 06/26/2016 SL1B
+05/05/2017 Transfer Out                                         1859 NF 04/27/2017 TICF
+05/05/2017 Transfer Out                                         1861 AL 02/14/2017 ALL1
+05/05/2017 Transfer Out                                         1870 AL 04/13/2016 RES
+05/05/2017 Transfer Out                                         1870 AL 06/29/2016 RES
+05/05/2017 Transfer Out                                         1870 AL 09/07/2016 ALR2
+05/05/2017 Transfer Out                                         1870 NF 01/07/2016 TICF
+05/05/2017 Transfer Out                                         1870 NF 09/26/2016 ICF
+05/05/2017 Transfer Out                                         1870 SL 07/08/2016 SL1R
+05/05/2017 Transfer Out                                         1872 AL 01/28/2017 ALR2
+05/05/2017 Transfer Out                                         1872 NF 07/15/2016 TSNF
+05/05/2017 Transfer Out                                         1872 NF 03/07/2017 ICF
+05/05/2017 Transfer Out                                         1877 NF 01/03/2016 ICF
+05/05/2017 Transfer Out                                         1882 AL 01/14/2016 ALL1
+05/05/2017 Transfer Out                                         1886 AL 09/16/2016 RES
+05/05/2017 Transfer Out                                         1902 AL 04/19/2016 ALL1
+05/05/2017 Transfer Out                                         1907 SL 02/27/2016 SL1B
+05/05/2017 Transfer Out                                         1909 NF 08/01/2016 TSNF
+05/05/2017 Transfer Out                                         1910 AL 10/19/2016 RES
+05/05/2017 Transfer Out                                         1916 IL 03/14/2017 IL1
+05/05/2017 Transfer Out                                         1919 NF 07/19/2016 TSNF
+05/05/2017 Transfer Out                                         1919 NF 09/16/2016 TSNF
+05/05/2017 Transfer Out                                         1920 SL 09/09/2016 SL1B
+05/05/2017 Transfer Out                                         1924 NF 02/18/2017 TSNF
+05/05/2017 Transfer Out                                         1925 AL 01/31/2017 RES
+05/05/2017 Transfer Out                                         1925 SL 02/17/2017 SL2B
+05/05/2017 Transfer Out                                         1930 NF 07/09/2016 ICF
+05/05/2017 Transfer Out                                         1934 NF 06/11/2016 TSNF
+05/05/2017 Transfer Out                                         1937 AL 02/26/2016 RES
+05/05/2017 Transfer Out                                         1939 SL 03/16/2017 SL1B
+05/05/2017 Transfer Out                                         1940 NF 04/08/2016 TICF
+05/05/2017 Transfer Out                                         1940 NF 01/13/2017 TSNF
+05/05/2017 Transfer Out                                         1941 NF 01/05/2016 TSNF
+05/05/2017 Transfer Out                                         1943 SL 01/29/2016 SL1R
+05/05/2017 Transfer Out                                         1944 SL 01/14/2016 SL2R
+05/05/2017 Transfer Out                                         1945 NF 01/25/2016 TICF
+05/05/2017 Transfer Out                                         1945 NF 03/26/2016 ICF
+05/05/2017 Transfer Out                                         1950 AL 01/22/2016 RES
+05/05/2017 Transfer Out                                         1951 NF 02/05/2016 TSNF
+05/05/2017 Transfer Out                                         1954 NF 02/13/2016 ICF
+05/05/2017 Transfer Out                                         1955 AL 07/02/2016 RES
+05/05/2017 Transfer Out                                         1955 AL 09/20/2016 ALR1
+05/05/2017 Transfer Out                                         1955 NF 06/30/2016 ICF
+05/05/2017 Transfer Out                                         1955 NF 09/20/2016 ICF
+05/05/2017 Transfer Out                                         1956 NF 03/10/2016 TICF
+05/05/2017 Transfer Out                                         1959 AL 04/04/2016 RES
+05/05/2017 Transfer Out                                         1959 AL 09/05/2016 ALL1
+05/05/2017 Transfer Out                                         1960 NF 03/31/2016 ICF
+05/05/2017 Transfer Out                                         1962 AL 04/23/2016 RES
+05/05/2017 Transfer Out                                         1962 AL 06/08/2016 ALL1
+05/05/2017 Transfer Out                                         1963 NF 04/04/2017 ICF
+05/05/2017 Transfer Out                                         1964 AL 04/18/2016 RES
+05/05/2017 Transfer Out                                         1964 AL 11/21/2016 RES
+05/05/2017 Transfer Out                                         1965 NF 01/20/2017 TICF
+05/05/2017 Transfer Out                                         1966 NF 02/10/2017 ICF
+05/05/2017 Transfer Out                                         1966 NF 03/12/2017 ICF
+05/05/2017 Transfer Out                                         1966 NF 03/31/2017 ICF
+05/05/2017 Transfer Out                                         1967 NF 04/15/2016 TSNF
+05/05/2017 Transfer Out                                         1968 AL 05/02/2016 RES
+05/05/2017 Transfer Out                                         1969 NF 04/21/2016 TSNF
+05/05/2017 Transfer Out                                         1969 NF 05/27/2016 TSNF
+05/05/2017 Transfer Out                                         1970 NF 06/08/2016 ICF
+05/05/2017 Transfer Out                                         1972 NF 05/03/2016 TSNF
+05/05/2017 Transfer Out                                         1973 AL 03/02/2017 ALL1
+05/05/2017 Transfer Out                                         1974 NF 08/18/2016 TSNF
+05/05/2017 Transfer Out                                         1975 NF 05/24/2016 TSNF
+05/05/2017 Transfer Out                                         1976 NF 07/27/2016 TSNF
+05/05/2017 Transfer Out                                         1984 NF 08/23/2016 TSNF
+05/05/2017 Transfer Out                                         1984 NF 03/09/2017 TSNF
+05/05/2017 Transfer Out                                         1985 AL 08/29/2016 RES
+05/05/2017 Transfer Out                                         1985 AL 09/30/2016 ALL1
+05/05/2017 Transfer Out                                         1988 NF 07/06/2016 TICF
+05/05/2017 Transfer Out                                         1993 IL 08/16/2016 IL1
+05/05/2017 Transfer Out                                         2001 AL 04/22/2017 RES
+05/05/2017 Transfer Out                                         2003 NF 07/24/2016 TICF
+05/05/2017 Transfer Out                                         2004 NF 11/06/2016 TICF
+05/05/2017 Transfer Out                                         2004 NF 11/18/2016 TSNF
+05/05/2017 Transfer Out                                         2006 NF 01/11/2017 TICF
+05/05/2017 Transfer Out                                         2006 NF 03/19/2017 TICF
+05/05/2017 Transfer Out                                         2008 AL 08/22/2016 RES
+05/05/2017 Transfer Out                                         2017 NF 09/16/2016 TSNF
+05/05/2017 Transfer Out                                         2017 NF 10/18/2016 TSNF
+05/05/2017 Transfer Out                                         2018 AL 09/22/2016 RES
+05/05/2017 Transfer Out                                         2019 NF 12/28/2016 TICF
+05/05/2017 Transfer Out                                         2023 NF 09/28/2016 TICF
+05/05/2017 Transfer Out                                         2024 AL 11/22/2016 RES
+05/05/2017 Transfer Out                                         2024 NF 10/25/2016 TSNF
+05/05/2017 Transfer Out                                         2025 NF 12/16/2016 TICF
+05/05/2017 Transfer Out                                         2029 NF 03/28/2017 TICF
+05/05/2017 Transfer Out                                         2033 NF 12/21/2016 TSNF
+05/05/2017 Transfer Out                                         2035 NF 12/03/2016 TICF
+05/05/2017 Transfer Out                                         2038 NF 12/14/2016 TSNF
+05/05/2017 Transfer Out                                         2038 NF 12/22/2016 TSNF
+05/05/2017 Transfer Out                                         2038 NF 01/21/2017 TSNF
+05/05/2017 Transfer Out                                         2040 AL 03/30/2017 RES
+05/05/2017 Transfer Out                                         2040 NF 12/22/2016 TSNF
+05/05/2017 Transfer Out                                         2040 NF 01/27/2017 TSNF
+05/05/2017 Transfer Out                                         2040 NF 02/23/2017 TSNF
+05/05/2017 Transfer Out                                         2042 NF 01/25/2017 TSNF
+05/05/2017 Transfer Out                                         2043 NF 01/11/2017 MHOS
+05/05/2017 Transfer Out                                         2045 NF 01/20/2017 TSNF
+05/05/2017 Transfer Out                                         2046 NF 03/20/2017 TICF
+05/05/2017 Transfer Out                                         2048 NF 02/24/2017 TSNF
+05/05/2017 Transfer Out                                         2057 NF 03/27/2017 TSNF
+05/05/2017 Transfer Out                                         2057 NF 04/15/2017 TSNF
+05/05/2017 Transfer Out                                         2059 NF 04/22/2017 TICF
+05/05/2017 Transfer Out                                         2061 NF 04/15/2017 ICF
+05/05/2017 Transfer Out                                         2062 NF 04/27/2017 TICF
+05/09/2017 Transfer Out                                          947 IL 05/05/2017 IL2
+05/09/2017 Transfer In                                           947 NF 05/09/2017 TSNF MMCCR  HOSP
+05/09/2017 Transfer Out                                         1710 SL 05/09/2017 SL1R
+05/09/2017 Transfer In                                          1710 AL 05/09/2017 ALL1 MANOR  MOVE
+05/10/2017 Transfer Out                                         1890 NF 05/09/2017 TSNF
+05/10/2017 Transfer In                                          1890 IL 05/10/2017 IL1  HOME   MOVE
+05/11/2017 Transfer In                                          2073 AL 05/11/2017 ALL1 HOME   MOVE
+05/13/2017 Transfer Out                                         1768 NF 05/12/2017 ICF
+05/15/2017 Transfer Out                                          770 AL 05/13/2017 ALR1
+05/15/2017 Transfer Out                                         1710 SL 05/15/2017 SL1R
+05/16/2017 Transfer In                                           770 AL 05/15/2017 ALR1 CCARE  MOVE
+05/16/2017 Transfer Out                                         1532 IL 05/16/2017 IL1
+05/16/2017 Transfer In                                          1532 AL 05/16/2017 RES  BVILLG DIH
+05/18/2017 Transfer Out                                         1532 AL 05/17/2017 RES
+05/18/2017 Transfer In                                          1532 IL 05/18/2017 IL1  NA     NA
+05/18/2017 Transfer Out                                          667 AL 05/17/2017 ALL2
+05/18/2017 Transfer Out                                          802 AL 05/18/2017 RES
+05/18/2017 Transfer In                                           802 AL 05/18/2017 ALL2 CCARE  MOVE
+05/19/2017 Transfer Out                                         1767 AL 05/18/2017 ALR1
+05/22/2017 Transfer Out                                         1814 SL 05/19/2017 SL2B
+05/22/2017 Transfer In                                          1814 AL 05/19/2017 RES  MANOR  DIH
+05/22/2017 Transfer Out                                         1814 AL 05/20/2017 RES
+05/22/2017 Transfer In                                          1814 SL 05/22/2017 SL2B HOME   MOVE
+05/22/2017 Transfer In                                          1767 NF 05/22/2017 TSNF STLUKE HOSP
+05/22/2017 Transfer Out                                         1910 SL 05/20/2017 SL1B
+05/22/2017 Transfer Out                                         1144 IL 05/22/2017 IL1
+05/22/2017 Transfer In                                          1144 SL 05/22/2017 SL1B DRIDGE MOVE
+05/22/2017 Transfer Out                                         1792 AL 05/22/2017 ALL1
+05/22/2017 Transfer In                                          1792 NF 05/22/2017 TICF ARBOR  DIH
+05/23/2017 Transfer Out                                         1535 AL 05/21/2017 ALL1
+05/23/2017 Transfer Out                                         1209 SL 05/22/2017 SL1B
+05/25/2017 Transfer Out                                         2025 NF 05/25/2017 TSNF
+05/25/2017 Transfer In                                          2025 AL 05/25/2017 ALL1 HOME
+05/26/2017 Transfer Out                                         1144 IL 05/25/2017 IL1
+05/26/2017 Transfer In                                          1535 NF 05/26/2017 TSNF STLUKE HOSP
+05/26/2017 Transfer Out                                         1209 SL 05/26/2017 SL1B
+05/30/2017 Transfer Out                                         1557 IL 05/26/2017 IL1
+05/30/2017 Transfer Out                                         2050 SL 05/29/2017 SL1R
+05/30/2017 Transfer Out                                         1532 IL 05/30/2017 IL1
+05/30/2017 Transfer In                                          1532 AL 05/30/2017 RES  BVILLG DIH
+05/31/2017 Transfer Out                                         1792 AL 05/27/2017 ALL1
+05/31/2017 Transfer Out                                         1532 AL 05/31/2017 RES
+05/31/2017 Transfer In                                          1532 IL 05/31/2017 IL1  NA     NA
+06/02/2017 Transfer In                                          2050 NF 06/02/2017 TSNF MMCCR  HOSP
+06/02/2017 Transfer Out                                         2062 NF 06/01/2017 TSNF
+06/02/2017 Transfer Out                                         1503 AL 06/02/2017 ALL1
+06/02/2017 Transfer Out                                         1743 SL 06/02/2017 SL1B
+06/02/2017 Transfer In                                          1743 AL 06/02/2017 RES  MANOR  DIH
+06/05/2017 Transfer Out                                         1908 SL 06/04/2017 SL1B
+06/05/2017 Transfer In                                          1908 AL 06/04/2017 RES  HOME   DIH
+06/05/2017 Transfer In                                          2076 SL 06/03/2017 SL1B HOME   MOVE
+06/05/2017 Transfer Out                                         1743 AL 06/05/2017 RES
+06/05/2017 Transfer In                                          1743 SL 06/05/2017 SL1B HOME   MOVE
+06/05/2017 Transfer In                                          1503 NF 06/05/2017 TICF MMCCR  HOSP
+06/06/2017 Transfer Out                                         1172 AL 06/05/2017 ALL2
+06/06/2017 Transfer Out                                         1535 NF 06/06/2017 TSNF
+06/06/2017 Transfer In                                          1535 AL 06/06/2017 ALL1 MANOR  DIH
+06/07/2017 Transfer Out                                         1767 NF 06/06/2017 TSNF
+06/07/2017 Transfer In                                          1172 NF 06/07/2017 TICF CCARE  DIH
+06/08/2017 Transfer Out                                         1536 AL 06/07/2017 ALR1
+06/08/2017 Transfer In                                          1536 NF 06/08/2017 TICF STLUKE HOSP
+06/08/2017 Transfer Out                                         1349 NF 06/08/2017 ICF
+06/09/2017 Transfer Out                                         1548 IL 06/07/2017 IL2
+06/09/2017 Transfer In                                          1548 AL 06/07/2017 RES  HPARK  DIH
+06/09/2017 Transfer In                                          1349 IL 06/08/2017 IL2  WDLAND MOVE
+06/09/2017 Transfer Out                                         1548 AL 06/08/2017 RES
+06/09/2017 Transfer In                                          1548 IL 06/09/2017 IL2  NA     NA
+06/09/2017 Transfer In                                          1767 NF 06/09/2017 TSNF STLUKE HOSP
+06/12/2017 Transfer Out                                         1545 NF 06/11/2017 ICF
+06/12/2017 Transfer Out                                         1908 AL 06/12/2017 RES
+06/12/2017 Transfer In                                          1908 SL 06/12/2017 SL1B HOME   MOVE
+06/13/2017 Transfer Out                                         1727 SL 06/12/2017 SL1B
+06/13/2017 Transfer Out                                         1908 SL 06/13/2017 SL1B
+06/13/2017 Transfer In                                          1908 AL 06/13/2017 RES  MANOR  DIH

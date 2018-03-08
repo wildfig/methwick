@@ -1,0 +1,152 @@
+---
+title: "eda"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+  pdf_document:
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(include = FALSE)
+library(tidyverse)
+library(tidyquant)
+library(lubridate)
+library(chron)
+library(skimr)
+library(reshape2)
+library(plyr)
+load("fall_site.RData")
+load("falls.RData")
+load("phys_orders.RData")
+load("profile.RData")
+load("transfers.RData")
+load("vitals.RData")
+```
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 1900)
+```
+
+```{r create_datasets, include = FALSE, eval = TRUE}
+methwick <- data.frame(id = profile$ID, age = as.period(interval(start = profile$Birthdate, end = Sys.Date()))$year, sex = profile$Sex, race = profile$Race, pacemaker = profile$Pacemaker, has_fallen = profile$has_fallen)
+
+methwick <- methwick %>%
+  mutate(visual_impairment = if_else((profile$Glasses == "Y"), TRUE, FALSE, NA))
+
+methwick <- methwick %>%
+  mutate(mobility_impairment = if_else((profile$Mobility == "W" | profile$Mobility == "C"), TRUE, FALSE, NA))
+
+tmp <- vitals[(grep("marked inadvertent:", tolower(vitals$Notes))), ]
+vitals <- vitals[!(rownames(vitals) %in% rownames(tmp)), ]
+
+recent_vitals <- vitals %>%
+  group_by(Vital_Code, ID) %>%
+  slice(which.max(Date))
+
+recent_vitals$newnumber <- paste(recent_vitals$Number, recent_vitals$Number2, sep = " | ")
+z <- dcast(data = recent_vitals, ID ~ Vital_Code, value.var = "newnumber", margins = FALSE)
+z$HEIGHT <- substr(z$HEIGHT,1,nchar(z$HEIGHT)-5)
+z$WEIGHT <- substr(z$WEIGHT,1,nchar(z$WEIGHT)-5)
+z$BLOODSUG <- substr(z$BLOODSUG,1,nchar(z$BLOODSUG)-5)
+z$PULSE <- substr(z$PULSE,1,nchar(z$PULSE)-5)
+
+new_df <- data.frame(id = z$ID, height = z$HEIGHT, weight = z$WEIGHT, bloodsugar = z$BLOODSUG, pulse = z$PULSE, bp = z$BP, bmi = ((as.numeric(z$WEIGHT) * 703)/as.numeric(z$HEIGHT)^2))
+
+new_df <- new_df[!(new_df$bmi >= 80), ]
+
+methwick <- join(methwick, new_df, by = "id")
+
+methwick <- methwick[!(methwick$sex == ""), ]
+methwick <- methwick[!(is.na(methwick$age)), ]
+
+lvc <- cut(methwick$age, breaks = c(0, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, Inf))
+methwick$age_group <- lvc
+
+labels <- c("underweight", "normal", "overweight", "obese")
+bmi <- cut(methwick$bmi, breaks = c(0,18.5,25,30,Inf), labels = labels, ordered_result = TRUE)
+
+methwick$bmif <- bmi
+```
+
+
+```{r}
+# profile$Glasses[profile$Glasses == ""] <- "N"
+# profile$Mobility[profile$Mobility == ""] <- "NA"
+# profile$Contact_Lenses[profile$Contact_Lenses == ""] <- "N"
+# profile$Hearing_Aid[profile$Hearing_Aid == ""] <- "N"
+# profile$Dentures[profile$Dentures == ""] <- "NA"
+# profile$Pacemaker[profile$Pacemaker == ""] <- "N"
+
+# falls$To_Hospital <- trimws(falls$To_Hospital)
+# falls$To_Hospital[falls$To_Hospital == ""] <- "N"
+
+
+# profile$Sex <- trimws(profile$Sex)
+# save(profile, file = "profile.RData")
+# ggplot(profile, aes(x = Sex, y = has_fallen)) + geom_bar(stat = "identity")
+
+# profile$Sex <- as.factor(profile$Sex)
+
+```
+
+
+```{r}
+
+# profile$Mobility <- trimws(profile$Mobility)
+# profile$Glasses <- trimws(profile$Glasses)
+# profile$Contact_Lenses <- trimws(profile$Contact_Lenses)
+# profile$Hearing_Aid <- trimws(profile$Hearing_Aid)
+# profile$Dentures <- trimws(profile$Dentures)
+# profile$Pacemaker <- trimws(profile$Pacemaker)
+
+# save(falls, file = 'falls.RData')
+# save(transfers, file = 'transfers.RData')
+# save(fall_site, file = 'fall_site.RData')
+# save(phys_orders, file = 'phys_orders.RData')
+# save(profile, file = 'profile.RData')
+```
+
+```{r, include = TRUE}
+str(methwick)
+```
+
+```{r, include = TRUE}
+head(methwick)
+```
+
+```{r, include = TRUE}
+summary(methwick)
+```
+
+
+```{r, include = TRUE}
+skim(methwick)
+```
+
+
+We can see given the following plot that a larger proportion of women fall than men, which is in line with what the literature tells us.
+```{r, include = TRUE}
+mosaicplot(has_fallen ~ sex, data = methwick, col = c('lightskyblue2', 'tomato'))
+```
+
+Due to the fairly homogenous population, this is to be expected
+```{r, include = TRUE}
+mosaicplot(has_fallen ~ race, data = methwick, col = c('lightskyblue2', 'tomato'))
+```
+
+It's interesting that normal BMI people tend to fall in a greater proportion to those underweight or overweight/obese.
+```{r, include = TRUE}
+mosaicplot(has_fallen ~ bmif, data = methwick, col = c('lightskyblue2', 'tomato'))
+```
+
+
+```{r, include = TRUE}
+ggplot(data = falls, aes(x = factor(wday(Fall_Date)))) + geom_bar()
+```
+
+```{r, include = TRUE}
+ggplot(data = falls, aes(x = factor(chron::hours(Fall_Time)))) + geom_bar()
+```
+

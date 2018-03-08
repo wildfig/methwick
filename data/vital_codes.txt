@@ -1,0 +1,13 @@
+BLOODSUG   Blood Glucose mg/dl                                Blood Sugar
+BP         Blood Pressure                                     Blood Pressure
+HEIGHT     Height (inches)                                    Height
+INTAKE     Fluids/Intake                                       Not Applicable
+OUTPUT     Output                                              Not Applicable
+OXYGEN     SPO2                                                Not Applicable
+PAIN       Pain                                               Pain
+PULSE      Pulse                                              Pulse
+RESP       Respirations                                       Respirations
+SPO2 DEL   SPO2 Rate/L                                         Not Applicable
+TEMP       Temperature                                        Temperature
+WEIGHT     Weight                                             Weight
+~FLUIDRES  Fluid Restriction (Internal Use)

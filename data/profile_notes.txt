@@ -1,0 +1,853 @@
+   199
+   203
+   209
+   228
+   234
+   235
+   251
+   257
+   263 Cogntive impairment; COPD,Hypothyroidism, Lactic Acidosis,dehydration,macular degeneration           Past smoker, Rigt arm surgery, BPH, Anemia, Adenocarcinoma large intestine,Inguinal hernia, tubular adenoma of colon,Renal mass noted Mercy Hosp.1/26/14
+   266
+   272
+   304 DMII, Macular Degeneration, osteoporosis, HTN, Hyperlipidemia, Depression, COPD                      right distal femoral fx, blepharitis
+   351 OBS, Schizophrenia, arthritis, hypothyroidism, anemia, GERD, antony of bladder, DM                   N/A
+   386 Hypothyroidism, hyperlipidemia, osteoarthrosis, osteoporosis, idiopathic pulmonary fibrosis, GERD    hx humeral fx, rectocele, cystocele
+   404
+   405
+   406
+   419 Memory Impairment, Chronic airway obstruction, Arthritis, Arthropathy,Osteoarthritis
+   420 Dementia, Osteoarthritis, Constipation, Agitation                                                    Fall with wrist fracture
+   424
+   426
+   465
+   488
+   497
+   498 Asthma, COPD, GERD, Gout, prostate CA, Heart disease, HTN                                            falls, gi bleed, hernia
+   506
+   511
+   514
+   517
+   532
+   533 Late effects of CVA, left hemiparesis, memory loss, depression, constipation, hyperlipidemia         CVA, HTN, hx gi bleed, hx inguinal hernia repaired, asthma, peripheral neuropathy
+   534
+   535
+   538
+   540
+   542
+   543
+   544
+   545                                                                                                      COPD, GERD, CAD, dyspnea, pacemaker, s/p ileal conduit, interstitial cystitis, ventral hernia, pacemaker, paroxysmal atrial fibrillation, chronic kidney disease, Stage III - moderate,
+   556 HTN; BPH, Heart Disease,Hyperlipidemia, Atherosclerotic coronary artery disease,
+   568
+   571 Arthritis, HTN, Anemia, aortic stenosis, bil. shoulder pain                                          hx ventricular arrhythmia
+   575
+   576
+   577
+   578 Alzheimers disease , Hyperlipidemia , HTN, Lvef                                                      Hx. Nose bleeds
+   579
+   583
+   585
+   586
+   598
+   613 Dementia, Pelvic Fracture, HTN, Osteoarthritis, Hypothyroidism, Hyperlipidemia, GERD                 Hx Sjogren's Disease, Hx UTI
+   653
+   661
+   665
+   667 Chronic dematitis (keratosis pilaris), Osteoporosis, Klinefelter's Syndrome                          Chronic Dermatitis (Keratosis Pilaris), Klinefelters, Osteoprosis
+   676
+   687
+   688
+   691
+   696
+   699
+   701
+   702
+   707
+   709
+   710
+   713 Hypertension, hyperlipidemia, hypothyroidism, Diabetes mellitus Type II-controlled
+   718
+   728
+   729
+   730
+   740
+   754 BPH, anemia, hypertension, GERD, dementia, high cholesterol, back pain                               High cholesterol, HTN, GERD, Dementia, BPH, Anemia, Hypogonadism, Blindness, CHF (diastolic), Myeloprolliferative disease, history of skin cancers, broken nose, rib fracture
+   755
+   763
+   770
+   781
+   802
+   805
+   859
+   862
+   876
+   911
+   931
+   933
+   942
+   945
+   946
+   947
+   954 Dementia, Osteoporosis, Hypothyroidism, Constipation                                                 Anxiety, Pleural Effusion
+   959
+   961
+   964
+   965 Dementia, Chronic Renal Insufficiency, Hypothyroidism, Hypertension, Anxiety                         Hx right ankle fx, Hx breast CA, UTI
+   968 Alzheimer's, depression, anxiety                                                                     N/A
+   984
+   985
+   989
+   991
+   993
+   995
+  1001
+  1010
+  1011
+  1019
+  1036
+  1043
+  1058 Alzheimer's, HTN, hyperlipidemia, hypothyroidism, osteoarthrosis, anxiety, depression, osteoporosis  N/A
+  1062
+  1076
+  1080
+  1085 Fx left distal femur, a-fib, HTN                                                                     N/A
+  1088 Dementia, hypothyroidism, HTN, hyperlipidemia, osteoporosis, anemia, spinal stenosis                 Compression fx, pelvic fx, renal insufficiency
+  1099 11/15/12 Right hip fx/nailing, COPD, HTN, chronic back pain, osteoporosis                            Colon C/A
+  1107
+  1108
+  1109
+  1110
+  1117
+  1123
+  1144
+  1151
+  1155
+  1156
+  1158
+  1159
+  1161
+  1166
+  1167 HTN, Depression, HX. Stroke with mental impairment.
+  1168
+  1169
+  1170
+  1171 Dementia, HTN, Hypothyroidism, Hyperlipidemia, Osteoporosis, Parkinsons                              N/A
+  1172 HTN, GERD, anxiety, chronic kidney disease, Stage III, thrombocytopenia.
+  1173 Alzheimer's Disease, Diabetes, Osteoarthritis, Constipation, Hypothyroidism, Hyperlipidemia, Hyperte Hx Hip fracture with ORIF, Hx Breast CA, Pancreatic Mass
+  1177
+  1181
+  1185
+  1186 Alzeheimer's Dementia, HTN, Hypothyroidism, GERD, Hypercholestrerolemia, Ulcerative Colitis          Hx Pelvic Fx, Bradycardia, Leukocytosis, Pneumonia, Syncope
+  1188 Renal Disorder, Depression, GERD, Asthma, COPD, HTN, Arrhythmia                                      right hip fx, CA (abd)
+  1192
+  1194
+  1198 CAD, Glaucoma, Hypothyroidism, HTN, Urinary Retention, Anemia                                        Hx Bladder CA, Hx prostate CA, R hip Fx
+  1199
+  1201
+  1202 see Dx list                                                                                          History of TB, depression, and anxiety, recurrent vulvovaginitis, RLS
+  1203
+  1204
+  1207
+  1208
+  1209
+  1213
+  1217
+  1219
+  1221
+  1223
+  1225
+  1226
+  1228
+  1229
+  1231
+  1232
+  1234
+  1235
+  1237 DM, A-Fib, HTN, chronic kidney disease, GERD, Diastolic Heart Failure, PVD, CAD                      hx UTI
+  1239
+  1243
+  1246 Dementia, Arthritis, Depression, CHF, BPH, Peripheral Neuropathy, Anemia                             Hx Head injury
+  1247
+  1248
+  1249 Alzheimer's Disease, GERD, Constipation, Chronic Back Pain                                           N/A
+  1251
+  1256
+  1257
+  1258
+  1262 Memory impairment, Lumbar FX., Back Pain, Hypothyroidism, Hyperlipidemia, Myelodysplasea, GERD, HTN
+  1264
+  1268
+  1269
+  1271 Hyperlipedemia, Dermatitis, Macular degeneration, Coronary artery disease, Aortic insufficiency,     Pernicious anemia, left bundle branch block, Greater trochanteri  bursitis right, Hypothyroidism, Anemia, Osteoarhritis, Right breast cancer, Essential hypertension, Osteopenia Ataxia, Diverticculosis
+  1274
+  1275 CHF, HTN,
+  1283
+  1287
+  1298
+  1300
+  1301
+  1302
+  1303
+  1304
+  1305
+  1307
+  1308
+  1309
+  1310 Dementia, Anxiety, HTN, Osteoarthritis                                                               CAD
+  1311
+  1313 Dementia , HTN, Hypothyroidism, Constipation, Osteoarthosis, left retinal vascular occlusion         Dementia with paranoia, syncope, hypertension, hyperlipidemia, osteoporosis, osteoarthritis, depression
+  1314 Inferior pubic ramus fracture                                                                        CVA, Chronci lymphoid leukemia, Hypothyroidism, HTN, Hyperlipidemia, Osteoporosis
+  1316
+  1318 Right hip fx, ORIF, dementia, depression, anxiety, hypothyroidism, hyperlipidemia                    N/A
+  1319
+  1320
+  1322
+  1323
+  1325 Dementia with Behavioral Disturbances, Depression, BPH, Agitation                                    N/A
+  1327
+  1328
+  1330
+  1331 Orthostatic Hypotension, COPD, Debility, CHF, pneumonia, urinary retention                           Pacemaker
+  1332
+  1333
+  1334
+  1337 Memory loss; Arthritis, Hypothyroidism, Hyperlipdemia Dementia
+  1339
+  1340
+  1342
+  1347
+  1349
+  1350
+  1352 Dementia, Organic brain syndrome, Mental disorder, HTN, Esopagel reflux,Depression
+  1354
+  1356
+  1357
+  1361
+  1362 Dementia, Osteoarthritis, Anxiety, Depression, Glaucoma, Hypertension, Hyperlipidemia                N/A
+  1363
+  1364
+  1365
+  1366
+  1369
+  1371 NPO, G-tube                                                                                          BPH, psoriasis, hyperlipidemia, dysphagia, macular degneration, urinary retention, hypertension - benign
+  1372
+  1374
+  1375
+  1378
+  1380
+  1381
+  1382
+  1384                                                                                                      BPH, COPD, OSA, obesity, depression, Barrett's esophagus, hyperlipidemia, hyperthryoidism, hypertension, diabetes mellitus - type II, chronic kidney disease
+  1386
+  1389 HTN, diverticulitis, arthritis, cataracts, depression, edema, a-fib, CKD, hyperlipidemia             hx MI, syncope
+  1390
+  1392
+  1393
+  1395
+  1398
+  1404 DM, HTN, edema, arthritis, CKD, depression, polymyalgia rheumatica, gout
+                           N/A
+  1405
+  1406
+  1407
+  1410 Alzheimer's Disease, Hypertension, Hyperlipidemia, Osteoarthrosis, Constipation                      Depression, Breast CA,
+  1411
+  1414 Alzheimer type Dementia, Constipation, Osteoarthritis                                                Hx agitation, anxiety, insomnia, hx prostate CA, right groin hernia
+  1415
+  1420
+  1422
+  1424
+  1425
+  1426
+  1427
+  1430
+  1433
+  1436
+  1437
+  1438
+  1439
+  1440
+  1441
+  1443
+  1444
+  1445
+  1446
+  1451 Hypothyroidism, bipolar disorder, HTN, neuroleptic induced tarvide dyskinesia                        Orofacial dyskinesia, Parkinsons disease, Familial (benign essential) tremor vs. drug induced
+  1452
+  1454
+  1455
+  1456
+  1464
+  1465 Dementia, Constipation, GERD, Osteoarthritis, HTN                                                    Depression
+  1466 Dementia, BPH, hyperlipidemai, hypothyroidism, DMII, heart failure, late effects of CVA, arthritis   CVA, HTN
+  1467
+  1468
+  1469
+  1471
+  1472
+  1473 A-Fib, HTN, PVD, arthritis                                                                           Cellulitis, CAD, hyponatremia
+  1474
+  1475
+  1476
+  1477
+  1478
+  1479
+  1480
+  1482 Hyperlipidemia, Chronic Urinary Retention, RA, HOH, Hypothyroidism, Recurrent UTI, Chronic Right DVT Ulcerative Colitis,
+  1483
+  1484
+  1485
+  1486
+  1487
+  1489
+  1490
+  1491
+  1493
+  1494 Dementia, Hyperlipidemia essential tremor , Kyphosis , Hypertension , Paranoid Schizophrenia
+Edema. Paranoid schizophrenia, Osteopenia HTN.
+  1497
+  1498
+  1499
+  1500
+  1501 GERD, BPH, recurrent UTI, Parkinson's
+  1503 Vitamin D deficiency, Hyperparathyroidism, nontoxic multinodular goiter
+  1504
+  1506
+  1507
+  1510 Dementia, Diabetes, CAD, Arthritis, Hypothyroidism, COPD, BPH, HTN, A-fib, Seizure Disorder,         Hx subdural hematoma/traumatic brain injury, hx VRE,
+  1511
+  1513 GERD, HTN, CVA, hearing loss, DVT/PE, dementia, sleep apnea, cholecystitis, Diabetes Mellitus - Type Diabetes mellitus-Type II with polyneuropathy and retinopathy, dementia, GERD, sleep apnea, HTN, DVT/PE, CVA, hearing loss, cholecystitis
+  1517
+  1518
+  1519
+  1520 Crohn's Disease, Arthritis, hyronephrosis-stable, BPH, Depression, HTN, glaucoma, spinal stenosis    colectomy
+  1521 Dementia, depression, HTN, hypothyroidism, Renal Failure, anxiety, arthritis, DMII,                  Breast CA, Migraines, respiratory failure
+  1522
+  1523
+  1524
+  1527 S/P CVA, A-Fib, HTN, Anemia, GERD                                                                    Obstructive sleep apnea
+  1528
+  1529
+  1530
+  1531
+  1532
+  1534 Alzheimer's Disease, COPD, GERD, CHF,
+  1535 Memory impairment,Hyponatremia,Hyperglycemia Type 2 DM  Hx UTI                                       Chronic low back pain Compression Fx.
+  1536 Diabetes mellitus, hypertension, hyperlipidemia, Vitamin D deficiency
+  1537
+  1538 Dementia, COPD, B12 deficiency, arthritis, depression, HTN, pulmonary HTN                            hypoxemia
+  1540
+  1541
+  1542
+  1545
+  1546
+  1547
+  1548
+  1549 C-2 fx, HTN, hypothyroidism, edema, CKD stage III, anxiety, osteoporosis, falls                      superficial venous thrombosis LLE, chronic left hip and leg pain
+  1550
+  1551 Renal Insufficiency, Dementia, HTN, Constipation, BPH, HOH, Cataracts, Glaucoma, Depression          Hx MI,
+  1553
+  1554
+  1555
+  1556
+  1557
+  1558
+  1559
+  1560
+  1561
+  1562
+  1563
+  1564
+  1565
+  1566
+  1567
+  1568
+  1569
+  1571
+  1573 Dementia, HTN, CVA 9/26/12, Hyerlidemia, Depression, Gastritis,Cataracts                             N/A
+  1574
+  1575 Parkinson's Disease, HTN, hyperlipidemai, GERD, Dementia, Depression                                 hx ischemic cardiomyopathy, left hip fx, left arm fx
+  1577
+  1578
+  1579
+  1581
+  1586
+  1590
+  1591
+  1592
+  1593
+  1594
+  1595
+  1596
+  1597
+  1598
+  1599
+  1600
+  1601
+  1602
+  1603 COPD, BPH, SBO, DM, CAD, Arthritis, Glaucoma, Cervical Spine Stenosis                                Pneumonia, Shingles
+  1604 HTN, GERD, Hypothyroidism, Arthritis, Chronic lymphocytic leukemia , Dementia, Depression,  COPD     CVA, back pain, Diverticulitis, hyperlipidemia, chronic kidney disease, TIA, CVA
+  1605
+  1608
+  1609 Dementia, HTN, Hyperlipidemia, Arthritis, Osteoporosis, Chronic Back Pain, Macular Degeneration      Stroke, TIA
+  1611
+  1612 Dementia, Anemia, CHF, CAD, A-Fib, Aortic Stenosis                                                   Pelvic Fx 11/12
+  1614
+  1616
+  1617
+  1618 Dementia, HTN, Hypothyroidism, diverticulosis, fx radius, gointer, afib, mitral regurg, osteoporosis Hx UTIs
+  1621
+  1624 closed head injury, dementia, HTN, urinary incontinence                                              falls, hx UTIs
+  1625                                                                                                      HTN, Chronic Reneal disease, Hyperlipidemia, stroke in past, Urinary incontinance
+  1626
+  1627
+  1628
+  1629
+  1630
+  1631 Alzheimers dementia,HTN , BPH, Hypothyroidism, Atrial Fib.,
+  1632
+  1633
+  1634
+  1635
+  1637
+  1638
+  1639
+  1640
+  1642
+  1643
+  1644
+  1645
+  1646
+  1647
+  1648
+  1650
+  1652
+  1653
+  1655 cervical spine C5-6 with tetraplegia, neurogenic bladder and bowel secondary to spine injury         Indwelling suprapubic catheter cognitive disorder
+  1658
+  1660
+  1661
+  1662
+  1664
+  1666
+  1669 Diabetes, Hypothyrodism, Depression,Abscess to abd. wall,small bowel resection.
+  1671
+  1672
+  1673
+  1674
+  1680
+  1681
+  1682 Memory Loss, Allergic rhintis, Alzheimers dementia, depression,anxiety.
+  1685
+  1687
+  1689
+  1690
+  1691
+  1692
+  1695
+  1697
+  1698
+  1699
+  1700 BLIND D/T COMPLICATIONS OF SURGERY
+  1702
+  1704
+  1705
+  1706
+  1707
+  1708 Sepsis, UTI, Acute urinary retention, obstructive uropathy, TURB 10/1/13
+  1709
+  1710
+  1711
+  1712
+  1713
+  1714
+  1715
+  1716
+  1718
+  1719
+  1720
+  1721
+  1722
+  1724
+  1726
+  1727
+  1728
+  1730
+  1732
+  1733
+  1734 Hypothryoidism, dementia, osteoarthritis, tachy-brady, kidney disease, dyslipidemia
+  1735
+  1737
+  1738
+  1739
+  1740
+  1741
+  1742
+  1743
+  1744
+  1746
+  1747
+  1748
+  1749
+  1751
+  1752
+  1753
+  1754
+  1756
+  1758
+  1759
+  1760
+  1762
+  1764
+  1765
+  1766 Dementia , Arthritis,Hyperlipidemia,benign HTN,Osteoporosis,Allergic rhinitis
+  1767 Edema, kyphoscoliosis, osteoarthritis, osteoporosis senile, otosclerosis, disturbance of smell
+  1768
+  1769 GERD; Anxiety, C2 Fx., Osteoarthritis, Mild tramatic brain injury
+  1770
+  1771
+  1773
+  1774
+  1775
+  1776
+  1778
+  1781
+  1782
+  1784
+  1785 Memory loss, Arthritis, heart diease, Valve insuf. Depression, Right total knee replacement
+  1786
+  1787
+  1788
+  1789
+  1790
+  1791
+  1792 HTN,  Stroke, Hernia, Kidney problems, Memory loss, Constipation
+  1793
+  1794
+  1795
+  1797
+  1798
+  1799
+  1800
+  1801
+  1802
+  1803
+  1804
+  1806
+  1807
+  1808
+  1809
+  1810 Memory loss, Stroke, HTN, Glaucoma, Anxiety, Hyperlipidemia, Osteoarthritis, Osteoporosis.
+  1811
+  1813
+  1814
+  1815
+  1816
+  1817
+  1818
+  1819
+  1820
+  1821
+  1822
+  1823 Alzheimers/dementia,chronic headaches,HTN, coronary atheroscerosis, osteoarthrosis, hyperliddemia    Depression, Bladder prolapse, Chronic tension- type headaches,Cataracts Dysthymic disorder
+  1824
+  1825
+  1826
+  1827
+  1829
+  1830
+  1831
+  1833
+  1834
+  1835
+  1836
+  1837
+  1838
+  1839
+  1840
+  1841
+  1842
+  1843
+  1844
+  1845
+  1847 A-Fib Dementia, Periphereal vascular disease HTN.                                                    Ulcer of right leg ( Had diffcuties in healing)
+  1848
+  1849
+  1850
+  1851
+  1852
+  1853
+  1854
+  1855 Vit. B12 deficiency (chronic) Hypothyroidism (chronic) Unspecified Dementia
+  1856
+  1857
+  1858
+  1859
+  1860
+  1861 Type II diabetes mellitus with renal manifestations, depressive disorder, UTI, hyperlipidemia,       hypertension - benign, UTI, hyperlipidemia, depressive disorder, Type II diabetes mellitus with renal manifestations
+  1862
+  1863
+  1865
+  1866
+  1868 HTN; Asthma, Memory loss
+  1869
+  1870
+  1872 Obesity, obstructive sleep apnea, esophageal reflux, depressive disorder, allergic rhinitis,         Obesity, obstructive sleep apnea,esphageal reflux, depressive disorder, allergic rhinitis, malignant neoplasm of the breast, hearing loss - both sides, diaphragmatic hernia, disorder of bone/cartilage
+  1873
+  1874
+  1875
+  1876
+  1877
+  1879
+  1880
+  1881
+  1882                                                                                                      Dxs: Depression,Dementia/Alzheimers, Parkinsons diease, gout,HTN, H/O MVR fibrillation, DVD
+  1883
+  1884
+  1885
+  1886
+  1887
+  1888
+  1889
+  1890
+  1891
+  1893
+  1894
+  1895 HTN,Depression,Alzheimer's, Lipidemia,Osteoporosis,Alzheimers, Hypokalemia,Hyperlipdemia
+  1898
+  1899
+  1900
+  1901
+  1902 HTN,HLD Dementia,CHF, Edema.                                                                         Former smoker
+  1903
+  1904
+  1905
+  1906
+  1907
+  1908
+  1909
+  1910
+  1911
+  1912
+  1913 HTN; Dementia, Osteoporosis, Hyperlipidemia, Constipation, Pain
+  1914
+  1915
+  1916
+  1917
+  1918
+  1919 HTN, DDD-lumbar, osteoporosis in multiple joints, lumbago, Parkinson's, onchomycosis,                Essential hypertension (Chronic), Onychomycosis, Orthostatic hypotension (Chronic), Essential tremor (Chronic), Osteoarthritis (Chronic), Degenerative disc disease-Lumbar (Chronic)
+  1920
+  1921
+  1923
+  1924
+  1925
+  1927
+  1929
+  1930
+  1931
+  1932
+  1934
+  1935
+  1936
+  1937
+  1938
+  1939
+  1940
+  1941
+  1942
+  1943
+  1944
+  1945
+  1946 Atril-Fib, Hypothyroidism, Diabetes type 2, Dementia, HTN, Hyperlipidemia                            Hypothyroidism, hypertension, GERD, hearing loss, breast cancer, atrial fibrillation
+  1947
+  1948
+  1949
+  1950
+  1951
+  1952
+  1953
+  1954
+  1955
+  1956
+  1957
+  1958
+  1959 NSTEMI; Chronic kidney disease - Stage III (GFR 30-59 ml/min); Type II diabetes mellitus - uncontrol Type II diabetes mellitus, uncontrolled, Paraoxysmal atrial fibrillation, NSTEMI, chronic kidney disease - Stage III, GFR 30-59 ml/min, essential hypertension, recurrent falls, chronic fatigue.
+  1960
+  1962 Osteoporosis, atrial fibrillation with RVR, facet arthropathy/lumbar, aortic valve sclerosis         Macular degeneration, aortic valve sclerosis, adjustment disorder with depressed mood
+  1963
+  1964
+  1965
+  1966
+  1967
+  1968
+  1969
+  1970
+  1971
+  1972
+  1973 Confusion, COPD,                                                                                     COPD,Coronary artery disease,old MI, Diverticulosis,Kidney stone,recurring UTI's, Ulcerative colitis, lung cancer.
+  1974
+  1975
+  1976
+  1979
+  1980
+  1981
+  1982
+  1983
+  1984
+  1985
+  1986
+  1987
+  1988
+  1989
+  1990
+  1991
+  1992
+  1993
+  1994
+  1995
+  1996
+  1997
+  1998
+  1999
+  2000
+  2001
+  2002
+  2003
+  2004
+  2005
+  2006
+  2007
+  2008
+  2009
+  2010
+  2011
+  2012
+  2013
+  2014
+  2015
+  2016
+  2017
+  2018                                                                                                      Anemia, A Fib, Colon Cancer,Depression,Epistaxis,GI bleed, Hemathrosis,HTN
+  2019
+  2020
+  2021
+  2022
+  2023
+  2024
+  2025
+  2026
+  2027
+  2028
+  2029
+  2030
+  2031
+  2032
+  2033
+  2034
+  2035
+  2036
+  2037
+  2038
+  2039
+  2040
+  2041
+  2042
+  2043
+  2044
+  2045
+  2046
+  2047
+  2048
+  2049
+  2050
+  2051
+  2052
+  2053                                                                                                      Actinic keratosis, Benign prostatic hypertrophy, Bilateral inguinal hernia,cataract,right, Dementia, Hyperlipidemia, LUTS( lower urinary tract symptoms) ,swollen ankles, rib FX., HX. of pneumothorax,
+  2054
+  2055
+  2056
+  2057
+  2058
+  2059
+  2060
+  2061
+  2062
+  2063
+  2064
+  2065
+  2066
+  2067
+  2068
+  2069
+  2070
+  2071
+  2072
+  2073
+  2074
+  2075
+  2076
+  2077
+  2078
+900001
+900002
+900003
+900004
+900005
+900006
+900007
+900008
+900009
+900010
+900011
+900012
+900013
+900014
+900015
+900016
+900017
+900018
+900019
+900020
+900021
+900022
+900023
+900024
+900025
+900026
+900027
+900028
+900029
+900030
+900031
+900032
+900033
+900034
+900035
+900036
+900037
+900038
+900039
+900040
+900041
+900042
+900043
+900044
+900045
+900046
+900047
+900048
+900049
+900050
+900051
+900052
+900053
+900054
+900055
+900056
+900057
+900058
+900059
+900060
+900061
+900062
+999999

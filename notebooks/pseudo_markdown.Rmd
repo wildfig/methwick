@@ -1,0 +1,259 @@
+x`---
+title: "psuedo_setup"
+author: "WildFig"
+date: "8/6/2017"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, dpi = 300, tidy = TRUE)
+packages <- c("tidyquant", "readr", "gains", "irr", "ROCR", "caret", "XML", "lubridate", "lime", "chron", "hms")
+lapply(packages, require, character.only = TRUE)
+remove(packages)
+```
+
+[//]: Rule 1: For Every Result, Keep Track of How It Was Produced
+[//]: Rule 2: Avoid Manual Data Manipulation Steps
+[//]: Rule 3: Archive the Exact Versions of All External Programs Used
+[//]: Rule 4: Version Control All Custom Scripts
+[//]: Rule 5: Record All Intermediate Results, When Possible in Standardized Formats
+[//]: Rule 6: For Analyses That Include Randomness, Note Underlying Random Seeds
+[//]: Rule 7: Always Store Raw Data behind Plots
+[//]: Rule 8: Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected
+[//]: Rule 9: Connect Textual Statements to Underlying Results
+[//]: Rule 10: Provide Public Access to Scripts, Runs, and Results
+
+
+
+# Pseudo Markdown for Methwick
+This document will serve as a testbed and various proof of concept/buildout/learning documentation for the Methwick project. The bibiliography for citations has been placed into a references file and can be found in the same directory.  References have also been included at the end. All chunks are named so that relevant output can be easily viewed.
+
+
+## Data Import
+XML Import: This is where we import the data. In keeping with (Rule 2: Avoid Manual Data Manipulation Steps) I start by breaking down the XML files that are sent, parsing the tree, and extracting the names of the columns for the data.
+```{r import_xml}
+# xmlTreeParse creates a list named structxml. xmlRoot provides access to the top level xml node object after parsing the file. dataobjects select from the DataSourceRepository Node all objects under Columns within DataObjects in the xml. xmlSApply loops through the Columns tag and pulls all attributes of the parent node Column with its attributes id and name. we then unname these columns and take only the second row of the dataframe to create a list of all the values referenced as an attribute of Column as name.
+# structxml <- xmlTreeParse(file = '~/Downloads/mwtablesupload/physorders.xml', useInternalNodes = TRUE)
+# root <- xmlRoot(structxml)
+# dataobjects <- root[[3]][["DataObjects"]][[1]][["Columns"]]
+# attrs <- xmlSApply(dataobjects, xmlAttrs)
+# col_names <- unname(unlist(attrs[2,]))
+
+r <- read_lines('../data/PAPROF.TXT')
+x <- read_lines('../data/PAPROF2.TXT')
+p <- read_lines('../data/MRORDR.TXT')
+q <- read_lines('../data/falls_site.txt')
+a <- read_lines('../data/transfers.txt')
+b <- read_lines('../data/falls.txt')
+k <- read_lines("../data/vitals.txt")
+
+
+m <- as.data.frame(substr(k, start = 1, stop = 6), stringsAsFactors = T)
+colnames(m) <- "ID"
+m$Vital_Code <- substr(k, start = 8, stop = 17)
+m$Date <- substr(k, start = 19, stop = 28)
+m$Time <- substr(k, start = 29, stop = 37)
+m$Number <- substr(k, start = 39, stop = 47)
+m$Number2 <- substr(k, start = 48, stop = 56)
+m$Notes <- substr(k, start = 57, stop = 850)
+
+s <- as.data.frame(substr(r, start = 1, stop = 6), stringsAsFactors = T)
+colnames(s) <- "ID"
+s$Resident <- substr(r, start = 8, stop = 9)
+s$Sex <- substr(r, start = 10, stop = 11)
+s$Race <- substr(r, start = 12, stop = 14)
+
+y <- as.data.frame(substr(x, start = 1, stop = 6), stringsAsFactors = T)
+colnames(y) <- "ID"
+y$Birthdate <- substr(x, start = 8, stop = 17)
+y$Mobility <- substr(x, start = 19, stop = 23)
+y$Glasses <- substr(x, start = 24, stop = 25)
+y$Contact_Lenses <- substr(x, start = 26, stop = 27)
+y$Hearing_Aid <- substr(x, start = 28, stop = 29)
+y$Dentures <- substr(x, start = 30, stop = 31)
+y$Pacemaker <- substr(x, start = 32, stop = 33)
+
+z <- as.data.frame(substr(p, start = 1, stop = 6), stringsAsFactors = T)
+colnames(z) <- "ID"
+z$Order_Date <- substr(p, start = 8, stop = 17)
+z$Order <- substr(p, start = 19, stop = 2018)
+z$Frequency <- substr(p, start = 2019, stop =  2025)
+z$Amount_Administered <- substr(p, start = 2026, stop = 2031)
+z$Inactive_Date <- substr(p, start = 2032, stop = 2042)
+z$Created_On <- substr(p, start = 2043, stop = 2053)
+z$Start_Date <- substr(p, start = 2054, stop = 2063)
+
+c <- as.data.frame(substr(q,  start = 1, stop = 6), stringsAsFactors = T)
+colnames(c) <- "ID"
+c$Fall_Date <- substr(q, start = 8, stop = 17)
+c$Fall_Time <- substr(q, start = 19, stop = 26)
+c$Site <- substr(q, start = 27, stop = 32)
+
+d <- as.data.frame(substr(a, start = 63, stop = 68), stringsAsFactors = T)
+colnames(d) <- "ID"
+d$Change_Date <- substr(a, start = 1, stop = 10)
+d$Event_Description <- substr(a, start = 12, stop = 61)
+d$Facility_Type <- substr(a, start = 70, stop = 71)
+d$Effective_Date <- substr(a, start = 73, stop = 82)
+d$Level_Of_Care <- substr(a, start = 84, stop = 87)
+d$Admitted_From <- substr(a, start = 89, stop = 93)
+d$Admitted_Reason <- substr(a, start = 95, stop = 100)
+
+e <- as.data.frame(substr(b, start = 1, stop = 6), stringsAsFactors = T)
+colnames(e) <- "ID"
+e$Fall_Date <- substr(b, start = 8, stop = 17)
+e$Fall_Time <- substr(b, start = 19, stop = 26)
+e$To_Hospital <- substr(b, start = 28, stop = 29)
+e$Prior_Physical <- substr(b, start = 30, stop = 34)
+
+
+falls <- e
+transfers <- d
+fall_site <- c
+phys_orders <- z
+profile <- merge(s, y, by = "ID")
+vitals <- m
+
+falls$ID <- trimws(falls$ID)
+transfers$ID <- trimws(transfers$ID)
+fall_site$ID <- trimws(fall_site$ID)
+phys_orders$ID <- trimws(phys_orders$ID)
+profile$ID <- trimws(profile$ID)
+vitals$ID <- trimws(vitals$ID)
+vitals$Notes <- trimws(vitals$Notes)
+```
+
+```{r}
+load('../data/falls.RData')
+load('../data/transfers.RData')
+load('../data/fall_site.RData')
+load('../data/phys_orders.RData')
+load('../data/profile.RData')
+```
+
+```{r}
+transfers$ID <- as.integer(transfers$ID)
+transfers$Change_Date <- as.Date.character(transfers$Change_Date, format = "%m/%d/%Y")
+transfers$Effective_Date <- as.Date.character(transfers$Effective_Date, format = "%m/%d/%Y")
+
+fall_site$ID <- as.integer(fall_site$ID)
+fall_site$Fall_Date <- as.Date.character(fall_site$Fall_Date, format = "%m/%d/%Y")
+fall_site$Fall_Time <- times(fall_site$Fall_Time)
+fall_site$Site <- trimws(fall_site$Site)
+
+phys_orders$Order_Date <- as.Date.character(phys_orders$Order_Date, format = "%m/%d/%Y")
+phys_orders$Inactive_Date <- as.Date.character(phys_orders$Inactive_Date , format = "%m/%d/%Y")
+phys_orders$Start_Date <- as.Date.character(phys_orders$Start_Date, format = "%m/%d/%Y")
+phys_orders$Created_On <- as.Date.character(phys_orders$Created_On, format = "%m/%d/%Y")
+
+falls$ID <- as.integer(falls$ID)
+falls$Fall_Date <- as.Date.character(falls$Fall_Date, format = "%m/%d/%Y")
+falls$Fall_Time <- times(falls$Fall_Time)
+falls$To_Hospital <- trimws(falls$To_Hospital)
+
+profile$ID <- as.integer(profile$ID)
+profile$Birthdate <- as.Date.character(profile$Birthdate, format = "%m/%d/%Y")
+
+vitals$ID <- as.integer(vitals$ID)
+vitals$Date <- as.Date.character(vitals$Date, format = "%m/%d/%Y")
+vitals$Time <- times(vitals$Time)
+vitals$Vital_Code <- trimws(vitals$Vital_Code)
+vitals$Number <- as.numeric(vitals$Number)
+vitals$Number2 <- as.numeric(vitals$Number2)
+```
+
+```{r, feature_engineering}
+uids <- unique(falls$ID)
+profile$has_fallen <- profile$ID %in% uids
+
+```
+```
+save(falls, file = '../data/falls.RData')
+save(transfers, file = '../data/transfers.RData')
+save(fall_site, file = '../data/fall_site.RData')
+save(phys_orders, file = '../data/phys_orders.RData')
+save(profile, file = '../data/profile.RData')
+save(vitals, file = "../data/vitals.RData")
+```
+```
+write_csv(falls, path = '../data/falls.csv')
+write_csv(transfers, path = '../data/transfers.csv')
+write_csv(fall_site, path = '../data/fall_site.csv')
+write_csv(phys_orders, path = '../data/phys_orders.csv')
+write_csv(profile, path = '../data/profile.csv')
+
+
+```
+
+Text File Import: The text file import should be straight forward with read_table2 in the readr package. The current data is being changed and a lot of the problem columns for automatic imports will be removed and put back together with rbind after the import. Pulling the column names from XML, vectorizing them, and then adding them as the col_names argument has proven to be beneficial thus far. 
+```{r import_text}
+tab <- read_table2('~/Downloads/mwtablesupload/physorders.txt', col_names = col_names)
+```
+
+Vew Data: Introductory look into the data for confirmation of uniformity.
+```{r import_view}
+# Inspection and verification of data
+View(tab)
+names(tab)
+summary(tab)
+# Creating some plots to model patient information, i.e. fallen vs not_fallen, this will require a feature engineered column that checks the incident type which we do not have at this moment due to only receiving fall reports.
+ggplot(data = incident_data, aes(fallen)) + geom_bar()
+incident_data %>%
+  filter(fallen == 1) %>%
+  ggplot(data = ., aes(x = fallTime, y = fallDate)) + geom_point()
+
+incident_data %>%
+  filter(fallen == 1) %>%
+  ggplot(data = ., aes(x = month(fallDate))) + geom_bar()
+
+# continue viewing for base level informatino, when do most falls occur by month, day of week, year, time of day, etc.  Plot mean variance between date of fall and previous incident.
+```
+
+## Exploratory Data Analysis
+
+Initial EDA: 
+```{r eda_init}
+# Let's get a sample of our data for training and testing.
+data <- mpg
+set.seed(666)
+index <- sample(nrow(data), 0.70*nrow(data), replace = F)
+training <- data[index,]
+testing <- data[-index,]
+View(training)
+View(testing)
+summary(training)
+summary(testing)
+
+training[,.N/nrow(training),gender]
+testing[,.N/nrow(testing),gender]
+
+# we can further explore to see if variables skew in any direction. This could be a good place to start any minor pruning we may want to do. Though the residuals and initial model will allow us to do this in a more effective way. These views will still be useful for gaining initial insight to better inform us.
+# 
+# We will also need to remove blank columns and replace them with NA values for modeling
+```
+
+
+
+
+
+
+### Data Views
+
+
+
+
+
+
+
+
+
+
+
+## Modeling
+```{r model_init}
+# columns: fallen, polypharmacy, dementia, diabetes, care_level, hypertension, bp_scale, 
+model <- glm(falls ~ ., family = binomial(link = 'logit'), data = train[,c("columns")])
+```
+

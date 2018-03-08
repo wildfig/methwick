@@ -1,0 +1,1491 @@
+ID,Change_Date,Event_Description,Facility_Type,Effective_Date,Level_Of_Care,Admitted_From,Admitted_Reason
+653,09/16/2014,Transfer In                                       ,NF,09/16/2014,TSNF,STLUK, HOSP
+1827,09/17/2014,Transfer In                                       ,NF,00/00/0000,ICF ,HOME , MOVE
+1742,09/18/2014,Transfer In                                       ,AL,09/16/2014,RES ,HOME , MOVE
+1472,09/18/2014,Transfer In                                       ,NF,09/21/2014,TICF,DRIDG, NA
+1472,09/18/2014,Transfer Out                                      ,IL,09/21/2014,IL2,,
+699,09/19/2014,Transfer Out                                      ,IL,09/18/2014,IL1,,
+1621,09/19/2014,Transfer Out                                      ,AL,09/18/2014,ALL1,,
+1438,09/21/2014,Transfer In                                       ,SL,09/19/2014,SL2B,NA   , NA
+1824,09/21/2014,Transfer In                                       ,AL,09/19/2014,ALL1,WDLAN, MOVE
+1742,09/22/2014,Transfer In                                       ,NF,09/22/2014,TSNF,STLUK, HOSP
+1621,09/22/2014,Transfer In                                       ,AL,09/22/2014,ALL1,WDLAN, MOVE
+699,09/24/2014,Transfer In                                       ,NF,09/24/2014,TSNF,STLUK, HOSP
+1700,09/26/2014,Transfer Out                                      ,SL,09/23/2014,SL1B,,
+1621,09/26/2014,Transfer Out                                      ,AL,09/24/2014,ALL1,,
+1621,09/26/2014,Transfer In                                       ,AL,09/25/2014,ALL1,WDLAN, MOVE
+1834,09/26/2014,Transfer In                                       ,SL,09/25/2014,SL1B,HOME , MOVE
+1472,09/26/2014,Transfer In                                       ,IL,09/26/2014,IL2 ,NA   , NA
+1489,09/30/2014,Transfer Out                                      ,NF,09/29/2014,TICF,,
+1019,09/30/2014,Transfer In                                       ,AL,09/29/2014,ALL1,CCARE, MOVE
+1330,09/30/2014,Transfer In                                       ,AL,09/29/2014,RES ,GWOOD, DIH
+1076,09/30/2014,Transfer Out                                      ,AL,09/30/2014,ALL2,,
+1076,09/30/2014,Transfer In                                       ,NF,09/30/2014,ICF ,MANOR, DIH
+1558,10/01/2014,Transfer Out                                      ,SL,09/30/2014,SL1B,,
+1700,10/01/2014,Transfer In                                       ,NF,10/01/2014,TSNF,UIHC , HOSP
+488,10/02/2014,Transfer In                                       ,AL,10/01/2014,ALL2,CCARE, MOVE
+1380,10/02/2014,Transfer In                                       ,NF,10/02/2014,TSNF,STLUK, HOSP
+1251,10/03/2014,Transfer In                                       ,AL,10/02/2014,RES ,GWOOD, DIH
+1648,10/03/2014,Transfer In                                       ,AL,10/02/2014,RES ,HOME , DIH
+1080,10/03/2014,Transfer In                                       ,IL,10/03/2014,IL1 ,NA   , NA
+1489,10/03/2014,Transfer In                                       ,NF,10/03/2014,TSNF,MERIA, HOSP
+1575,10/03/2014,Transfer In                                       ,NF,10/04/2014,TSNF,STLUK, HOSP
+1489,10/07/2014,Transfer Out                                      ,NF,10/06/2014,TICF,,
+1838,10/08/2014,Transfer In                                       ,SL,10/12/2014,SL1B,HOME , MOVE
+1837,10/08/2014,Transfer In                                       ,IL,10/13/2014,IL1 ,HOME , MOVE
+1836,10/08/2014,Transfer In                                       ,IL,10/13/2014,IL2 ,HOME , MOVE
+1621,10/08/2014,Transfer Out                                      ,AL,10/08/2014,ALL1,,
+1621,10/08/2014,Transfer In                                       ,NF,10/08/2014,TICF,ARBOR, DIH
+1330,10/10/2014,Transfer In                                       ,NF,10/10/2014,ICF ,MMCCR, HOSP
+1251,10/10/2014,Transfer In                                       ,AL,10/09/2014,ALL1,CCARE, MOVE
+1489,10/10/2014,Transfer In                                       ,NF,10/10/2014,TSNF,MERIA, HOSP
+1829,10/10/2014,Transfer In                                       ,AL,10/10/2014,ALL1,HOME , MOVE
+1839,10/13/2014,Transfer In                                       ,NF,10/13/2014,TSNF,MMCCR, HOSP
+1628,10/14/2014,Transfer In                                       ,AL,10/11/2014,RES ,MANOR, DIH
+1482,10/14/2014,Transfer In                                       ,AL,10/11/2014,RES ,MANOR, DIH
+1831,10/14/2014,Transfer In                                       ,IL,10/13/2014,IL1 ,HOME , MOVE
+1830,10/14/2014,Transfer In                                       ,IL,10/13/2014,IL2 ,HOME , MOVE
+699,10/14/2014,Transfer In                                       ,AL,10/14/2014,RES ,WDLAN, IIH
+1758,10/15/2014,Transfer In                                       ,NF,10/15/2014,TICF,STLUK, HOSP
+1840,10/15/2014,Transfer In                                       ,IL,10/16/2014,IL1 ,HOME , MOVE
+1841,10/15/2014,Transfer In                                       ,IL,10/16/2014,IL2 ,HOME , MOVE
+1628,10/16/2014,Transfer In                                       ,NF,10/16/2014,TICF,CCARE, DIH
+1844,10/17/2014,Transfer In                                       ,IL,10/17/2014,IL1 ,HOME , MOVE
+1845,10/17/2014,Transfer In                                       ,IL,10/17/2014,IL2 ,HOME , MOVE
+1842,10/17/2014,Transfer In                                       ,IL,10/20/2014,IL1 ,HOME , MOVE
+1843,10/17/2014,Transfer In                                       ,IL,10/20/2014,IL2 ,HOME , MOVE
+1669,10/17/2014,Transfer Out                                      ,IL,10/03/2014,IL1,,
+1669,10/17/2014,Transfer In                                       ,NF,10/17/2014,TSNF,STLUK, HOSP
+699,10/21/2014,Transfer In                                       ,IL,10/18/2014,IL1 ,NA   , NA
+1405,10/22/2014,Transfer In                                       ,NF,10/22/2014,TSNF,MMCCR, HOSP
+1225,10/22/2014,Transfer Out                                      ,IL,10/22/2014,IL1,,
+1225,10/23/2014,Transfer In                                       ,AL,10/22/2014,ALL1,DRIDG, MOVE
+1482,10/24/2014,Transfer In                                       ,NF,10/24/2014,TSNF,STLUK, HOSP
+1700,10/28/2014,Transfer Out                                      ,NF,10/27/2014,TICF,,
+1700,10/28/2014,Transfer In                                       ,NF,10/28/2014,TSNF,UIHC , HOSP
+540,10/29/2014,Transfer In                                       ,AL,10/28/2014,ALL2,MANOR, MOVE
+1521,10/30/2014,Transfer Out                                      ,AL,10/29/2014,ALL1,,
+1781,10/30/2014,Transfer In                                       ,NF,10/30/2014,TSNF,STLUK, HOSP
+1637,10/30/2014,Transfer In                                       ,NF,10/30/2014,TSNF,STLUK, HOSP
+1847,10/31/2014,Transfer In                                       ,NF,10/31/2014,TICF,OTRFA, NA
+1542,10/31/2014,Transfer In                                       ,NF,10/31/2014,ICF ,ARBOR, DIH
+1669,11/01/2014,Transfer In                                       ,AL,11/01/2014,RES ,WDLAN, IIH
+583,11/03/2014,Transfer In                                       ,NF,11/03/2014,TSNF,OTRFA, NA
+1521,11/03/2014,Transfer In                                       ,AL,11/01/2014,ALL1,WDLAN, MOVE
+1420,11/06/2014,Transfer Out                                      ,SL,11/03/2014,SL1B,,
+1420,11/06/2014,Transfer In                                       ,NF,11/06/2014,TSNF,STLUK, HOSP
+1850,11/06/2014,Transfer In                                       ,NF,11/06/2014,TSNF,STLUK, HOSP
+1758,11/08/2014,Transfer In                                       ,SL,11/07/2014,SL1B,CCARE, MOVE
+1452,11/08/2014,Transfer Out                                      ,SL,11/07/2014,SL1B,,
+488,11/10/2014,Transfer Out                                      ,AL,11/08/2014,ALL1,,
+1851,11/11/2014,Transfer In                                       ,NF,11/11/2014,ICF ,MMCCR, HOSP
+1849,11/12/2014,Transfer In                                       ,SL,11/10/2014,SL1B,HOME , MOVE
+1814,11/12/2014,Transfer In                                       ,SL,11/10/2014,SL2B,HOME , MOVE
+1848,11/12/2014,Transfer In                                       ,SL,11/12/2014,SL1B,HOME , MOVE
+1452,11/13/2014,Transfer In                                       ,NF,11/13/2014,TSNF,STLUK, HOSP
+1637,11/14/2014,Transfer In                                       ,SL,11/14/2014,SL1B,HOME , MOVE
+1554,11/17/2014,Transfer In                                       ,AL,11/14/2014,RES ,MANOR, DIH
+1380,11/17/2014,Transfer In                                       ,AL,11/15/2014,ALL1,WDLAN, MOVE
+1854,11/18/2014,Transfer In                                       ,NF,11/18/2014,TSNF,STLUK, HOSP
+1852,11/19/2014,Transfer In                                       ,IL,11/19/2014,IL1 ,HOME , MOVE
+1853,11/19/2014,Transfer In                                       ,IL,11/19/2014,IL2 ,HOME , MOVE
+1482,11/20/2014,Transfer In                                       ,NF,11/20/2014,TSNF,STLUK, HOSP
+1080,11/24/2014,Transfer Out                                      ,IL,11/21/2014,IL1,,
+1080,11/24/2014,Transfer In                                       ,SL,11/21/2014,SL1B,GWOOD, MOVE
+1452,11/25/2014,Transfer In                                       ,SL,11/25/2014,SL1B,NA   , NA
+1229,11/26/2014,Transfer Out                                      ,SL,11/24/2014,SL1B,,
+1229,11/26/2014,Transfer In                                       ,NF,11/25/2014,ICF ,STLUK, HOSP
+1854,12/01/2014,Transfer In                                       ,NF,12/01/2014,TSNF,STLUK, HOSP
+1823,12/02/2014,Transfer In                                       ,SL,12/01/2014,SL1B,HOME , MOVE
+1650,12/03/2014,Transfer Out                                      ,AL,12/02/2014,ALL1,,
+1650,12/03/2014,Transfer In                                       ,NF,12/03/2014,TICF,MMCCR, HOSP
+1800,12/04/2014,Transfer Out                                      ,IL,11/26/2014,IL1,,
+1827,12/05/2014,Transfer In                                       ,NF,12/05/2014,TICF,HOME , DIH
+1554,12/08/2014,Transfer In                                       ,AL,12/05/2014,RES ,MANOR, DIH
+1857,12/08/2014,Transfer In                                       ,IL,12/06/2014,IL1 ,HOME , MOVE
+1856,12/08/2014,Transfer In                                       ,IL,12/06/2014,IL2 ,HOME , MOVE
+1855,12/11/2014,Transfer In                                       ,SL,12/11/2014,SL1B,HOME , MOVE
+1217,12/12/2014,Transfer Out                                      ,SL,12/12/2014,SL1B,,
+1217,12/12/2014,Transfer In                                       ,NF,12/12/2014,TICF,MANOR, NA
+1506,12/15/2014,Transfer In                                       ,AL,12/14/2014,RES ,CCARE,
+1010,12/16/2014,Transfer In                                       ,AL,12/16/2014,RES ,DRIDG, DIH
+1858,12/16/2014,Transfer In                                       ,AL,12/16/2014,RES ,STLUK, DIH
+1545,12/17/2014,Transfer Out                                      ,IL,12/13/2014,IL1,,
+1545,12/17/2014,Transfer In                                       ,NF,12/17/2014,TSNF,STLUK, HOSP
+1217,12/19/2014,Transfer In                                       ,AL,12/19/2014,RES ,WDLAN, IIH
+1117,12/20/2014,Transfer Out                                      ,IL,12/15/2014,IL1,,
+1117,12/20/2014,Transfer In                                       ,NF,12/20/2014,TSNF,MMCCR, HOSP
+1660,12/22/2014,Transfer Out                                      ,AL,12/22/2014,ALL1,,
+1660,12/22/2014,Transfer In                                       ,NF,12/22/2014,TICF,ARBOR, DIH
+1700,12/23/2014,Transfer In                                       ,AL,12/22/2014,RES ,WDLAN, IIH
+1660,12/26/2014,Transfer In                                       ,AL,12/24/2014,ALL1,HOME , DIH
+1513,12/30/2014,Transfer Out                                      ,SL,12/25/2014,SL1B,,
+1513,12/30/2014,Transfer In                                       ,NF,12/30/2014,TSNF,STLUK, HOSP
+1545,12/30/2014,Transfer In                                       ,NF,12/30/2014,TSNF,STLUK, HOSP
+1010,12/30/2014,Transfer In                                       ,NF,12/30/2014,TSNF,STLUK, HOSP
+514,01/02/2015,Transfer In                                       ,AL,12/31/2014,RES ,MANOR, DIH
+1239,01/02/2015,Transfer In                                       ,NF,01/02/2015,ICF ,ARBOR, DIH
+1824,01/03/2015,Transfer Out                                      ,AL,12/28/2014,ALL1,,
+1824,01/03/2015,Transfer In                                       ,NF,01/03/2015,TSNF,UIHC , HOSP
+946,01/05/2015,Transfer In                                       ,AL,01/02/2015,RES ,DRIDG, DIH
+1144,01/05/2015,Transfer In                                       ,AL,01/04/2015,RES ,DRIDG, DIH
+1506,01/05/2015,Transfer In                                       ,NF,01/05/2015,TSNF,MMCCR, HOSP
+1810,01/06/2015,Transfer In                                       ,AL,01/05/2015,ALL1,MANOR, MOVE
+1859,01/07/2015,Transfer In                                       ,IL,01/06/2015,IL1 ,HOME , MOVE
+1800,01/09/2015,Transfer In                                       ,NF,01/09/2015,TSNF,DRIDG, DIH
+1860,01/12/2015,Transfer In                                       ,NF,01/12/2015,TSNF,STLUK, HOSP
+1843,01/21/2015,Transfer Out                                      ,IL,01/17/2015,IL2,,
+1843,01/21/2015,Transfer In                                       ,NF,01/21/2015,TSNF,STLUK, HOSP
+993,01/21/2015,Transfer In                                       ,AL,01/20/2015,RES ,HOME , DIH
+1863,01/21/2015,Transfer In                                       ,AL,01/20/2015,RES ,HOME , DIH
+1229,01/21/2015,Transfer In                                       ,AL,01/21/2015,RES ,WDLAN, IIH
+1365,01/21/2015,Transfer Out                                      ,IL,01/21/2015,IL1,,
+1830,01/21/2015,Transfer In                                       ,AL,01/21/2015,RES ,STLUK, HOSP
+1365,01/21/2015,Transfer In                                       ,NF,01/21/2015,TICF,DRIDG, NA
+1862,01/22/2015,Transfer In                                       ,IL,01/22/2015,IL1 ,HOME , MOVE
+1800,01/23/2015,Transfer In                                       ,AL,01/23/2015,RES ,WDLAN, IIH
+1602,01/26/2015,Transfer In                                       ,NF,01/26/2015,ICF ,NA   , NA
+1860,01/26/2015,Transfer In                                       ,NF,01/26/2015,ICF ,STLUK, HOSP
+1248,01/26/2015,Transfer In                                       ,IL,01/24/2015,IL1 ,MANOR, MOVE
+1500,01/27/2015,Transfer Out                                      ,NF,01/27/2015,ICF,,
+1365,01/27/2015,Transfer In                                       ,AL,01/26/2015,RES ,GWOOD, DIH
+1482,01/27/2015,Transfer In                                       ,AL,01/26/2015,RES ,WDLAN, IIH
+1629,01/27/2015,Transfer In                                       ,NF,01/27/2015,TSNF,STLUK, HOSP
+1217,01/28/2015,Transfer In                                       ,NF,01/28/2015,ICF ,MANOR, DIH
+1225,01/28/2015,Transfer Out                                      ,AL,01/28/2015,ALL1,,
+1225,01/28/2015,Transfer In                                       ,NF,01/28/2015,TICF,ARBOR, DIH
+1752,01/29/2015,Transfer In                                       ,AL,01/28/2015,RES ,MANOR, DIH
+1733,02/02/2015,Transfer Out                                      ,NF,01/30/2015,ICF,,
+1751,02/02/2015,Transfer Out                                      ,SL,01/30/2015,SL1B,,
+1751,02/02/2015,Transfer In                                       ,AL,01/31/2015,ALL1,MANOR, MOVE
+1752,02/02/2015,Transfer In                                       ,AL,01/31/2015,ALL1,MANOR, MOVE
+1865,02/02/2015,Transfer In                                       ,NF,02/02/2015,ICF ,MMCCR, DIH
+1372,02/03/2015,Transfer In                                       ,NF,02/03/2015,TICF,STLUK, HOSP
+1099,02/04/2015,Transfer In                                       ,NF,02/04/2015,TICF,MMCCR, HOSP
+1364,02/05/2015,Transfer In                                       ,AL,02/04/2015,RES ,STLUK, HOSP
+1500,02/05/2015,Transfer In                                       ,NF,02/05/2015,PSNF,MMCCR, HOSP
+1406,02/05/2015,Transfer In                                       ,NF,02/05/2015,ICF ,ARBOR, DIH
+1485,02/06/2015,Transfer In                                       ,AL,02/05/2015,RES ,MMCCR, HOSP
+1866,02/06/2015,Transfer In                                       ,NF,02/06/2015,ICF ,HOME , DIH
+1389,02/09/2015,Transfer Out                                      ,NF,02/09/2015,ICF,,
+1718,02/09/2015,Transfer In                                       ,NF,02/09/2015,TICF,MMCCR, HOSP
+699,02/09/2015,Transfer In                                       ,AL,02/07/2015,RES ,BVILL, DIH
+1800,02/09/2015,Transfer Out                                      ,IL,02/09/2015,IL1,,
+1800,02/09/2015,Transfer In                                       ,NF,02/09/2015,TSNF,STLUK, HOSP
+1865,02/10/2015,Transfer Out                                      ,NF,02/09/2015,ICF,,
+1718,02/10/2015,Transfer Out                                      ,IL,02/05/2015,IL1,,
+1845,02/12/2015,Transfer Out                                      ,IL,02/12/2015,IL2,,
+1845,02/12/2015,Transfer In                                       ,NF,02/12/2015,TICF,BVILL, DIH
+1389,02/12/2015,Transfer In                                       ,NF,02/12/2015,ICF ,NA   , NA
+1865,02/13/2015,Transfer In                                       ,NF,02/13/2015,ICF ,MMCCR, DIH
+1225,02/13/2015,Transfer Out                                      ,AL,02/07/2015,ALL1,,
+1225,02/13/2015,Transfer In                                       ,NF,02/14/2015,TSNF,STLUK, HOSP
+1868,02/17/2015,Transfer In                                       ,AL,02/15/2015,ALL1,HOME , MOVE
+1494,02/17/2015,Transfer Out                                      ,AL,02/15/2015,ALL1,,
+1494,02/17/2015,Transfer In                                       ,NF,02/17/2015,TICF,STLUK, HOSP
+1845,02/18/2015,Transfer In                                       ,IL,02/18/2015,IL2 ,HOME , MOVE
+1869,02/20/2015,Transfer In                                       ,SL,02/20/2015,SL1B,HOME , MOVE
+1010,02/20/2015,Transfer In                                       ,IL,02/20/2015,IL2 ,NA   , NA
+1660,02/23/2015,Transfer In                                       ,NF,02/23/2015,ICF ,ARBOR, DIH
+1420,02/23/2015,Transfer In                                       ,AL,02/21/2015,RES ,MANOR, DIH
+1870,02/25/2015,Transfer In                                       ,NF,02/25/2015,TSNF,STLUK, HOSP
+1631,02/27/2015,Transfer Out                                      ,SL,02/26/2015,SL1B,,
+1631,02/27/2015,Transfer In                                       ,NF,02/27/2015,TICF,MMCCR, HOSP
+1861,02/27/2015,Transfer In                                       ,AL,02/27/2015,ALL2,HOME , DIH
+1845,03/02/2015,Transfer Out                                      ,IL,03/02/2015,IL2,,
+1845,03/02/2015,Transfer In                                       ,NF,03/02/2015,TICF,BVILL, DIH
+1151,03/02/2015,Transfer In                                       ,AL,02/27/2015,RES ,MANOR, DIH
+1854,03/02/2015,Transfer In                                       ,SL,02/28/2015,SL1B,WDLAN, MOVE
+1861,03/02/2015,Transfer In                                       ,AL,02/28/2015,ALL2,CCARE, MOVE
+699,03/04/2015,Transfer In                                       ,SL,03/01/2015,SL1B,BVILL, MOVE
+1874,03/05/2015,Transfer In                                       ,NF,03/05/2015,TICF,STLUK, HOSP
+1513,03/05/2015,Transfer In                                       ,AL,03/04/2015,RES ,WDLAN, IIH
+1339,03/09/2015,Transfer In                                       ,AL,03/07/2015,RES ,MANOR, DIH
+945,03/10/2015,Transfer In                                       ,NF,03/10/2015,TSNF,MERIA, HOSP
+1773,03/11/2015,Transfer In                                       ,NF,03/11/2015,TICF,STLUK, DIH
+1494,03/12/2015,Transfer In                                       ,AL,03/11/2015,ALL1,NA   , NA
+1513,03/16/2015,Transfer In                                       ,AL,03/14/2015,ALL2,CCARE, MOVE
+1873,03/16/2015,Transfer In                                       ,AL,03/15/2015,ALL2,OTRFA, MOVE
+1080,03/16/2015,Transfer Out                                      ,SL,03/11/2015,SL1B,,
+1080,03/16/2015,Transfer In                                       ,NF,03/16/2015,TSNF,MMCCR, HOSP
+946,03/18/2015,Transfer In                                       ,IL,03/17/2015,IL1 ,NA   , NA
+1874,03/18/2015,Transfer Out                                      ,NF,03/18/2015,TICF,,
+1631,03/20/2015,Transfer In                                       ,AL,03/20/2015,ALL1,WDLAN, MOVE
+1793,03/21/2015,Transfer Out                                      ,IL,03/21/2015,IL2,,
+1793,03/21/2015,Transfer In                                       ,NF,03/21/2015,TICF,STLUK, HOSP
+1874,03/23/2015,Transfer In                                       ,NF,03/23/2015,TSNF,STLUK, HOSP
+1482,03/24/2015,Transfer In                                       ,AL,03/21/2015,RES ,STLUK, HOSP
+1850,03/24/2015,Transfer In                                       ,IL,03/11/2015,IL1 ,HOME , MOVE
+1340,03/26/2015,Transfer In                                       ,NF,03/26/2015,TICF,MMCCR, DIH
+424,03/27/2015,Transfer In                                       ,AL,03/26/2015,RES ,BVILL, DIH
+1793,03/27/2015,Transfer In                                       ,IL,03/26/2015,IL2 ,HOME , MOVE
+1872,03/27/2015,Transfer In                                       ,AL,03/27/2015,ALL2,HOME , MOVE
+1605,03/27/2015,Transfer In                                       ,NF,03/27/2015,ICF ,WDLAN, DIH
+1682,03/30/2015,Transfer In                                       ,AL,03/28/2015,ALL1,MANOR, DIH
+1831,03/31/2015,Transfer In                                       ,IL,03/30/2015,IL1 ,DRIDG, MOVE
+1830,03/31/2015,Transfer In                                       ,IL,03/30/2015,IL2 ,DRIDG, MOVE
+1648,04/01/2015,Transfer In                                       ,NF,04/01/2015,TICF,HOME , DIH
+1318,04/02/2015,Transfer Out                                      ,NF,04/01/2015,ICF,,
+1318,04/02/2015,Transfer In                                       ,NF,04/02/2015,ICF ,MMCCR, HOSP
+1873,04/03/2015,Transfer In                                       ,NF,04/03/2015,TICF,CCARE, DIH
+1475,04/06/2015,Transfer In                                       ,NF,04/06/2015,TICF,STLUK, DIH
+1340,04/06/2015,Transfer In                                       ,SL,04/05/2015,SL2B,MANOR, MOVE
+1773,04/07/2015,Transfer In                                       ,IL,04/07/2015,IL1 ,HOME , MOVE
+1877,04/09/2015,Transfer In                                       ,NF,04/09/2015,TSNF,STLUK, DIH
+1700,04/10/2015,Transfer In                                       ,AL,04/10/2015,RES ,MANOR, DIH
+1879,04/10/2015,Transfer In                                       ,NF,04/10/2015,TSNF,UIHC , HOSP
+1882,04/10/2015,Transfer In                                       ,AL,04/14/2015,ALL1,OTRFA, IIH
+1876,04/13/2015,Transfer In                                       ,NF,04/13/2015,TSNF,UIHC , HOSP
+1482,04/16/2015,Transfer In                                       ,AL,04/15/2015,RES ,STLUK, HOSP
+1700,04/16/2015,Transfer In                                       ,NF,04/16/2015,ICF ,MMCCR, HOSP
+1800,04/17/2015,Transfer In                                       ,IL,04/16/2015,IL1 ,HOME , MOVE
+1557,04/17/2015,Transfer In                                       ,IL,04/17/2015,IL2 ,NA   , NA
+1455,04/17/2015,Transfer In                                       ,IL,04/17/2015,IL2 ,NA   , NA
+933,04/20/2015,Transfer In                                       ,NF,04/20/2015,TICF,CCARE, DIH
+1251,04/21/2015,Transfer In                                       ,NF,04/21/2015,ICF ,CCARE, DIH
+1880,04/21/2015,Transfer In                                       ,SL,04/18/2015,SL2B,HOME , MOVE
+1881,04/21/2015,Transfer In                                       ,SL,04/18/2015,SL1B,HOME , MOVE
+1080,04/22/2015,Transfer In                                       ,AL,04/21/2015,RES ,WDLAN, IIH
+1384,04/23/2015,Transfer In                                       ,SL,04/22/2015,SL1B,MANOR, MOVE
+1632,04/23/2015,Transfer Out                                      ,SL,04/23/2015,SL1B,,
+1632,04/23/2015,Transfer In                                       ,SL,04/23/2015,SL1B,MANOR, MOVE
+1110,04/23/2015,Transfer Out                                      ,SL,04/20/2015,SL1B,,
+1110,04/23/2015,Transfer In                                       ,NF,04/23/2015,TSNF,STLUK, HOSP
+1602,04/28/2015,Transfer Out                                      ,NF,04/27/2015,ICF,,
+1883,04/28/2015,Transfer In                                       ,IL,04/28/2015,IL1 ,HOME , MOVE
+1884,04/28/2015,Transfer In                                       ,IL,04/28/2015,IL2 ,HOME , MOVE
+1650,04/29/2015,Transfer Out                                      ,NF,04/28/2015,ICF,,
+1650,04/29/2015,Transfer In                                       ,NF,04/29/2015,ICF ,STLUK, HOSP
+1885,04/30/2015,Transfer In                                       ,SL,04/30/2015,SL1R,HOME , MOVE
+1472,05/01/2015,Transfer In                                       ,NF,05/03/2015,TICF,DRIDG,
+1886,05/01/2015,Transfer In                                       ,IL,04/28/2015,IL1 ,HOME , MOVE
+1472,05/04/2015,Transfer Out                                      ,IL,04/03/2015,IL2,,
+1602,05/04/2015,Transfer In                                       ,NF,05/04/2015,TSNF,MMCCR, HOSP
+1258,05/04/2015,Transfer In                                       ,SL,05/02/2015,SL1B,DRIDG, MOVE
+931,05/05/2015,Transfer Out                                      ,AL,05/01/2015,ALL1,,
+931,05/05/2015,Transfer In                                       ,NF,05/05/2015,TSNF,STLUK, HOSP
+1472,05/06/2015,Transfer In                                       ,IL,05/06/2015,IL2 ,NA   , NA
+1482,05/08/2015,Transfer In                                       ,AL,05/07/2015,ALL1,MANOR, MOVE
+1080,05/08/2015,Transfer In                                       ,AL,05/07/2015,ALL2,MANOR, MOVE
+1420,05/11/2015,Transfer In                                       ,AL,05/08/2015,RES ,STLUK, HOSP
+1887,05/12/2015,Transfer In                                       ,IL,05/11/2015,IL2 ,HOME , MOVE
+1420,05/14/2015,Transfer In                                       ,AL,05/13/2015,ALL2,MANOR, MOVE
+1888,05/14/2015,Transfer In                                       ,IL,05/14/2015,IL1 ,HOME , MOVE
+1889,05/14/2015,Transfer In                                       ,IL,05/14/2015,IL2 ,HOME , MOVE
+1475,05/15/2015,Transfer Out                                      ,NF,05/14/2015,TICF,,
+1475,05/15/2015,Transfer In                                       ,NF,05/15/2015,TICF,STLUK, DIH
+1395,05/17/2015,Transfer Out                                      ,SL,05/17/2015,SL1B,,
+1395,05/17/2015,Transfer In                                       ,NF,05/17/2015,TICF,STLUK, HOSP
+1110,05/18/2015,Transfer In                                       ,NF,05/17/2015,TICF,CCARE,
+1472,05/18/2015,Transfer Out                                      ,IL,05/18/2015,IL2,,
+1472,05/18/2015,Transfer In                                       ,NF,05/18/2015,TICF,DRIDG, NA
+1471,05/19/2015,Transfer In                                       ,NF,05/19/2015,TICF,DRIDG, NA
+1235,05/20/2015,Transfer Out                                      ,NF,05/19/2015,ICF,,
+1893,05/20/2015,Transfer In                                       ,IL,05/20/2015,IL1 ,HOME , MOVE
+1894,05/20/2015,Transfer In                                       ,IL,05/20/2015,IL2 ,HOME , MOVE
+1235,05/20/2015,Transfer In                                       ,NF,05/20/2015,ICF ,MANOR, DIH
+1471,05/21/2015,Transfer In                                       ,IL,05/20/2015,IL1 ,NA   , NA
+1472,05/21/2015,Transfer In                                       ,IL,05/21/2015,IL2 ,NA   , NA
+263,05/21/2015,Transfer In                                       ,AL,05/21/2015,ALL1,CCARE, MOVE
+1810,05/22/2015,Transfer Out                                      ,AL,05/20/2015,ALL1,,
+1441,06/01/2015,Transfer In                                       ,NF,06/01/2015,TICF,MANOR,
+802,06/01/2015,Transfer In                                       ,AL,05/29/2015,RES ,MANOR, DIH
+1151,06/01/2015,Transfer In                                       ,AL,05/31/2015,RES ,MANOR, DIH
+805,06/04/2015,Transfer In                                       ,AL,06/03/2015,RES ,GWOOD, DIH
+1441,06/05/2015,Transfer In                                       ,SL,06/04/2015,SL2B,GWOOD, MOVE
+1893,06/05/2015,Transfer In                                       ,IL,06/05/2015,IL1 ,DRIDG, MOVE
+1894,06/05/2015,Transfer In                                       ,IL,06/05/2015,IL2 ,DRIDG, MOVE
+805,06/08/2015,Transfer In                                       ,NF,06/08/2015,ICF ,CCARE, DIH
+805,06/08/2015,Transfer Out                                      ,IL,06/06/2015,IL1,,
+805,06/08/2015,Transfer In                                       ,AL,06/07/2015,RES ,GWOOD, DIH
+1810,06/08/2015,Transfer In                                       ,AL,06/08/2015,ALL1,MANOR, MOVE
+1793,06/09/2015,Transfer Out                                      ,IL,06/02/2015,IL2,,
+1793,06/09/2015,Transfer In                                       ,NF,06/09/2015,TSNF,NA   , HOSP
+1792,06/10/2015,Transfer In                                       ,AL,06/09/2015,RES ,GWOOD, DIH
+1792,06/10/2015,Transfer Out                                      ,IL,06/09/2015,IL1,,
+1895,06/11/2015,Transfer In                                       ,AL,06/11/2015,ALL1,HOME , MOVE
+556,06/12/2015,Transfer Out                                      ,IL,06/11/2015,IL1,,
+805,06/14/2015,Transfer In                                       ,NF,06/14/2015,TICF,STLUK, HOSP
+1602,06/15/2015,Transfer Out                                      ,NF,06/12/2015,ICF,,
+805,06/15/2015,Transfer In                                       ,NF,06/15/2015,TICF,STLUK, HOSP
+1209,06/16/2015,Transfer In                                       ,AL,06/15/2015,RES ,DRIDG, DIH
+1602,06/16/2015,Transfer In                                       ,NF,06/16/2015,TSNF,STLUK, HOSP
+1890,06/17/2015,Transfer In                                       ,IL,06/17/2015,IL1 ,HOME , MOVE
+1891,06/17/2015,Transfer In                                       ,IL,06/17/2015,IL2 ,HOME , MOVE
+961,06/22/2015,Transfer In                                       ,AL,06/19/2015,RES ,MANOR, DIH
+1902,06/24/2015,Transfer In                                       ,AL,06/24/2015,ALL1,OTRFA, IIH
+1903,06/24/2015,Transfer In                                       ,IL,06/24/2015,IL1 ,HOME , MOVE
+1899,06/25/2015,Transfer In                                       ,SL,06/25/2015,SL1B,HOME , MOVE
+1900,06/25/2015,Transfer In                                       ,SL,06/25/2015,SL2B,HOME , MOVE
+1861,06/25/2015,Transfer Out                                      ,AL,06/25/2015,ALL2,,
+1861,06/25/2015,Transfer In                                       ,NF,06/25/2015,TICF,CCARE, DIH
+534,06/26/2015,Transfer In                                       ,NF,06/26/2015,ICF ,STLUK, HOSP
+1901,06/29/2015,Transfer In                                       ,SL,06/29/2015,SL1B,HOME , MOVE
+1905,06/30/2015,Transfer In                                       ,NF,06/30/2015,TSNF,HOME , DIH
+556,07/01/2015,Transfer In                                       ,AL,06/30/2015,ALL1,CCARE, MOVE
+1904,07/01/2015,Transfer In                                       ,SL,07/01/2015,SL1B,HOME , MOVE
+1847,07/06/2015,Transfer In                                       ,NF,07/06/2015,ICF ,OTRFA, NA
+1861,07/07/2015,Transfer In                                       ,AL,07/06/2015,ALL2,CCARE, MOVE
+1704,07/07/2015,Transfer In                                       ,AL,07/07/2015,RES ,GWOOD, DIH
+1440,07/08/2015,Transfer In                                       ,AL,07/07/2015,RES ,MANOR, DIH
+1704,07/17/2015,Transfer In                                       ,AL,07/16/2015,RES ,GWOOD, DIH
+1827,07/20/2015,Transfer In                                       ,NF,07/20/2015,ICF ,OTRFA, NA
+805,07/22/2015,Transfer In                                       ,IL,07/22/2015,IL1 ,NA   , NA
+1302,07/22/2015,Transfer In                                       ,AL,07/22/2015,RES ,DRIDG, DIH
+1906,07/24/2015,Transfer In                                       ,NF,07/24/2015,TSNF,MMCCR, HOSP
+1771,07/26/2015,Transfer Out                                      ,IL,07/23/2015,IL2,,
+1771,07/26/2015,Transfer In                                       ,NF,07/26/2015,TSNF,STLUK, HOSP
+1909,07/26/2015,Transfer In                                       ,NF,07/26/2015,TSNF,STLUK, HOSP
+1704,07/28/2015,Transfer In                                       ,AL,07/23/2015,RES ,GWOOD, DIH
+1773,07/28/2015,Transfer In                                       ,AL,07/23/2015,RES ,BVILL, DIH
+1637,07/29/2015,Transfer Out                                      ,SL,07/29/2015,SL1B,,
+1637,07/29/2015,Transfer In                                       ,NF,07/29/2015,TICF,MANOR, DIH
+1209,07/31/2015,Transfer In                                       ,SL,07/30/2015,SL1B,DRIDG, MOVE
+1908,07/31/2015,Transfer In                                       ,SL,07/31/2015,SL1B,HOME , MOVE
+1172,08/04/2015,Transfer Out                                      ,AL,08/03/2015,ALL1,,
+1172,08/07/2015,Transfer In                                       ,NF,08/07/2015,TSNF,MMCCR,
+1523,08/08/2015,Transfer Out                                      ,IL,07/14/2015,IL1,,
+1523,08/08/2015,Transfer In                                       ,NF,08/08/2015,TSNF,STLUK, HOSP
+1298,08/10/2015,Transfer Out                                      ,SL,08/05/2015,SL1B,,
+1298,08/10/2015,Transfer In                                       ,NF,08/10/2015,TSNF,STLUK, HOSP
+1704,08/10/2015,Transfer In                                       ,AL,08/09/2015,RES ,GWOOD, DIH
+1841,08/11/2015,Transfer In                                       ,AL,08/10/2015,RES ,DRIDG, DIH
+1910,08/12/2015,Transfer In                                       ,SL,08/12/2015,SL1B,HOME , MOVE
+1232,08/12/2015,Transfer In                                       ,AL,08/12/2015,RES ,DRIDG, DIH
+1905,08/12/2015,Transfer In                                       ,NF,08/12/2015,TSNF,HOME , DIH
+1398,08/14/2015,Transfer In                                       ,NF,08/14/2015,TICF,STLUK, DIH
+1841,08/17/2015,Transfer In                                       ,IL,08/14/2015,IL1 ,HOME , MOVE
+770,08/17/2015,Transfer In                                       ,AL,08/14/2015,RES ,MANOR, DIH
+1771,08/19/2015,Transfer In                                       ,IL,08/19/2015,IL2 ,HOME , MOVE
+805,08/19/2015,Transfer In                                       ,SL,08/19/2015,SL1B,GWOOD, MOVE
+1911,08/21/2015,Transfer In                                       ,IL,08/20/2015,IL1 ,HOME , MOVE
+1912,08/21/2015,Transfer In                                       ,IL,08/20/2015,IL2 ,HOME , MOVE
+1827,08/21/2015,Transfer Out                                      ,NF,08/21/2015,ICF,,
+1827,08/25/2015,Transfer In                                       ,NF,08/25/2015,TSNF,STLUK, HOSP
+1704,08/26/2015,Transfer In                                       ,AL,08/25/2015,RES ,GWOOD, DIH
+1800,08/27/2015,Transfer Out                                      ,IL,08/26/2015,IL1,,
+1800,08/27/2015,Transfer In                                       ,SL,08/26/2015,SL1B,DRIDG, MOVE
+1535,08/27/2015,Transfer Out                                      ,SL,08/26/2015,SL1B,,
+1872,08/28/2015,Transfer Out                                      ,AL,08/27/2015,ALR2,,
+1298,08/28/2015,Transfer In                                       ,NF,08/28/2015,TSNF,STLUK, HOSP
+1872,08/29/2015,Transfer In                                       ,NF,08/29/2015,TICF,UIHC , HOSP
+1535,08/29/2015,Transfer In                                       ,NF,08/29/2015,TSNF,STLUK, HOSP
+1523,08/29/2015,Transfer In                                       ,IL,08/28/2015,IL1 ,NA   , NA
+1217,08/31/2015,Transfer Out                                      ,NF,08/28/2015,ICF,,
+1172,08/31/2015,Transfer In                                       ,AL,08/28/2015,ALL1,MANOR, DIH
+1872,08/31/2015,Transfer In                                       ,AL,08/29/2015,RES ,UIHC , HOSP
+1872,08/31/2015,Transfer In                                       ,AL,08/31/2015,ALR2,HOME , MOVE
+1217,09/01/2015,Transfer In                                       ,NF,09/01/2015,PSNF,MMCCR, HOSP
+1704,09/02/2015,Transfer In                                       ,AL,08/31/2015,ALL1,ARBOR, MOVE
+1914,09/02/2015,Transfer In                                       ,IL,09/02/2015,IL1 ,HOME , MOVE
+1637,09/08/2015,Transfer In                                       ,SL,09/04/2015,SL1B,HOME , MOVE
+1411,09/08/2015,Transfer Out                                      ,SL,09/07/2015,SL1B,,
+1808,09/11/2015,Transfer Out                                      ,IL,09/09/2015,IL2,,
+1808,09/11/2015,Transfer In                                       ,NF,09/11/2015,TSNF,STLUK, HOSP
+1916,09/14/2015,Transfer In                                       ,IL,09/14/2015,IL1 ,HOME , MOVE
+1917,09/14/2015,Transfer In                                       ,IL,09/14/2015,IL2 ,HOME , MOVE
+730,09/16/2015,Transfer In                                       ,AL,09/15/2015,RES ,BVILL, DIH
+1817,09/16/2015,Transfer In                                       ,NF,09/16/2015,TSNF,MMCCR, HOSP
+1915,09/18/2015,Transfer In                                       ,SL,09/17/2015,SL1B,HOME , MOVE
+203,09/18/2015,Transfer Out                                      ,IL,09/17/2015,IL1,,
+1919,09/22/2015,Transfer In                                       ,AL,09/22/2015,ALL2,HOME , MOVE
+1817,09/23/2015,Transfer In                                       ,NF,09/23/2015,TSNF,MMCCR, HOSP
+1535,09/24/2015,Transfer In                                       ,AL,09/23/2015,ALL1,MANOR, DIH
+1920,09/24/2015,Transfer In                                       ,SL,09/24/2015,SL1B,HOME , MOVE
+1921,09/24/2015,Transfer In                                       ,SL,09/24/2015,SL2B,HOME , MOVE
+862,09/29/2015,Transfer In                                       ,SL,09/24/2015,SL1B,GWOOD, MOVE
+1924,09/30/2015,Transfer In                                       ,SL,09/30/2015,SL1B,HOME , MOVE
+1925,09/30/2015,Transfer In                                       ,SL,09/30/2015,SL2B,HOME , MOVE
+862,10/02/2015,Transfer Out                                      ,SL,09/24/2015,SL1B,,
+1885,10/02/2015,Transfer In                                       ,AL,10/01/2015,RES ,MANOR, DIH
+1749,10/02/2015,Transfer Out                                      ,IL,09/30/2015,IL2,,
+1749,10/02/2015,Transfer In                                       ,NF,10/02/2015,TSNF,MMCCR, HOSP
+1322,10/05/2015,Transfer Out                                      ,IL,09/29/2015,IL1,,
+1323,10/05/2015,Transfer Out                                      ,IL,10/03/2015,IL2,,
+1648,10/05/2015,Transfer In                                       ,AL,10/02/2015,RES ,HOME , DIH
+1927,10/05/2015,Transfer In                                       ,AL,10/03/2015,ALL1,STLUK, HOSP
+538,10/06/2015,Transfer Out                                      ,AL,10/06/2015,ALL1,,
+1334,10/06/2015,Transfer In                                       ,AL,10/03/2015,RES ,DRIDG, DIH
+1929,10/06/2015,Transfer In                                       ,NF,10/06/2015,TSNF,UIHC , HOSP
+203,10/07/2015,Transfer In                                       ,IL,10/06/2015,IL1 ,NA   , NA
+1080,10/08/2015,Transfer Out                                      ,AL,10/06/2015,ALL2,,
+1384,10/08/2015,Transfer In                                       ,AL,10/06/2015,RES ,MANOR, DIH
+1366,10/08/2015,Transfer In                                       ,AL,10/07/2015,RES ,DRIDG, DIH
+1808,10/08/2015,Transfer In                                       ,IL,10/08/2015,IL2 ,HOME , MOVE
+1749,10/09/2015,Transfer In                                       ,IL,10/08/2015,IL2 ,HOME , MOVE
+1930,10/09/2015,Transfer In                                       ,NF,10/09/2015,TICF,MMCCR, HOSP
+1931,10/09/2015,Transfer In                                       ,NF,10/09/2015,TSNF,NA   , HOSP
+1323,10/12/2015,Transfer In                                       ,IL,10/09/2015,IL2 ,NA   , NA
+1080,10/12/2015,Transfer In                                       ,AL,10/12/2015,ALL2,MANOR, MOVE
+1919,10/12/2015,Transfer Out                                      ,AL,10/12/2015,ALL2,,
+1919,10/12/2015,Transfer In                                       ,NF,10/12/2015,TICF,STLUK, DIH
+1549,10/13/2015,Transfer Out                                      ,NF,10/12/2015,ICF,,
+1080,10/13/2015,Transfer Out                                      ,AL,10/13/2015,ALL2,,
+1080,10/13/2015,Transfer In                                       ,NF,10/13/2015,TICF,CCARE,
+1768,10/13/2015,Transfer Out                                      ,AL,10/13/2015,ALL1,,
+1334,10/13/2015,Transfer In                                       ,AL,10/13/2015,RES ,DRIDG, DIH
+1549,10/14/2015,Transfer In                                       ,NF,10/14/2015,ICF ,MMCCR, HOSP
+1768,10/15/2015,Transfer In                                       ,AL,10/14/2015,ALL1,CCARE, MOVE
+514,10/15/2015,Transfer In                                       ,AL,10/14/2015,RES ,MANOR, DIH
+1814,10/15/2015,Transfer Out                                      ,SL,10/15/2015,SL2B,,
+1814,10/15/2015,Transfer In                                       ,NF,10/15/2015,TICF,MANOR, DIH
+1932,10/15/2015,Transfer In                                       ,NF,10/15/2015,TICF,HOME , DIH
+1927,10/19/2015,Transfer Out                                      ,AL,10/17/2015,RES,,
+1927,10/19/2015,Transfer In                                       ,NF,10/19/2015,TICF,STLUK, HOSP
+1234,10/21/2015,Transfer Out                                      ,IL,10/17/2015,IL1,,
+1234,10/21/2015,Transfer In                                       ,NF,10/21/2015,TSNF,STLUK, HOSP
+613,10/22/2015,Transfer In                                       ,NF,10/22/2015,ICF ,ARBOR, DIH
+1792,10/22/2015,Transfer Out                                      ,AL,10/22/2015,ALL1,,
+1322,10/23/2015,Transfer In                                       ,NF,10/23/2015,TSNF,MMCCR, HOSP
+1762,10/26/2015,Transfer In                                       ,AL,10/22/2015,RES ,MANOR, DIH
+1919,10/26/2015,Transfer In                                       ,AL,10/23/2015,RES ,WDLAN, DIH
+1818,10/26/2015,Transfer In                                       ,AL,10/23/2015,RES ,DRIDG, DIH
+556,10/26/2015,Transfer In                                       ,AL,10/23/2015,RES ,CCARE, DIH
+1919,10/27/2015,Transfer In                                       ,AL,10/26/2015,ALL2,HOME , MOVE
+1768,10/27/2015,Transfer Out                                      ,AL,10/27/2015,ALL1,,
+556,10/29/2015,Transfer In                                       ,AL,10/28/2015,ALL1,CCARE, MOVE
+1455,10/29/2015,Transfer Out                                      ,IL,10/23/2015,IL2,,
+1455,10/29/2015,Transfer In                                       ,NF,10/29/2015,TSNF,STLUK, HOSP
+1234,10/30/2015,Transfer In                                       ,AL,10/29/2015,RES ,WDLAN, DIH
+1768,11/02/2015,Transfer In                                       ,AL,10/30/2015,ALL1,CCARE, MOVE
+1834,11/02/2015,Transfer Out                                      ,SL,10/30/2015,SL1B,,
+1834,11/02/2015,Transfer In                                       ,NF,11/02/2015,TSNF,MMCCR, HOSP
+729,11/04/2015,Transfer Out                                      ,IL,10/28/2015,IL1,,
+729,11/04/2015,Transfer In                                       ,NF,11/04/2015,TSNF,STLUK, HOSP
+1468,11/06/2015,Transfer Out                                      ,IL,11/05/2015,IL2,,
+1792,11/09/2015,Transfer In                                       ,AL,11/06/2015,ALL1,GWOOD, DIH
+1350,11/09/2015,Transfer In                                       ,AL,11/09/2015,RES ,BVILL, HOSP
+1322,11/11/2015,Transfer In                                       ,IL,11/10/2015,IL1 ,NA   , NA
+1762,11/13/2015,Transfer Out                                      ,SL,11/08/2015,SL1B,,
+1762,11/13/2015,Transfer In                                       ,NF,11/13/2015,TSNF,MMCCR, HOSP
+1019,11/13/2015,Transfer Out                                      ,AL,11/13/2015,ALL1,,
+1019,11/13/2015,Transfer In                                       ,NF,11/13/2015,ICF ,ARBOR, DIH
+1339,11/18/2015,Transfer In                                       ,AL,11/17/2015,RES ,MANOR, DIH
+1366,11/19/2015,Transfer In                                       ,AL,11/18/2015,RES ,DRIDG, DIH
+1935,11/19/2015,Transfer In                                       ,IL,11/19/2015,IL1 ,HOME , MOVE
+1936,11/19/2015,Transfer In                                       ,IL,11/19/2015,IL2 ,HOME , MOVE
+585,11/19/2015,Transfer Out                                      ,IL,11/19/2015,IL1,,
+585,11/19/2015,Transfer In                                       ,NF,11/19/2015,ICF ,MMCCR, HOSP
+1204,11/23/2015,Transfer Out                                      ,IL,11/16/2015,IL2,,
+1204,11/23/2015,Transfer In                                       ,NF,11/23/2015,TSNF,UIHC , HOSP
+1938,11/23/2015,Transfer In                                       ,NF,11/23/2015,ICF ,OTRFA, NA
+1455,11/23/2015,Transfer In                                       ,IL,11/20/2015,IL2 ,NA   , NA
+1219,11/25/2015,Transfer In                                       ,AL,11/24/2015,RES ,GWOOD, DIH
+1930,11/25/2015,Transfer Out                                      ,NF,11/25/2015,ICF,,
+1930,11/26/2015,Transfer In                                       ,NF,11/25/2015,ICF ,MMCCR, HOSP
+1366,11/30/2015,Transfer In                                       ,AL,11/26/2015,RES ,DRIDG, DIH
+1940,11/30/2015,Transfer In                                       ,IL,11/30/2015,IL1 ,HOME , MOVE
+1937,11/30/2015,Transfer In                                       ,SL,11/30/2015,SL1R,HOME , MOVE
+1204,12/04/2015,Transfer In                                       ,IL,12/04/2015,IL2 ,NA   , NA
+1941,12/04/2015,Transfer In                                       ,NF,12/04/2015,TSNF,NA   , HOSP
+540,12/04/2015,Transfer Out                                      ,AL,12/04/2015,ALR2,,
+540,12/04/2015,Transfer In                                       ,NF,12/04/2015,TICF,CCARE, DIH
+1870,12/07/2015,Transfer In                                       ,NF,12/07/2015,TICF,STLUK, HOSP
+1555,12/08/2015,Transfer Out                                      ,AL,12/05/2015,ALL1,,
+1555,12/08/2015,Transfer In                                       ,NF,12/08/2015,TSNF,MMCCR, HOSP
+1939,12/08/2015,Transfer In                                       ,SL,12/08/2015,SL1B,HOME , MOVE
+1830,12/09/2015,Transfer In                                       ,AL,12/08/2015,RES ,HPARK, DIH
+1762,12/09/2015,Transfer In                                       ,AL,12/08/2015,RES ,WDLAN, IIH
+1637,12/10/2015,Transfer Out                                      ,SL,12/05/2015,SL1B,,
+1637,12/10/2015,Transfer In                                       ,NF,12/10/2015,TSNF,STLUK, HOSP
+1942,12/12/2015,Transfer In                                       ,NF,12/12/2015,TICF,HOME , DIH
+1422,12/14/2015,Transfer In                                       ,AL,12/11/2015,RES ,STLUK, HOSP
+1758,12/14/2015,Transfer In                                       ,AL,12/11/2015,RES ,STLUK, HOSP
+1393,12/14/2015,Transfer In                                       ,AL,12/12/2015,RES ,BVILL, DIH
+1555,12/16/2015,Transfer In                                       ,AL,12/14/2015,ALL1,NA   , NA
+1834,12/18/2015,Transfer In                                       ,SL,12/17/2015,SL1B,HOME , MOVE
+1366,12/21/2015,Transfer Out                                      ,AL,12/18/2015,RES,,
+1814,12/21/2015,Transfer In                                       ,AL,12/18/2015,RES ,WDLAN, IIH
+1769,12/21/2015,Transfer In                                       ,AL,12/18/2015,RES ,GWOOD, DIH
+1943,12/23/2015,Transfer In                                       ,SL,12/23/2015,SL1B,HOME , MOVE
+1944,12/23/2015,Transfer In                                       ,SL,12/23/2015,SL2B,HOME , MOVE
+1945,12/23/2015,Transfer In                                       ,NF,12/23/2015,TSNF,MERIA, HOSP
+1393,12/23/2015,Transfer In                                       ,NF,12/23/2015,TSNF,STLUK, HOSP
+1062,12/24/2015,Transfer In                                       ,AL,12/23/2015,RES ,DRIDG, DIH
+1850,12/25/2015,Transfer In                                       ,NF,12/25/2015,TSNF,STLUK, HOSP
+1850,12/28/2015,Transfer Out                                      ,IL,12/22/2015,IL1,,
+1365,12/29/2015,Transfer In                                       ,AL,12/28/2015,RES ,GWOOD, DIH
+1768,12/29/2015,Transfer Out                                      ,AL,12/28/2015,ALL1,,
+991,12/30/2015,Transfer Out                                      ,SL,12/17/2015,SL1B,,
+991,12/30/2015,Transfer In                                       ,NF,12/30/2015,TSNF,STLUK, HOSP
+1768,12/30/2015,Transfer In                                       ,NF,12/30/2015,TICF,STLUK, HOSP
+1769,12/31/2015,Transfer In                                       ,AL,12/31/2015,RES ,CCARE, DIH
+1902,01/01/2016,Transfer Out                                      ,AL,12/24/2015,ALL1,,
+1366,01/01/2016,Transfer In                                       ,AL,12/31/2015,RES ,DRIDG, DIH
+1364,01/04/2016,Transfer In                                       ,NF,01/04/2016,TSNF,UIHC , HOSP
+1949,01/05/2016,Transfer In                                       ,IL,01/05/2016,IL1 ,HOME , MOVE
+1769,01/07/2016,Transfer In                                       ,AL,01/05/2016,ALL1,ARBOR, MOVE
+1669,01/07/2016,Transfer In                                       ,AL,01/06/2016,RES ,STLUK, HOSP
+1455,01/07/2016,Transfer Out                                      ,IL,01/07/2016,IL2,,
+1455,01/07/2016,Transfer In                                       ,NF,01/07/2016,TICF,STLUK, HOSP
+1870,01/07/2016,Transfer In                                       ,SL,01/07/2016,SL1R,WDLAN, MOVE
+1902,01/08/2016,Transfer In                                       ,AL,01/07/2016,ALL1,OTRFA, IIH
+1062,01/08/2016,Transfer In                                       ,AL,01/07/2016,RES ,DRIDG, DIH
+754,01/08/2016,Transfer Out                                      ,AL,01/07/2016,ALR1,,
+1850,01/08/2016,Transfer In                                       ,IL,01/07/2016,IL1 ,HOME , MOVE
+991,01/08/2016,Transfer In                                       ,NF,01/08/2016,TSNF,STLUK, HOSP
+1762,01/11/2016,Transfer In                                       ,AL,01/08/2016,ALL1,CCARE, DIH
+754,01/11/2016,Transfer In                                       ,AL,01/08/2016,ALR1,MANOR, DIH
+1947,01/11/2016,Transfer In                                       ,IL,01/11/2016,IL1 ,HOME , MOVE
+1948,01/11/2016,Transfer In                                       ,IL,01/11/2016,IL2 ,HOME , MOVE
+1704,01/11/2016,Transfer In                                       ,NF,01/11/2016,ICF ,ARBOR, DIH
+1944,01/11/2016,Transfer In                                       ,NF,01/11/2016,TSNF,STLUK, IIH
+1944,01/13/2016,Transfer Out                                      ,NF,01/12/2016,TSNF,,
+1384,01/13/2016,Transfer In                                       ,AL,01/12/2016,RES ,MANOR, DIH
+1950,01/14/2016,Transfer In                                       ,AL,01/14/2016,RES ,HOME , DIH
+1882,01/14/2016,Transfer In                                       ,NF,01/14/2016,ICF ,ARBOR, MOVE
+1445,01/14/2016,Transfer In                                       ,NF,01/14/2016,TSNF,STLUK, IIH
+1204,01/15/2016,Transfer Out                                      ,IL,01/05/2016,IL2,,
+1204,01/15/2016,Transfer In                                       ,NF,01/15/2016,TSNF,UIHC , HOSP
+1945,01/15/2016,Transfer Out                                      ,NF,01/15/2016,TSNF,,
+1791,01/15/2016,Transfer In                                       ,NF,01/15/2016,ICF ,CCARE, DIH
+1814,01/18/2016,Transfer In                                       ,AL,01/16/2016,RES ,MANOR, DIH
+1946,01/18/2016,Transfer In                                       ,AL,01/18/2016,ALL2,HOME , MOVE
+1080,01/21/2016,Transfer Out                                      ,NF,01/20/2016,ICF,,
+1365,01/21/2016,Transfer In                                       ,NF,01/21/2016,TICF,GWOOD, DIH
+1951,01/21/2016,Transfer In                                       ,NF,01/21/2016,TSNF,STLUK, HOSP
+1080,01/22/2016,Transfer In                                       ,NF,01/22/2016,ICF ,STLUK, HOSP
+730,01/25/2016,Transfer In                                       ,AL,01/24/2016,RES ,BVILL, DIH
+1945,01/25/2016,Transfer In                                       ,NF,01/25/2016,TSNF,MMCCR, HOSP
+1847,01/25/2016,Transfer In                                       ,AL,01/25/2016,ALL1,WDLAN, IIH
+1954,01/29/2016,Transfer In                                       ,NF,01/29/2016,ICF ,UIHC , HOSP
+1669,02/03/2016,Transfer In                                       ,AL,02/02/2016,ALL1,ARBOR, MOVE
+991,02/03/2016,Transfer In                                       ,AL,02/03/2016,ALL1,WDLAN, IIH
+1809,02/05/2016,Transfer In                                       ,AL,02/04/2016,RES ,DRIDG, DIH
+1540,02/05/2016,Transfer Out                                      ,NF,01/04/2016,ICF,,
+1540,02/05/2016,Transfer In                                       ,NF,02/05/2016,ICF ,ARBOR, DIH
+1808,02/05/2016,Transfer Out                                      ,IL,02/03/2016,IL2,,
+1808,02/05/2016,Transfer In                                       ,NF,02/05/2016,TSNF,STLUK, HOSP
+1952,02/05/2016,Transfer In                                       ,IL,02/05/2016,IL1 ,HOME , MOVE
+1953,02/05/2016,Transfer In                                       ,IL,02/05/2016,IL2 ,HOME , MOVE
+713,02/05/2016,Transfer In                                       ,AL,02/05/2016,RES ,GWOOD, DIH
+1956,02/05/2016,Transfer In                                       ,NF,02/05/2016,TICF,STLUK, DIH
+730,02/09/2016,Transfer In                                       ,SL,02/08/2016,SL1B,BVILL, MOVE
+1955,02/10/2016,Transfer In                                       ,NF,02/10/2016,TSNF,MMCCR, HOSP
+1638,02/15/2016,Transfer In                                       ,AL,02/12/2016,RES ,MANOR, DIH
+1287,02/16/2016,Transfer Out                                      ,SL,02/15/2016,SL1R,,
+1199,02/16/2016,Transfer In                                       ,AL,02/15/2016,RES ,MANOR, DIH
+991,02/17/2016,Transfer Out                                      ,AL,02/16/2016,ALL2,,
+1638,02/18/2016,Transfer Out                                      ,SL,02/17/2016,SL1B,,
+1638,02/22/2016,Transfer In                                       ,AL,02/19/2016,RES ,STLUK, HOSP
+535,02/22/2016,Transfer In                                       ,AL,02/19/2016,RES ,DRIDG, DIH
+1706,02/22/2016,Transfer In                                       ,AL,02/20/2016,RES ,DRIDG, DIH
+709,02/23/2016,Transfer In                                       ,AL,02/23/2016,RES ,MANOR, DIH
+1937,02/23/2016,Transfer Out                                      ,SL,02/23/2016,SL1R,,
+1809,02/23/2016,Transfer Out                                      ,IL,02/21/2016,IL1,,
+1809,02/23/2016,Transfer In                                       ,NF,02/23/2016,TICF,STLUK, HOSP
+1808,02/24/2016,Transfer In                                       ,IL,02/24/2016,IL2 ,HOME , MOVE
+991,02/24/2016,Transfer In                                       ,NF,02/24/2016,TSNF,STLUK, HOSP
+713,02/24/2016,Transfer In                                       ,AL,02/24/2016,ALL2,CCARE, MOVE
+1937,02/25/2016,Transfer In                                       ,AL,02/24/2016,RES ,MMCCR, HOSP
+1706,02/25/2016,Transfer In                                       ,NF,02/25/2016,TSNF,STLUK, HOSP
+1287,02/25/2016,Transfer In                                       ,NF,02/25/2016,TSNF,MMCCR, HOSP
+1768,02/26/2016,Transfer Out                                      ,NF,02/26/2016,TICF,,
+1445,02/26/2016,Transfer In                                       ,NF,02/26/2016,TSNF,DRIDG, DIH
+1638,02/29/2016,Transfer Out                                      ,AL,02/29/2016,RES,,
+1638,02/29/2016,Transfer In                                       ,NF,02/29/2016,TICF,CCARE, NA
+1907,02/29/2016,Transfer In                                       ,IL,02/26/2016,IL1 ,MANOR, MOVE
+709,02/29/2016,Transfer Out                                      ,AL,02/27/2016,RES,,
+947,02/29/2016,Transfer Out                                      ,IL,02/24/2016,IL2,,
+947,02/29/2016,Transfer In                                       ,NF,02/29/2016,TSNF,MMCCR, HOSP
+1768,02/29/2016,Transfer In                                       ,NF,02/29/2016,TSNF,STLUK,
+1959,03/01/2016,Transfer In                                       ,AL,02/29/2016,RES ,HOME , MOVE
+1957,03/01/2016,Transfer In                                       ,AL,03/01/2016,ALL1,STLUK, DIH
+709,03/02/2016,Transfer In                                       ,AL,03/01/2016,RES ,MANOR, DIH
+1491,03/02/2016,Transfer In                                       ,SL,03/02/2016,SL1B,DRIDG, MOVE
+1959,03/03/2016,Transfer Out                                      ,AL,03/02/2016,RES,,
+545,03/03/2016,Transfer Out                                      ,AL,03/02/2016,ALL2,,
+1959,03/07/2016,Transfer In                                       ,AL,03/04/2016,RES ,HOME , NA
+545,03/07/2016,Transfer In                                       ,AL,03/04/2016,ALL2,NA   , NA
+1762,03/07/2016,Transfer Out                                      ,AL,03/06/2016,ALL1,,
+1960,03/09/2016,Transfer In                                       ,NF,03/09/2016,TICF,MMCCR, HOSP
+1762,03/09/2016,Transfer In                                       ,NF,03/09/2016,TICF,MMCCR, HOSP
+709,03/10/2016,Transfer In                                       ,AL,03/09/2016,RES ,MANOR, DIH
+1706,03/10/2016,Transfer In                                       ,IL,03/09/2016,IL1 ,HOME , MOVE
+1287,03/10/2016,Transfer In                                       ,SL,03/09/2016,SL1R,NA   , NA
+1809,03/10/2016,Transfer In                                       ,IL,03/09/2016,IL1 ,HOME , MOVE
+1339,03/11/2016,Transfer Out                                      ,SL,02/29/2016,SL1B,,
+1339,03/11/2016,Transfer In                                       ,NF,03/11/2016,TICF,STLUK, HOSP
+1962,03/14/2016,Transfer In                                       ,AL,03/12/2016,RES ,HOME , DIH
+1262,03/14/2016,Transfer Out                                      ,AL,03/12/2016,ALL1,,
+1455,03/15/2016,Transfer In                                       ,IL,03/15/2016,IL2 ,NA   , NA
+961,03/18/2016,Transfer In                                       ,AL,03/17/2016,RES ,MANOR, DIH
+1262,03/22/2016,Transfer In                                       ,NF,03/20/2016,TSNF,MMCCR, HOSP
+1287,03/22/2016,Transfer Out                                      ,SL,03/18/2016,SL1R,,
+1445,03/22/2016,Transfer In                                       ,IL,03/20/2016,IL2 ,NA   , NA
+1384,03/22/2016,Transfer In                                       ,AL,03/21/2016,RES ,MANOR, DIH
+1287,03/23/2016,Transfer In                                       ,SL,03/22/2016,SL1R,NA   , NA
+1823,03/24/2016,Transfer Out                                      ,SL,03/18/2016,SL1B,,
+1823,03/24/2016,Transfer In                                       ,AL,03/23/2016,RES ,MMCCR, HOSP
+1422,03/24/2016,Transfer Out                                      ,SL,03/24/2016,SL1B,,
+1422,03/24/2016,Transfer In                                       ,AL,03/24/2016,RES ,MANOR, DIH
+1902,03/29/2016,Transfer Out                                      ,AL,03/28/2016,ALL1,,
+1809,03/31/2016,Transfer Out                                      ,IL,03/31/2016,IL1,,
+1902,03/31/2016,Transfer In                                       ,AL,03/31/2016,ALL1,OTRFA, IIH
+1823,03/31/2016,Transfer In                                       ,AL,03/31/2016,ALL1,CCARE, DIH
+1963,04/01/2016,Transfer In                                       ,NF,04/01/2016,TSNF,MMCCR, HOSP
+709,04/02/2016,Transfer Out                                      ,SL,04/02/2016,SL1B,,
+709,04/02/2016,Transfer In                                       ,NF,04/02/2016,TICF,MMCCR, HOSP
+1940,04/03/2016,Transfer Out                                      ,IL,03/22/2016,IL1,,
+1940,04/03/2016,Transfer In                                       ,NF,04/03/2016,TICF,MMCCR, HOSP
+709,04/04/2016,Transfer In                                       ,AL,04/01/2016,RES ,MANOR, DIH
+709,04/04/2016,Transfer In                                       ,NF,04/01/2016,TICF,MMCCR, HOSP
+1809,04/04/2016,Transfer In                                       ,NF,04/04/2016,TICF,STLUK, HOSP
+1959,04/04/2016,Transfer In                                       ,AL,04/04/2016,ALL1,CCARE, MOVE
+1965,04/05/2016,Transfer In                                       ,SL,04/05/2016,SL1B,HOME , MOVE
+1966,04/08/2016,Transfer In                                       ,NF,04/08/2016,TSNF,MMCCR, HOSP
+709,04/08/2016,Transfer Out                                      ,NF,04/08/2016,TICF,,
+1967,04/09/2016,Transfer In                                       ,NF,04/09/2016,TSNF,MMCCR, HOSP
+1969,04/10/2016,Transfer In                                       ,NF,04/10/2016,TSNF,STLUK, HOSP
+1966,04/11/2016,Transfer In                                       ,NF,04/11/2016,TSNF,MMCCR, HOSP
+709,04/11/2016,Transfer In                                       ,NF,04/11/2016,TICF,MMCCR, HOSP
+1802,04/11/2016,Transfer In                                       ,AL,04/10/2016,RES ,HPARK, DIH
+1962,04/12/2016,Transfer Out                                      ,AL,04/10/2016,RES,,
+1962,04/13/2016,Transfer In                                       ,AL,04/12/2016,RES ,HOME , DIH
+1011,04/13/2016,Transfer Out                                      ,IL,04/07/2016,IL1,,
+1011,04/13/2016,Transfer In                                       ,NF,04/13/2016,TSNF,STLUK, HOSP
+1870,04/13/2016,Transfer In                                       ,AL,04/12/2016,RES ,MANOR, DIH
+1971,04/15/2016,Transfer In                                       ,IL,04/14/2016,IL1 ,HOME , MOVE
+1964,04/15/2016,Transfer In                                       ,AL,04/15/2016,RES ,HOME , MOVE
+1972,04/15/2016,Transfer In                                       ,NF,04/15/2016,TSNF,MMCCR, HOSP
+1207,04/17/2016,Transfer Out                                      ,SL,04/15/2016,SL1B,,
+1758,04/18/2016,Transfer Out                                      ,SL,04/16/2016,SL1B,,
+1229,04/18/2016,Transfer Out                                      ,SL,04/17/2016,SL1B,,
+1964,04/19/2016,Transfer In                                       ,SL,04/18/2016,SL1B,CCARE, MOVE
+1758,04/20/2016,Transfer In                                       ,AL,04/19/2016,RES ,STLUK, DIH
+1229,04/20/2016,Transfer In                                       ,SL,04/19/2016,SL1B,NA   , NA
+1207,04/21/2016,Transfer In                                       ,AL,04/20/2016,RES ,MMCCR, HOSP
+1970,04/21/2016,Transfer In                                       ,NF,04/21/2016,ICF ,OTRFA,
+1962,04/25/2016,Transfer In                                       ,AL,04/23/2016,ALL1,CCARE, MOVE
+1476,04/27/2016,Transfer In                                       ,NF,04/27/2016,TSNF,STLUK, HOSP
+1962,04/28/2016,Transfer Out                                      ,AL,04/28/2016,ALL2,,
+1962,04/28/2016,Transfer In                                       ,NF,04/28/2016,TICF,CCARE, DIH
+1973,04/28/2016,Transfer In                                       ,AL,04/28/2016,ALL1,STLUK, HOSP
+1968,05/02/2016,Transfer In                                       ,AL,04/28/2016,RES ,HOME , DIH
+730,05/02/2016,Transfer In                                       ,AL,04/29/2016,RES ,MANOR, DIH
+1941,05/02/2016,Transfer In                                       ,SL,05/01/2016,SL1B,HOME , MOVE
+947,05/02/2016,Transfer Out                                      ,IL,04/24/2016,IL2,,
+947,05/02/2016,Transfer In                                       ,NF,05/02/2016,TSNF,MMCCR, HOSP
+1648,05/03/2016,Transfer In                                       ,AL,05/02/2016,RES ,HOME , DIH
+1974,05/03/2016,Transfer In                                       ,NF,05/03/2016,TSNF,MMCCR, HOSP
+1350,05/03/2016,Transfer Out                                      ,IL,05/03/2016,IL2,,
+1350,05/03/2016,Transfer In                                       ,NF,05/03/2016,TICF,STLUK, HOSP
+1476,05/10/2016,Transfer Out                                      ,IL,05/08/2016,IL1,,
+1476,05/10/2016,Transfer In                                       ,AL,05/08/2016,RES ,WDLAN, IIH
+1350,05/12/2016,Transfer In                                       ,IL,05/11/2016,IL2 ,NA   , NA
+1476,05/12/2016,Transfer Out                                      ,AL,05/11/2016,RES,,
+1975,05/13/2016,Transfer In                                       ,NF,05/13/2016,TSNF,STLUK, HOSP
+1963,05/13/2016,Transfer Out                                      ,NF,05/12/2016,TSNF,,
+1011,05/16/2016,Transfer In                                       ,IL,05/14/2016,IL1 ,NA   , NA
+993,05/16/2016,Transfer In                                       ,AL,05/15/2016,RES ,GWOOD, DIH
+1963,05/16/2016,Transfer In                                       ,NF,05/16/2016,TSNF,MMCCR, HOSP
+1970,05/17/2016,Transfer Out                                      ,NF,05/16/2016,ICF,,
+1970,05/17/2016,Transfer In                                       ,NF,05/17/2016,ICF ,MMCCR, HOSP
+1476,05/18/2016,Transfer In                                       ,AL,05/17/2016,RES ,MMCCR, HOSP
+1476,05/19/2016,Transfer In                                       ,AL,05/19/2016,ALL2,CCARE, MOVE
+1861,05/23/2016,Transfer Out                                      ,AL,05/20/2016,ALL1,,
+1861,05/23/2016,Transfer In                                       ,AL,05/21/2016,ALL1,CCARE, MOVE
+1323,05/23/2016,Transfer In                                       ,NF,05/23/2016,TICF,MERIA, HOSP
+1766,05/24/2016,Transfer Out                                      ,AL,05/21/2016,ALL1,,
+947,05/26/2016,Transfer In                                       ,IL,05/26/2016,IL2 ,NA   , NA
+1766,05/26/2016,Transfer In                                       ,AL,05/26/2016,ALL1,OTRFA, DIH
+1980,05/26/2016,Transfer In                                       ,SL,05/26/2016,SL1B,HOME , MOVE
+424,05/27/2016,Transfer In                                       ,AL,05/26/2016,RES ,BVILL, DIH
+1785,05/27/2016,Transfer Out                                      ,AL,05/26/2016,ALL1,,
+1981,05/27/2016,Transfer In                                       ,IL,05/27/2016,IL1 ,HOME , MOVE
+1785,05/27/2016,Transfer In                                       ,NF,05/27/2016,TSNF,STLUK, HOSP
+1979,05/31/2016,Transfer In                                       ,NF,05/31/2016,TICF,OTRFA, NA
+1638,05/31/2016,Transfer In                                       ,AL,05/28/2016,ALL1,WDLAN, MOVE
+1234,05/31/2016,Transfer In                                       ,AL,05/28/2016,RES ,GWOOD, DIH
+993,06/01/2016,Transfer In                                       ,AL,05/31/2016,ALL1,CCARE, DIH
+1982,06/01/2016,Transfer In                                       ,IL,06/01/2016,IL1 ,HOME , MOVE
+1855,06/02/2016,Transfer In                                       ,AL,06/01/2016,ALL1,MANOR, DIH
+1271,06/02/2016,Transfer Out                                      ,AL,06/02/2016,ALL2,,
+1271,06/02/2016,Transfer In                                       ,NF,06/02/2016,TICF,CCARE,
+1234,06/03/2016,Transfer Out                                      ,AL,06/02/2016,RES,,
+1062,06/03/2016,Transfer In                                       ,AL,06/03/2016,ALL1,DRIDG, MOVE
+1062,06/03/2016,Transfer Out                                      ,IL,06/03/2016,IL1,,
+1934,06/05/2016,Transfer In                                       ,NF,06/05/2016,TSNF,STLUK, HOSP
+1234,06/06/2016,Transfer In                                       ,AL,06/05/2016,RES ,GWOOD, DIH
+1454,06/07/2016,Transfer In                                       ,AL,06/06/2016,ALL1,DRIDG, DIH
+1455,06/07/2016,Transfer In                                       ,AL,06/06/2016,RES ,ARBOR, DIH
+1706,06/08/2016,Transfer In                                       ,AL,06/07/2016,RES ,DRIDG, DIH
+730,06/09/2016,Transfer In                                       ,SL,06/08/2016,SL1B,BVILL, MOVE
+1706,06/09/2016,Transfer Out                                      ,AL,06/08/2016,RES,,
+1984,06/09/2016,Transfer In                                       ,IL,06/09/2016,IL1 ,HOME , MOVE
+1323,06/10/2016,Transfer In                                       ,NF,06/10/2016,TSNF,MMCCR, HOSP
+1706,06/10/2016,Transfer In                                       ,NF,06/10/2016,TSNF,STLUK, HOSP
+424,06/13/2016,Transfer In                                       ,AL,06/12/2016,RES ,BVILL, DIH
+1872,06/14/2016,Transfer In                                       ,NF,06/14/2016,TSNF,UIHC , HOSP
+1722,06/15/2016,Transfer In                                       ,AL,06/15/2016,RES ,HOME , DIH
+1722,06/15/2016,Transfer Out                                      ,AL,06/15/2016,RES,,
+1722,06/15/2016,Transfer In                                       ,NF,06/15/2016,TICF,CCARE, NA
+1468,06/16/2016,Transfer In                                       ,AL,06/14/2016,RES ,BVILL, DIH
+1758,06/16/2016,Transfer Out                                      ,AL,06/16/2016,RES,,
+1758,06/16/2016,Transfer In                                       ,NF,06/16/2016,ICF ,CCARE, DIH
+1988,06/16/2016,Transfer In                                       ,NF,06/16/2016,TICF,STLUK, HOSP
+1491,06/17/2016,Transfer Out                                      ,SL,06/16/2016,SL1B,,
+1722,06/17/2016,Transfer Out                                      ,NF,06/17/2016,TICF,,
+1722,06/17/2016,Transfer In                                       ,NF,06/17/2016,TICF,CCARE, NA
+1491,06/20/2016,Transfer In                                       ,SL,06/17/2016,SL1B,DRIDG, MOVE
+1454,06/21/2016,Transfer In                                       ,AL,06/17/2016,ALL1,ARBOR, DIH
+1455,06/21/2016,Transfer In                                       ,AL,06/17/2016,ALL1,ARBOR, DIH
+1919,06/27/2016,Transfer Out                                      ,AL,06/26/2016,ALL2,,
+1989,06/27/2016,Transfer In                                       ,IL,06/27/2016,IL1 ,HOME , MOVE
+1990,06/27/2016,Transfer In                                       ,IL,06/27/2016,IL2 ,HOME , MOVE
+1870,06/27/2016,Transfer In                                       ,AL,06/27/2016,RES ,MANOR, DIH
+1199,06/27/2016,Transfer Out                                      ,SL,06/26/2016,SL1B,,
+709,06/28/2016,Transfer Out                                      ,NF,06/26/2016,ICF,,
+1993,06/28/2016,Transfer In                                       ,IL,06/25/2016,IL1 ,HOME , MOVE
+1531,06/28/2016,Transfer In                                       ,AL,06/27/2016,RES ,BVILL, DIH
+1919,06/29/2016,Transfer In                                       ,AL,06/28/2016,ALL2,HOME , MOVE
+709,06/29/2016,Transfer In                                       ,NF,06/29/2016,TSNF,STLUK, HOSP
+1323,07/01/2016,Transfer In                                       ,NF,07/01/2016,TSNF,UIHC , HOSP
+1955,07/01/2016,Transfer In                                       ,AL,06/30/2016,RES ,WDLAN, IIH
+1229,07/01/2016,Transfer In                                       ,AL,06/30/2016,RES ,MANOR, DIH
+532,07/01/2016,Transfer In                                       ,AL,07/01/2016,RES ,DRIDG, DIH
+1706,07/05/2016,Transfer In                                       ,AL,07/01/2016,RES ,WDLAN, IIH
+1955,07/05/2016,Transfer In                                       ,AL,07/02/2016,ALL2,CCARE, MOVE
+1476,07/05/2016,Transfer Out                                      ,AL,07/04/2016,ALL2,,
+1476,07/07/2016,Transfer In                                       ,NF,07/07/2016,TSNF,STLUK, HOSP
+1234,07/08/2016,Transfer In                                       ,AL,07/07/2016,ALL2,GWOOD, MOVE
+1919,07/08/2016,Transfer Out                                      ,AL,07/07/2016,ALL2,,
+1870,07/08/2016,Transfer In                                       ,AL,07/08/2016,ALL2,MANOR, DIH
+1985,07/08/2016,Transfer In                                       ,AL,07/08/2016,RES ,HOME , DIH
+426,07/11/2016,Transfer In                                       ,SL,07/08/2016,SL1B,BVILL, MOVE
+1997,07/11/2016,Transfer In                                       ,AL,07/11/2016,RES ,HOME , DIH
+1919,07/12/2016,Transfer In                                       ,NF,07/12/2016,TSNF,STLUK, HOSP
+1984,07/12/2016,Transfer Out                                      ,IL,07/07/2016,IL1,,
+1984,07/12/2016,Transfer In                                       ,NF,07/12/2016,TSNF,STLUK, HOSP
+1819,07/15/2016,Transfer Out                                      ,IL,07/15/2016,IL1,,
+1819,07/15/2016,Transfer In                                       ,AL,07/15/2016,RES ,GWOOD, DIH
+2001,07/18/2016,Transfer In                                       ,IL,07/15/2016,IL1 ,HOME , MOVE
+2002,07/18/2016,Transfer In                                       ,IL,07/15/2016,IL2 ,HOME , MOVE
+1872,07/18/2016,Transfer In                                       ,AL,07/15/2016,ALR1,HOME , MOVE
+1870,07/18/2016,Transfer Out                                      ,AL,07/16/2016,ALL2,,
+424,07/18/2016,Transfer In                                       ,SL,07/18/2016,SL1B,BVILL, MOVE
+532,07/19/2016,Transfer In                                       ,NF,07/19/2016,ICF ,MMCCR, HOSP
+1375,07/19/2016,Transfer In                                       ,NF,07/19/2016,TICF,MMCCR, HOSP
+730,07/19/2016,Transfer In                                       ,AL,07/18/2016,RES ,MANOR, DIH
+1999,07/19/2016,Transfer In                                       ,SL,07/19/2016,SL1B,HOME , MOVE
+1870,07/20/2016,Transfer In                                       ,NF,07/20/2016,TSNF,MMCCR, HOSP
+1631,07/21/2016,Transfer Out                                      ,AL,07/19/2016,ALL1,,
+1323,07/21/2016,Transfer In                                       ,NF,07/21/2016,TSNF,MMCCR, HOSP
+1919,07/21/2016,Transfer In                                       ,NF,07/21/2016,TSNF,MMCCR, HOSP
+2003,07/21/2016,Transfer In                                       ,NF,07/21/2016,TICF,OTRFA, HOSP
+1631,07/21/2016,Transfer In                                       ,AL,07/21/2016,ALL1,WDLAN, MOVE
+1375,07/22/2016,Transfer In                                       ,AL,07/21/2016,RES ,MANOR, IIH
+1375,07/25/2016,Transfer In                                       ,AL,07/25/2016,RES ,MANOR, DIH
+1229,07/27/2016,Transfer In                                       ,AL,07/26/2016,RES ,MANOR, DIH
+2005,07/29/2016,Transfer In                                       ,IL,07/29/2016,IL1 ,HOME , MOVE
+2006,07/29/2016,Transfer In                                       ,IL,07/29/2016,IL2 ,HOME , MOVE
+1407,08/03/2016,Transfer In                                       ,AL,08/02/2016,RES ,MANOR, DIH
+2007,08/03/2016,Transfer In                                       ,AL,08/03/2016,ALL1,OTRFA, IIH
+1706,08/04/2016,Transfer In                                       ,AL,08/03/2016,ALL2,CCARE, MOVE
+1621,08/08/2016,Transfer Out                                      ,NF,08/07/2016,ICF,,
+1166,08/09/2016,Transfer In                                       ,AL,08/09/2016,RES ,DRIDG, DIH
+1365,08/10/2016,Transfer Out                                      ,NF,08/09/2016,ICF,,
+1365,08/11/2016,Transfer In                                       ,NF,08/11/2016,ICF ,GWOOD, HOSP
+1501,08/12/2016,Transfer Out                                      ,AL,08/11/2016,ALL2,,
+1621,08/13/2016,Transfer In                                       ,NF,08/13/2016,TSNF,MMCCR, HOSP
+1501,08/15/2016,Transfer In                                       ,NF,08/15/2016,TICF,MMCCR, HOSP
+2009,08/16/2016,Transfer In                                       ,AL,08/16/2016,ALL1,HOME , DIH
+1993,08/17/2016,Transfer In                                       ,IL,08/16/2016,IL1 ,DRIDG, MOVE
+2010,08/17/2016,Transfer In                                       ,IL,08/16/2016,IL2 ,HOME , MOVE
+1407,08/17/2016,Transfer In                                       ,AL,08/16/2016,RES ,MANOR, DIH
+1699,08/19/2016,Transfer In                                       ,AL,08/17/2016,RES ,GWOOD, DIH
+1699,08/19/2016,Transfer In                                       ,IL,08/19/2016,IL1 ,HOME , MOVE
+1959,08/22/2016,Transfer Out                                      ,AL,08/18/2016,ALL1,,
+1959,08/22/2016,Transfer In                                       ,AL,08/20/2016,ALL1,CCARE, MOVE
+2011,08/22/2016,Transfer In                                       ,IL,08/22/2016,IL1 ,HOME , MOVE
+2012,08/22/2016,Transfer In                                       ,IL,08/22/2016,IL2 ,HOME , MOVE
+540,08/23/2016,Transfer Out                                      ,NF,08/22/2016,ICF,,
+540,08/23/2016,Transfer In                                       ,NF,08/23/2016,ICF ,MMCCR, HOSP
+1984,08/24/2016,Transfer In                                       ,IL,08/23/2016,IL1 ,HOME , MOVE
+1870,08/25/2016,Transfer Out                                      ,NF,08/25/2016,TSNF,,
+545,08/26/2016,Transfer Out                                      ,AL,08/26/2016,ALL2,,
+545,08/26/2016,Transfer In                                       ,NF,08/26/2016,ICF ,CCARE, DIH
+2015,08/29/2016,Transfer In                                       ,AL,08/29/2016,ALL1,STLUK, MOVE
+1151,08/29/2016,Transfer Out                                      ,SL,08/27/2016,SL1B,,
+1985,08/29/2016,Transfer In                                       ,AL,08/29/2016,ALL1,CCARE, MOVE
+1151,08/29/2016,Transfer In                                       ,NF,08/29/2016,TSNF,MMCCR, HOSP
+1870,08/31/2016,Transfer In                                       ,NF,08/31/2016,ICF ,MMCCR, HOSP
+2016,09/01/2016,Transfer In                                       ,SL,09/01/2016,SL1B,HOME , MOVE
+2013,09/01/2016,Transfer In                                       ,IL,09/01/2016,IL1 ,HOME , MOVE
+2014,09/01/2016,Transfer In                                       ,IL,09/01/2016,IL2 ,HOME , MOVE
+2018,09/02/2016,Transfer In                                       ,AL,09/02/2016,ALL1,MMCCR, HOSP
+1706,09/03/2016,Transfer Out                                      ,AL,09/03/2016,ALL2,,
+1706,09/03/2016,Transfer In                                       ,AL,09/02/2016,ALL2,CCARE, MOVE
+2017,09/06/2016,Transfer In                                       ,NF,09/06/2016,TSNF,STLUK, HOSP
+1699,09/08/2016,Transfer In                                       ,AL,09/07/2016,RES ,GWOOD, DIH
+1705,09/12/2016,Transfer In                                       ,AL,09/09/2016,RES ,GWOOD, DIH
+1955,09/12/2016,Transfer Out                                      ,AL,09/11/2016,ALR1,,
+1169,09/13/2016,Transfer In                                       ,AL,09/12/2016,RES ,DRIDG, DIH
+1886,09/15/2016,Transfer In                                       ,AL,09/14/2016,RES ,STLUK, HOSP
+405,09/16/2016,Transfer Out                                      ,SL,09/15/2016,SL1B,,
+1955,09/16/2016,Transfer In                                       ,NF,09/16/2016,ICF ,MMCCR, HOSP
+1919,09/19/2016,Transfer In                                       ,AL,09/16/2016,ALL2,HOME , MOVE
+1773,09/19/2016,Transfer In                                       ,NF,09/19/2016,TSNF,STLUK, HOSP
+405,09/20/2016,Transfer In                                       ,NF,09/20/2016,TICF,MMCCR, HOSP
+1800,09/21/2016,Transfer Out                                      ,SL,09/18/2016,SL1B,,
+2021,09/21/2016,Transfer In                                       ,NF,09/21/2016,ICF ,STLUK, HOSP
+1734,09/23/2016,Transfer Out                                      ,AL,09/21/2016,ALL2,,
+2018,09/23/2016,Transfer In                                       ,AL,09/22/2016,ALL2,CCARE, MOVE
+2020,09/23/2016,Transfer In                                       ,AL,09/23/2016,ALL2,HOME , MOVE
+2019,09/23/2016,Transfer In                                       ,AL,09/23/2016,RES ,HOME , MOVE
+1734,09/26/2016,Transfer In                                       ,AL,09/24/2016,ALL2,HOME , MOVE
+1985,09/27/2016,Transfer In                                       ,NF,09/27/2016,ICF ,ARBOR, DIH
+1166,09/27/2016,Transfer Out                                      ,IL,09/27/2016,IL1,,
+1166,09/27/2016,Transfer In                                       ,NF,09/27/2016,TICF,STLUK, DIH
+1773,09/28/2016,Transfer In                                       ,IL,09/28/2016,IL1 ,HOME , MOVE
+2024,09/28/2016,Transfer In                                       ,NF,09/28/2016,TSNF,UIHC , HOSP
+1706,09/30/2016,Transfer Out                                      ,AL,09/30/2016,ALL2,,
+1706,09/30/2016,Transfer In                                       ,NF,09/30/2016,TSNF,STLUK, DIH
+1704,10/04/2016,Transfer Out                                      ,NF,10/03/2016,ICF,,
+2022,10/04/2016,Transfer In                                       ,SL,10/03/2016,SL1B,HOME , MOVE
+1910,10/05/2016,Transfer In                                       ,AL,10/04/2016,RES ,MANOR, DIH
+1704,10/05/2016,Transfer In                                       ,NF,10/05/2016,ICF ,ARBOR, DIH
+2017,10/07/2016,Transfer In                                       ,NF,10/07/2016,TSNF,MMCCR, HOSP
+1625,10/11/2016,Transfer In                                       ,AL,10/10/2016,RES ,HOME , DIH
+1169,10/11/2016,Transfer In                                       ,AL,10/10/2016,RES ,DRIDG, DIH
+2019,10/11/2016,Transfer Out                                      ,AL,10/10/2016,ALL2,,
+2019,10/12/2016,Transfer In                                       ,NF,10/12/2016,TICF,MMCCR, HOSP
+1151,10/13/2016,Transfer In                                       ,SL,10/11/2016,SL1B,DRIDG, MOVE
+1768,10/18/2016,Transfer Out                                      ,NF,10/17/2016,ICF,,
+1768,10/19/2016,Transfer In                                       ,NF,10/19/2016,ICF ,STLUK, HOSP
+405,10/20/2016,Transfer In                                       ,AL,10/19/2016,RES ,WDLAN,
+1010,10/20/2016,Transfer In                                       ,NF,10/20/2016,TICF,STLUK, NA
+2026,10/21/2016,Transfer In                                       ,IL,10/21/2016,IL1 ,HOME , MOVE
+2027,10/21/2016,Transfer In                                       ,IL,10/21/2016,IL2 ,HOME , MOVE
+1771,10/21/2016,Transfer In                                       ,NF,10/21/2016,TSNF,STLUK, HOSP
+1795,10/23/2016,Transfer Out                                      ,IL,10/20/2016,IL1,,
+1795,10/23/2016,Transfer In                                       ,AL,10/21/2016,RES ,STLUK, HOSP
+862,10/23/2016,Transfer In                                       ,AL,10/21/2016,RES ,MANOR, DIH
+1323,10/23/2016,Transfer Out                                      ,IL,10/23/2016,IL2,,
+1637,10/24/2016,Transfer Out                                      ,NF,10/22/2016,ICF,,
+2024,10/26/2016,Transfer In                                       ,AL,10/25/2016,RES ,WDLAN, IIH
+1323,10/26/2016,Transfer In                                       ,NF,10/26/2016,TSNF,MMCCR, HOSP
+1734,10/26/2016,Transfer Out                                      ,AL,10/26/2016,ALL2,,
+1637,10/26/2016,Transfer In                                       ,NF,10/26/2016,TSNF,STLUK, HOSP
+1734,10/26/2016,Transfer In                                       ,NF,10/26/2016,ICF ,CCARE, DIH
+2028,10/27/2016,Transfer In                                       ,IL,10/27/2016,IL1 ,HOME , MOVE
+2004,11/04/2016,Transfer Out                                      ,NF,11/03/2016,TICF,,
+1771,11/04/2016,Transfer In                                       ,IL,11/03/2016,IL2 ,HOME , MOVE
+578,11/04/2016,Transfer Out                                      ,AL,11/04/2016,ALL1,,
+2004,11/06/2016,Transfer In                                       ,NF,11/06/2016,TSNF,UIHC , HOSP
+578,11/07/2016,Transfer In                                       ,AL,11/06/2016,ALL1,DRIDG, MOVE
+2029,11/07/2016,Transfer In                                       ,IL,11/07/2016,IL1 ,HOME , MOVE
+2032,11/07/2016,Transfer In                                       ,AL,11/07/2016,ALL1,HOME , MOVE
+1010,11/08/2016,Transfer In                                       ,AL,11/07/2016,RES ,WDLAN, IIH
+2033,11/10/2016,Transfer In                                       ,NF,11/10/2016,TSNF,STLUK, HOSP
+1170,11/15/2016,Transfer In                                       ,NF,11/15/2016,TICF,STLUK, HOSP
+1170,11/16/2016,Transfer Out                                      ,IL,11/09/2016,IL2,,
+2034,11/16/2016,Transfer In                                       ,IL,11/16/2016,IL1 ,HOME , MOVE
+1964,11/17/2016,Transfer In                                       ,AL,11/17/2016,RES ,MANOR, DIH
+2035,11/18/2016,Transfer In                                       ,NF,11/18/2016,TICF,STLUK, HOSP
+405,11/21/2016,Transfer In                                       ,AL,11/19/2016,ALL2,MANOR, MOVE
+1170,11/21/2016,Transfer In                                       ,IL,11/19/2016,IL2 ,NA   , NA
+1494,11/21/2016,Transfer Out                                      ,AL,11/20/2016,ALL1,,
+1494,11/21/2016,Transfer In                                       ,AL,11/21/2016,ALL1,NA   , NA
+1445,11/25/2016,Transfer Out                                      ,IL,11/18/2016,IL2,,
+1445,11/25/2016,Transfer In                                       ,NF,11/25/2016,TICF,STLUK, HOSP
+2036,11/27/2016,Transfer In                                       ,IL,11/22/2016,IL1 ,HOME , MOVE
+1438,11/29/2016,Transfer Out                                      ,SL,11/21/2016,SL2B,,
+1438,11/29/2016,Transfer In                                       ,NF,11/29/2016,TSNF,STLUK, HOSP
+1472,11/30/2016,Transfer Out                                      ,IL,11/24/2016,IL2,,
+1472,11/30/2016,Transfer In                                       ,NF,11/30/2016,TSNF,STLUK, HOSP
+2040,12/02/2016,Transfer In                                       ,NF,12/02/2016,TSNF,UIHC , HOSP
+2038,12/02/2016,Transfer In                                       ,NF,12/02/2016,TSNF,STLUK, HOSP
+2039,12/02/2016,Transfer In                                       ,SL,12/02/2016,SL1B,HOME , MOVE
+2025,12/06/2016,Transfer Out                                      ,AL,12/05/2016,ALL2,,
+2025,12/06/2016,Transfer In                                       ,AL,12/06/2016,ALL2,HOME,
+424,12/08/2016,Transfer In                                       ,AL,12/07/2016,RES ,MANOR, DIH
+2025,12/09/2016,Transfer Out                                      ,AL,12/09/2016,ALL2,,
+2025,12/09/2016,Transfer In                                       ,NF,12/09/2016,TICF,CCARE, DIH
+1471,12/10/2016,Transfer Out                                      ,IL,12/09/2016,IL1,,
+1471,12/10/2016,Transfer In                                       ,NF,12/10/2016,TICF,STLUK, HOSP
+2030,12/12/2016,Transfer In                                       ,IL,12/09/2016,IL1 ,HOME , MOVE
+2031,12/12/2016,Transfer In                                       ,IL,12/09/2016,IL2 ,HOME , MOVE
+699,12/12/2016,Transfer In                                       ,AL,12/12/2016,RES ,MANOR, DIH
+1305,12/13/2016,Transfer In                                       ,AL,12/12/2016,RES ,MANOR, DIH
+699,12/13/2016,Transfer In                                       ,SL,12/13/2016,SL1B,BVILL, MOVE
+1471,12/15/2016,Transfer In                                       ,IL,12/14/2016,IL1 ,NA   , NA
+2038,12/16/2016,Transfer In                                       ,NF,12/16/2016,TSNF,STLUK, DIH
+1709,12/19/2016,Transfer In                                       ,AL,12/18/2016,RES ,MANOR, DIH
+1337,12/19/2016,Transfer In                                       ,NF,12/19/2016,TICF,ARBOR, DIH
+1445,12/19/2016,Transfer In                                       ,NF,12/19/2016,TICF,STLUK, HOSP
+2042,12/20/2016,Transfer In                                       ,NF,12/20/2016,TSNF,STLUK, HOSP
+1940,12/22/2016,Transfer In                                       ,NF,12/22/2016,TSNF,STLUK,
+1439,12/23/2016,Transfer In                                       ,AL,12/22/2016,RES ,MANOR, DIH
+1556,12/23/2016,Transfer Out                                      ,IL,12/21/2016,IL1,,
+1556,12/23/2016,Transfer In                                       ,NF,12/23/2016,TICF,STLUK, HOSP
+754,12/27/2016,Transfer Out                                      ,AL,12/27/2016,ALR1,,
+754,12/27/2016,Transfer In                                       ,NF,12/27/2016,TICF,CCARE, DIH
+1625,12/28/2016,Transfer In                                       ,AL,12/27/2016,ALR2,CCARE, MOVE
+1709,12/28/2016,Transfer Out                                      ,SL,12/21/2016,SL1B,,
+1709,12/28/2016,Transfer In                                       ,NF,12/28/2016,TSNF,MMCCR, HOSP
+1305,12/29/2016,Transfer In                                       ,AL,12/28/2016,RES ,MANOR, DIH
+1973,12/30/2016,Transfer Out                                      ,AL,12/29/2016,ALL1,,
+1300,12/31/2016,Transfer Out                                      ,IL,01/03/2017,IL2,,
+540,12/31/2016,Transfer Out                                      ,NF,12/30/2016,ICF,,
+540,12/31/2016,Transfer In                                       ,NF,12/30/2016,ICF ,MMCCR, HOSP
+1769,01/01/2017,Transfer Out                                      ,AL,01/01/2017,ALL1,,
+540,01/03/2017,Transfer In                                       ,NF,12/31/2016,ICF ,MMCCR, HOSP
+1973,01/03/2017,Transfer In                                       ,AL,01/02/2017,ALL1,STLUK, HOSP
+1300,01/03/2017,Transfer In                                       ,NF,01/02/2017,TICF,DRIDG, DIH
+1813,01/03/2017,Transfer In                                       ,NF,01/03/2016,TICF,GWOOD, DIH
+1769,01/04/2017,Transfer In                                       ,NF,01/04/2017,TSNF,STLUK, HOSP
+1697,01/06/2017,Transfer In                                       ,NF,01/06/2017,TSNF,STLUK, HOSP
+2006,01/09/2017,Transfer In                                       ,NF,01/09/2017,TICF,GWOOD, DIH
+2046,01/09/2017,Transfer In                                       ,NF,01/09/2017,TSNF,MMCCR, HOSP
+2038,01/10/2017,Transfer In                                       ,NF,01/10/2017,TSNF,HOME , DIH
+1472,01/11/2017,Transfer In                                       ,IL,01/06/2017,IL2 ,NA   , NA
+1813,01/11/2017,Transfer In                                       ,IL,01/09/2017,IL1 ,HOME , MOVE
+1872,01/11/2017,Transfer Out                                      ,AL,01/09/2017,ALR2,,
+1965,01/13/2017,Transfer In                                       ,NF,01/13/2017,TICF,STLUK, HOSP
+2044,01/13/2017,Transfer In                                       ,SL,01/13/2017,SL1B,HOME , MOVE
+1872,01/13/2017,Transfer In                                       ,NF,01/13/2017,TSNF,STLUK, HOSP
+514,01/15/2017,Transfer In                                       ,AL,01/14/2017,RES ,MANOR, DIH
+1144,01/17/2017,Transfer In                                       ,AL,01/16/2017,RES ,DRIDG, DIH
+859,01/17/2017,Transfer In                                       ,AL,01/16/2017,RES ,MMCCR, HOSP
+1709,01/17/2017,Transfer In                                       ,NF,01/17/2017,TSNF,MMCCR, HOSP
+2047,01/19/2017,Transfer In                                       ,SL,01/19/2017,SL1B,HOME , MOVE
+2048,01/19/2017,Transfer In                                       ,NF,01/19/2017,TSNF,STLUK, HOSP
+696,01/19/2017,Transfer In                                       ,AL,01/19/2017,RES ,GWOOD, DIH
+2046,01/19/2017,Transfer Out                                      ,NF,01/19/2017,TSNF,,
+1352,01/24/2017,Transfer In                                       ,NF,01/24/2017,ICF ,ARBOR, DIH
+1556,01/24/2017,Transfer In                                       ,AL,01/24/2017,ALL1,WDLAN, MOVE
+1925,01/25/2017,Transfer In                                       ,AL,01/24/2017,RES ,MANOR, DIH
+2046,01/25/2017,Transfer In                                       ,NF,01/25/2017,TSNF,MMCCR, HOSP
+2042,01/25/2017,Transfer In                                       ,AL,01/25/2017,ALL1,WDLAN, IIH
+1765,01/26/2017,Transfer In                                       ,AL,01/25/2017,RES ,BVILL, DIH
+1765,01/27/2017,Transfer Out                                      ,AL,01/27/2017,RES,,
+1765,01/27/2017,Transfer In                                       ,NF,01/27/2017,TICF,CCARE, DIH
+1819,01/30/2017,Transfer In                                       ,NF,01/30/2017,ICF ,ARBOR, DIH
+1472,01/30/2017,Transfer Out                                      ,IL,01/30/2017,IL2,,
+1472,01/30/2017,Transfer In                                       ,NF,01/30/2017,TICF,DRIDG, DIH
+1924,01/30/2017,Transfer In                                       ,NF,01/30/2017,TSNF,STLUK, HOSP
+1841,01/30/2017,Transfer Out                                      ,IL,01/25/2017,IL1,,
+1841,01/30/2017,Transfer In                                       ,NF,01/30/2017,TSNF,MMCCR, HOSP
+1925,01/31/2017,Transfer In                                       ,AL,01/31/2017,RES ,CCARE, NA
+2040,02/01/2017,Transfer In                                       ,NF,02/01/2017,TSNF,STLUK, HOSP
+2051,02/02/2017,Transfer In                                       ,IL,02/01/2017,IL1 ,HOME , MOVE
+1349,02/03/2017,Transfer In                                       ,NF,02/03/2017,SN  ,MMCCR, HOSP
+514,02/03/2017,Transfer In                                       ,AL,02/02/2017,ALL2,CCARE, DIH
+2050,02/03/2017,Transfer In                                       ,SL,02/03/2017,SL1B,HOME , MOVE
+770,02/05/2017,Transfer Out                                      ,SL,02/04/2017,SL1R,,
+2049,02/06/2017,Transfer In                                       ,NF,02/06/2017,ICF ,HOME , DIH
+1984,02/07/2017,Transfer In                                       ,NF,02/07/2017,TSNF,UIHC , HOSP
+1966,02/09/2017,Transfer Out                                      ,NF,02/08/2017,ICF,,
+1966,02/10/2017,Transfer In                                       ,NF,02/10/2017,ICF ,MMCCR, HOSP
+1349,02/12/2017,Transfer Out                                      ,NF,02/11/2017,TSNF,,
+2015,02/15/2017,Transfer Out                                      ,AL,02/14/2017,ALL1,,
+1349,02/15/2017,Transfer In                                       ,NF,02/14/2017,TICF,MMCCR, NA
+2015,02/16/2017,Transfer In                                       ,AL,02/15/2017,ALL1,STLUK, MOVE
+1810,02/21/2017,Transfer Out                                      ,AL,02/20/2017,ALL1,,
+1841,02/22/2017,Transfer In                                       ,IL,02/21/2017,IL1 ,HOME , MOVE
+2040,02/23/2017,Transfer In                                       ,AL,02/23/2017,RES ,WDLAN, IIH
+1810,02/24/2017,Transfer In                                       ,NF,02/24/2017,TSNF,MMCCR, HOSP
+730,02/24/2017,Transfer In                                       ,AL,02/24/2017,RES ,MANOR, DIH
+1973,02/27/2017,Transfer Out                                      ,AL,02/25/2017,ALL1,,
+1765,02/27/2017,Transfer In                                       ,NF,02/27/2017,TSNF,STLUK, HOSP
+514,03/03/2017,Transfer Out                                      ,AL,03/02/2017,ALL2,,
+730,03/03/2017,Transfer In                                       ,NF,03/03/2017,TICF,CCARE, DIH
+1349,03/03/2017,Transfer In                                       ,NF,03/03/2017,TSNF,MMCCR, HOSP
+2055,03/08/2017,Transfer In                                       ,IL,03/06/2017,IL1 ,HOME , MOVE
+1966,03/10/2017,Transfer Out                                      ,NF,03/09/2017,ICF,,
+1984,03/10/2017,Transfer In                                       ,IL,03/08/2017,IL1 ,HOME , MOVE
+2054,03/10/2017,Transfer In                                       ,IL,03/01/2017,IL1 ,HOME , MOVE
+1966,03/12/2017,Transfer In                                       ,NF,03/12/2017,ICF ,MMCCR, HOSP
+2057,03/13/2017,Transfer In                                       ,NF,03/13/2017,TSNF,STLUK, HOSP
+1557,03/13/2017,Transfer In                                       ,AL,03/13/2017,ALL1,BVILL, MOVE
+2059,03/16/2017,Transfer In                                       ,NF,03/16/2017,TSNF,NA   , HOSP
+770,03/17/2017,Transfer In                                       ,AL,03/14/2017,RES ,WDLAN, IIH
+2006,03/17/2017,Transfer Out                                      ,IL,03/14/2017,IL2,,
+2006,03/17/2017,Transfer In                                       ,NF,03/17/2017,TICF,STLUK, HOSP
+1939,03/17/2017,Transfer In                                       ,SL,03/16/2017,SL1B,MANOR, MOVE
+770,03/20/2017,Transfer In                                       ,AL,03/17/2017,ALL2,CCARE, MOVE
+2060,03/21/2017,Transfer In                                       ,IL,03/20/2017,IL1 ,HOME , MOVE
+2056,03/22/2017,Transfer In                                       ,IL,03/22/2017,IL2 ,HOME , MOVE
+1841,03/22/2017,Transfer In                                       ,NF,03/22/2017,TSNF,HOME , DIH
+2029,03/23/2017,Transfer In                                       ,NF,03/23/2017,TICF,STLUK, HOSP
+2061,03/24/2017,Transfer In                                       ,NF,03/24/2017,TSNF,STLUK, HOSP
+1966,03/27/2017,Transfer Out                                      ,NF,03/27/2017,ICF,,
+2057,03/29/2017,Transfer In                                       ,NF,03/29/2017,TSNF,MMCCR, HOSP
+1910,03/29/2017,Transfer In                                       ,NF,03/29/2017,TSNF,STLUK, HOSP
+1444,03/30/2017,Transfer In                                       ,NF,03/30/2017,TSNF,MMCCR, HOSP
+1966,03/31/2017,Transfer In                                       ,NF,03/31/2017,ICF ,MMCCR, HOSP
+1333,04/03/2017,Transfer In                                       ,AL,04/02/2017,RES ,DRIDG, DIH
+1910,04/04/2017,Transfer Out                                      ,NF,04/03/2017,TSNF,,
+2062,04/05/2017,Transfer In                                       ,NF,04/05/2017,TSNF,STLUK, HOSP
+1910,04/05/2017,Transfer In                                       ,NF,04/05/2017,TSNF,MMCCR, HOSP
+2052,04/06/2017,Transfer In                                       ,IL,04/06/2017,IL2 ,HOME , MOVE
+1333,04/07/2017,Transfer In                                       ,NF,04/07/2017,TICF,STLUK, HOSP
+1791,04/08/2017,Transfer Out                                      ,NF,04/07/2017,ICF,,
+1791,04/10/2017,Transfer In                                       ,NF,04/10/2017,ICF ,MMCCR, HOSP
+2025,04/12/2017,Transfer Out                                      ,AL,04/11/2017,ALL1,,
+802,04/14/2017,Transfer In                                       ,AL,04/13/2017,RES ,MANOR, DIH
+1841,04/14/2017,Transfer In                                       ,IL,04/14/2017,IL1 ,HOME , MOVE
+2025,04/15/2017,Transfer In                                       ,NF,04/15/2017,TSNF,UIHC , HOSP
+1625,04/17/2017,Transfer Out                                      ,AL,04/14/2017,ALR2,,
+2029,04/17/2017,Transfer In                                       ,IL,04/15/2017,IL1 ,HOME , MOVE
+1625,04/17/2017,Transfer In                                       ,NF,04/17/2017,TICF,MMCCR, HOSP
+2059,04/17/2017,Transfer Out                                      ,NF,04/17/2017,TSNF,,
+2059,04/18/2017,Transfer In                                       ,NF,04/18/2017,TICF,MMCCR, HOSP
+2062,04/20/2017,Transfer Out                                      ,NF,04/20/2017,TSNF,,
+2001,04/21/2017,Transfer In                                       ,AL,04/20/2017,RES ,DRIDG, DIH
+1765,04/21/2017,Transfer Out                                      ,NF,04/20/2017,TSNF,,
+1859,04/22/2017,Transfer Out                                      ,IL,04/16/2017,IL1,,
+1859,04/22/2017,Transfer In                                       ,NF,04/22/2017,TSNF,STLUK, HOSP
+1773,04/24/2017,Transfer In                                       ,AL,04/22/2017,RES ,STLUK, DIH
+2070,04/25/2017,Transfer In                                       ,AL,04/25/2017,ALL2,OTRFA,
+1765,04/25/2017,Transfer In                                       ,NF,04/25/2017,TSNF,STLUK, HOSP
+667,04/26/2017,Transfer Out                                      ,AL,04/24/2017,ALL2,,
+2019,04/26/2017,Transfer Out                                      ,AL,04/26/2017,ALL2,,
+2019,04/26/2017,Transfer In                                       ,NF,04/26/2017,TICF,MMCCR, HOSP
+2062,04/27/2017,Transfer In                                       ,NF,04/27/2017,TSNF,STLUK, HOSP
+1384,04/27/2017,Transfer In                                       ,AL,04/27/2017,RES ,MANOR, DIH
+1890,04/30/2017,Transfer Out                                      ,IL,05/05/2017,IL1,,
+1890,04/30/2017,Transfer In                                       ,NF,04/30/2017,TSNF,STLUK, HOSP
+802,05/01/2017,Transfer In                                       ,AL,04/30/2017,RES ,MANOR, DIH
+2071,05/01/2017,Transfer In                                       ,SL,05/01/2017,SL1B,HOME , MOVE
+2072,05/01/2017,Transfer In                                       ,SL,05/01/2017,SL2B,HOME , MOVE
+667,05/01/2017,Transfer In                                       ,NF,05/01/2017,TICF,STLUK, HOSP
+1910,05/02/2017,Transfer Out                                      ,NF,05/01/2017,TICF,,
+1823,05/02/2017,Transfer In                                       ,NF,05/02/2017,TICF,MERIA, HOSP
+1910,05/03/2017,Transfer In                                       ,NF,05/03/2017,TICF,MMCCR, HOSP
+228,05/05/2017,Transfer Out                                      ,NF,01/20/2016,ICF,,
+263,05/05/2017,Transfer Out                                      ,AL,10/23/2016,ALL1,,
+351,05/05/2017,Transfer Out                                      ,NF,03/22/2016,ICF,,
+405,05/05/2017,Transfer Out                                      ,AL,11/19/2016,RES,,
+405,05/05/2017,Transfer Out                                      ,NF,10/19/2016,TICF,,
+405,05/05/2017,Transfer Out                                      ,SL,12/06/2016,SL1B,,
+424,05/05/2017,Transfer Out                                      ,AL,06/01/2016,RES,,
+424,05/05/2017,Transfer Out                                      ,AL,06/21/2016,RES,,
+424,05/05/2017,Transfer Out                                      ,AL,12/09/2016,RES,,
+424,05/05/2017,Transfer Out                                      ,IL,07/29/2016,IL1,,
+426,05/05/2017,Transfer Out                                      ,IL,07/19/2016,IL1,,
+514,05/05/2017,Transfer Out                                      ,AL,02/02/2017,RES,,
+514,05/05/2017,Transfer Out                                      ,AL,03/10/2017,ALL2,,
+514,05/05/2017,Transfer Out                                      ,SL,02/10/2017,SL1B,,
+532,05/05/2017,Transfer Out                                      ,AL,07/18/2016,RES,,
+532,05/05/2017,Transfer Out                                      ,IL,10/04/2016,IL1,,
+535,05/05/2017,Transfer Out                                      ,AL,02/20/2016,RES,,
+538,05/05/2017,Transfer Out                                      ,NF,03/19/2016,ICF,,
+540,05/05/2017,Transfer Out                                      ,NF,01/02/2017,ICF,,
+544,05/05/2017,Transfer Out                                      ,NF,04/17/2016,ICF,,
+545,05/05/2017,Transfer Out                                      ,AL,09/04/2016,ALL2,,
+545,05/05/2017,Transfer Out                                      ,NF,10/21/2016,ICF,,
+585,05/05/2017,Transfer Out                                      ,IL,02/29/2016,IL1,,
+613,05/05/2017,Transfer Out                                      ,NF,12/16/2016,ICF,,
+687,05/05/2017,Transfer Out                                      ,NF,02/19/2017,ICF,,
+696,05/05/2017,Transfer Out                                      ,AL,01/21/2017,RES,,
+699,05/05/2017,Transfer Out                                      ,AL,12/13/2016,RES,,
+701,05/05/2017,Transfer Out                                      ,IL,05/14/2016,IL1,,
+709,05/05/2017,Transfer Out                                      ,AL,03/08/2016,RES,,
+709,05/05/2017,Transfer Out                                      ,AL,03/14/2016,RES,,
+709,05/05/2017,Transfer Out                                      ,AL,04/02/2016,RES,,
+709,05/05/2017,Transfer Out                                      ,SL,05/01/2016,SL1B,,
+713,05/05/2017,Transfer Out                                      ,AL,02/25/2016,RES,,
+713,05/05/2017,Transfer Out                                      ,IL,03/31/2016,IL1,,
+730,05/05/2017,Transfer Out                                      ,AL,01/26/2016,RES,,
+730,05/05/2017,Transfer Out                                      ,AL,04/30/2016,RES,,
+730,05/05/2017,Transfer Out                                      ,AL,07/22/2016,RES,,
+730,05/05/2017,Transfer Out                                      ,AL,02/26/2017,RES,,
+730,05/05/2017,Transfer Out                                      ,IL,02/21/2016,IL1,,
+730,05/05/2017,Transfer Out                                      ,NF,03/12/2017,ICF,,
+730,05/05/2017,Transfer Out                                      ,SL,04/02/2017,SL1B,,
+754,05/05/2017,Transfer Out                                      ,AL,12/30/2016,ALR1,,
+754,05/05/2017,Transfer Out                                      ,NF,12/28/2016,ICF,,
+770,05/05/2017,Transfer Out                                      ,AL,03/17/2017,RES,,
+770,05/05/2017,Transfer Out                                      ,NF,03/14/2017,TSNF,,
+770,05/05/2017,Transfer Out                                      ,SL,03/24/2017,SL1R,,
+802,05/05/2017,Transfer Out                                      ,AL,04/18/2017,RES,,
+859,05/05/2017,Transfer Out                                      ,AL,01/19/2017,RES,,
+862,05/05/2017,Transfer Out                                      ,AL,10/26/2016,RES,,
+945,05/05/2017,Transfer Out                                      ,NF,02/23/2016,ICF,,
+947,05/05/2017,Transfer Out                                      ,NF,04/19/2016,TICF,,
+947,05/05/2017,Transfer Out                                      ,NF,05/25/2016,TICF,,
+961,05/05/2017,Transfer Out                                      ,AL,03/18/2016,RES,,
+961,05/05/2017,Transfer Out                                      ,SL,02/11/2017,SL1B,,
+991,05/05/2017,Transfer Out                                      ,AL,03/06/2016,ALL2,,
+991,05/05/2017,Transfer Out                                      ,NF,01/05/2016,TSNF,,
+991,05/05/2017,Transfer Out                                      ,NF,02/03/2016,TSNF,,
+991,05/05/2017,Transfer Out                                      ,NF,03/23/2016,ICF,,
+991,05/05/2017,Transfer Out                                      ,SL,01/30/2016,SL1B,,
+993,05/05/2017,Transfer Out                                      ,AL,05/31/2016,RES,,
+993,05/05/2017,Transfer Out                                      ,IL,07/07/2016,IL1,,
+1010,05/05/2017,Transfer Out                                      ,AL,11/18/2016,RES,,
+1010,05/05/2017,Transfer Out                                      ,NF,11/07/2016,TICF,,
+1011,05/05/2017,Transfer Out                                      ,NF,05/13/2016,TSNF,,
+1043,05/05/2017,Transfer Out                                      ,IL,03/30/2016,IL1,,
+1062,05/05/2017,Transfer Out                                      ,AL,01/08/2016,RES,,
+1062,05/05/2017,Transfer Out                                      ,AL,11/23/2016,ALL1,,
+1062,05/05/2017,Transfer Out                                      ,IL,06/10/2016,IL1,,
+1080,05/05/2017,Transfer Out                                      ,NF,12/15/2016,ICF,,
+1144,05/05/2017,Transfer Out                                      ,AL,01/21/2017,RES,,
+1151,05/05/2017,Transfer Out                                      ,NF,10/11/2016,TICF,,
+1166,05/05/2017,Transfer Out                                      ,AL,08/14/2016,RES,,
+1166,05/05/2017,Transfer Out                                      ,IL,10/13/2016,IL1,,
+1166,05/05/2017,Transfer Out                                      ,NF,10/01/2016,TICF,,
+1169,05/05/2017,Transfer Out                                      ,AL,09/13/2016,RES,,
+1169,05/05/2017,Transfer Out                                      ,AL,10/11/2016,RES,,
+1170,05/05/2017,Transfer Out                                      ,NF,11/19/2016,TICF,,
+1171,05/05/2017,Transfer Out                                      ,NF,04/05/2016,ICF,,
+1185,05/05/2017,Transfer Out                                      ,NF,08/08/2016,ICF,,
+1199,05/05/2017,Transfer Out                                      ,AL,03/01/2016,RES,,
+1202,05/05/2017,Transfer Out                                      ,NF,02/15/2016,MHOS,,
+1204,05/05/2017,Transfer Out                                      ,IL,01/19/2016,IL2,,
+1204,05/05/2017,Transfer Out                                      ,NF,01/18/2016,TSNF,,
+1207,05/05/2017,Transfer Out                                      ,AL,04/21/2016,RES,,
+1217,05/05/2017,Transfer Out                                      ,NF,01/26/2016,ICF,,
+1229,05/05/2017,Transfer Out                                      ,AL,07/07/2016,RES,,
+1229,05/05/2017,Transfer Out                                      ,AL,07/26/2016,RES,,
+1229,05/05/2017,Transfer Out                                      ,SL,07/28/2016,SL1B,,
+1234,05/05/2017,Transfer Out                                      ,AL,06/21/2016,RES,,
+1234,05/05/2017,Transfer Out                                      ,IL,07/07/2016,IL1,,
+1249,05/05/2017,Transfer Out                                      ,NF,07/13/2016,ICF,,
+1262,05/05/2017,Transfer Out                                      ,AL,04/12/2016,ALL1,,
+1262,05/05/2017,Transfer Out                                      ,NF,12/06/2016,ICF,,
+1271,05/05/2017,Transfer Out                                      ,AL,06/25/2016,ALL2,,
+1287,05/05/2017,Transfer Out                                      ,NF,03/08/2016,TSNF,,
+1305,05/05/2017,Transfer Out                                      ,AL,12/13/2016,RES,,
+1305,05/05/2017,Transfer Out                                      ,AL,01/06/2017,RES,,
+1323,05/05/2017,Transfer Out                                      ,IL,12/06/2016,IL2,,
+1323,05/05/2017,Transfer Out                                      ,NF,06/02/2016,TICF,,
+1323,05/05/2017,Transfer Out                                      ,NF,06/14/2016,TSNF,,
+1323,05/05/2017,Transfer Out                                      ,NF,07/17/2016,TSNF,,
+1323,05/05/2017,Transfer Out                                      ,NF,09/02/2016,TSNF,,
+1323,05/05/2017,Transfer Out                                      ,NF,12/06/2016,TICF,,
+1333,05/05/2017,Transfer Out                                      ,AL,04/05/2017,RES,,
+1333,05/05/2017,Transfer Out                                      ,NF,04/20/2017,TICF,,
+1337,05/05/2017,Transfer Out                                      ,AL,12/19/2016,ALL1,,
+1339,05/05/2017,Transfer Out                                      ,NF,03/26/2016,ICF,,
+1339,05/05/2017,Transfer Out                                      ,SL,03/20/2016,SL1B,,
+1349,05/05/2017,Transfer Out                                      ,IL,03/16/2017,IL1,,
+1349,05/05/2017,Transfer Out                                      ,NF,02/20/2017,TICF,,
+1350,05/05/2017,Transfer Out                                      ,NF,05/10/2016,TICF,,
+1352,05/05/2017,Transfer Out                                      ,AL,01/24/2017,ALL1,,
+1352,05/05/2017,Transfer Out                                      ,NF,04/21/2017,ICF,,
+1363,05/05/2017,Transfer Out                                      ,AL,02/26/2016,ALR2,,
+1364,05/05/2017,Transfer Out                                      ,IL,02/20/2016,IL2,,
+1364,05/05/2017,Transfer Out                                      ,NF,03/08/2016,ICF,,
+1365,05/05/2017,Transfer Out                                      ,AL,01/06/2016,RES,,
+1365,05/05/2017,Transfer Out                                      ,IL,03/31/2016,IL1,,
+1365,05/05/2017,Transfer Out                                      ,NF,08/31/2016,ICF,,
+1366,05/05/2017,Transfer Out                                      ,AL,01/22/2016,RES,,
+1366,05/05/2017,Transfer Out                                      ,IL,01/16/2016,IL1,,
+1375,05/05/2017,Transfer Out                                      ,AL,07/24/2016,RES,,
+1375,05/05/2017,Transfer Out                                      ,AL,08/09/2016,RES,,
+1375,05/05/2017,Transfer Out                                      ,NF,07/21/2016,TICF,,
+1381,05/05/2017,Transfer Out                                      ,IL,01/20/2017,IL1,,
+1384,05/05/2017,Transfer Out                                      ,AL,01/14/2016,RES,,
+1384,05/05/2017,Transfer Out                                      ,AL,03/22/2016,RES,,
+1384,05/05/2017,Transfer Out                                      ,AL,04/28/2017,RES,,
+1392,05/05/2017,Transfer Out                                      ,NF,03/07/2016,ICF,,
+1393,05/05/2017,Transfer Out                                      ,IL,01/31/2016,IL1,,
+1393,05/05/2017,Transfer Out                                      ,NF,01/10/2016,PSNF,,
+1405,05/05/2017,Transfer Out                                      ,NF,09/25/2016,ICF,,
+1407,05/05/2017,Transfer Out                                      ,AL,08/03/2016,RES,,
+1407,05/05/2017,Transfer Out                                      ,AL,08/17/2016,RES,,
+1422,05/05/2017,Transfer Out                                      ,AL,04/05/2016,RES,,
+1422,05/05/2017,Transfer Out                                      ,SL,04/08/2016,SL1B,,
+1438,05/05/2017,Transfer Out                                      ,NF,01/09/2017,ICF,,
+1438,05/05/2017,Transfer Out                                      ,SL,01/02/2017,SL2B,,
+1439,05/05/2017,Transfer Out                                      ,AL,12/23/2016,RES,,
+1439,05/05/2017,Transfer Out                                      ,SL,04/18/2017,SL1B,,
+1440,05/05/2017,Transfer Out                                      ,SL,12/01/2016,SL1B,,
+1441,05/05/2017,Transfer Out                                      ,SL,05/15/2016,SL2B,,
+1445,05/05/2017,Transfer Out                                      ,IL,12/28/2016,IL2,,
+1445,05/05/2017,Transfer Out                                      ,NF,02/06/2016,TSNF,,
+1445,05/05/2017,Transfer Out                                      ,NF,03/20/2016,TSNF,,
+1445,05/05/2017,Transfer Out                                      ,NF,12/16/2016,TSNF,,
+1445,05/05/2017,Transfer Out                                      ,NF,12/28/2016,TICF,,
+1454,05/05/2017,Transfer Out                                      ,AL,06/17/2016,RES,,
+1454,05/05/2017,Transfer Out                                      ,AL,08/16/2016,ALL1,,
+1454,05/05/2017,Transfer Out                                      ,IL,06/20/2016,IL1,,
+1455,05/05/2017,Transfer Out                                      ,AL,06/17/2016,RES,,
+1455,05/05/2017,Transfer Out                                      ,AL,08/16/2016,ALL1,,
+1455,05/05/2017,Transfer Out                                      ,IL,06/20/2016,IL2,,
+1455,05/05/2017,Transfer Out                                      ,NF,01/11/2016,TICF,,
+1468,05/05/2017,Transfer Out                                      ,AL,06/19/2016,RES,,
+1471,05/05/2017,Transfer Out                                      ,NF,12/14/2016,TICF,,
+1472,05/05/2017,Transfer Out                                      ,NF,01/06/2017,TICF,,
+1472,05/05/2017,Transfer Out                                      ,NF,03/15/2017,ICF,,
+1475,05/05/2017,Transfer Out                                      ,NF,11/17/2016,MHOS,,
+1476,05/05/2017,Transfer Out                                      ,AL,05/13/2016,RES,,
+1476,05/05/2017,Transfer Out                                      ,AL,05/19/2016,RES,,
+1476,05/05/2017,Transfer Out                                      ,AL,08/30/2016,ALL2,,
+1476,05/05/2017,Transfer Out                                      ,IL,05/18/2016,IL1,,
+1476,05/05/2017,Transfer Out                                      ,NF,05/08/2016,TSNF,,
+1480,05/05/2017,Transfer Out                                      ,NF,07/06/2016,ICF,,
+1482,05/05/2017,Transfer Out                                      ,AL,02/06/2016,ALL2,,
+1489,05/05/2017,Transfer Out                                      ,IL,11/22/2016,IL2,,
+1489,05/05/2017,Transfer Out                                      ,NF,11/22/2016,TICF,,
+1491,05/05/2017,Transfer Out                                      ,IL,03/07/2016,IL1,,
+1493,05/05/2017,Transfer Out                                      ,NF,04/01/2016,ICF,,
+1499,05/05/2017,Transfer Out                                      ,AL,01/22/2016,ALL1,,
+1501,05/05/2017,Transfer Out                                      ,AL,08/29/2016,ALL2,,
+1531,05/05/2017,Transfer Out                                      ,AL,06/29/2016,RES,,
+1531,05/05/2017,Transfer Out                                      ,IL,07/08/2016,IL1,,
+1540,05/05/2017,Transfer Out                                      ,NF,05/18/2016,ICF,,
+1556,05/05/2017,Transfer Out                                      ,IL,01/24/2017,IL1,,
+1556,05/05/2017,Transfer Out                                      ,NF,01/24/2017,TICF,,
+1602,05/05/2017,Transfer Out                                      ,NF,04/04/2016,ICF,,
+1605,05/05/2017,Transfer Out                                      ,NF,02/06/2017,ICF,,
+1621,05/05/2017,Transfer Out                                      ,NF,08/13/2016,ICF,,
+1625,05/05/2017,Transfer Out                                      ,AL,12/27/2016,RES,,
+1625,05/05/2017,Transfer Out                                      ,AL,04/15/2017,ALR2,,
+1637,05/05/2017,Transfer Out                                      ,NF,10/26/2016,ICF,,
+1637,05/05/2017,Transfer Out                                      ,NF,11/05/2016,ICF,,
+1637,05/05/2017,Transfer Out                                      ,SL,01/28/2016,SL1B,,
+1638,05/05/2017,Transfer Out                                      ,AL,02/14/2016,RES,,
+1638,05/05/2017,Transfer Out                                      ,NF,05/28/2016,ICF,,
+1638,05/05/2017,Transfer Out                                      ,SL,03/29/2016,SL1B,,
+1648,05/05/2017,Transfer Out                                      ,AL,06/01/2016,RES,,
+1669,05/05/2017,Transfer Out                                      ,AL,02/02/2016,RES,,
+1669,05/05/2017,Transfer Out                                      ,IL,02/06/2016,IL1,,
+1674,05/05/2017,Transfer Out                                      ,NF,01/05/2016,ICF,,
+1697,05/05/2017,Transfer Out                                      ,NF,01/18/2017,TSNF,,
+1699,05/05/2017,Transfer Out                                      ,AL,08/18/2016,RES,,
+1699,05/05/2017,Transfer Out                                      ,AL,09/08/2016,RES,,
+1704,05/05/2017,Transfer Out                                      ,AL,01/11/2016,ALL1,,
+1705,05/05/2017,Transfer Out                                      ,AL,09/11/2016,RES,,
+1706,05/05/2017,Transfer Out                                      ,AL,02/21/2016,RES,,
+1706,05/05/2017,Transfer Out                                      ,AL,06/09/2016,RES,,
+1706,05/05/2017,Transfer Out                                      ,AL,08/03/2016,RES,,
+1706,05/05/2017,Transfer Out                                      ,AL,11/12/2016,ALL1,,
+1706,05/05/2017,Transfer Out                                      ,IL,08/06/2016,IL1,,
+1706,05/05/2017,Transfer Out                                      ,NF,03/08/2016,TSNF,,
+1706,05/05/2017,Transfer Out                                      ,NF,07/01/2016,TICF,,
+1706,05/05/2017,Transfer Out                                      ,NF,12/01/2016,ICF,,
+1709,05/05/2017,Transfer Out                                      ,AL,12/19/2016,RES,,
+1709,05/05/2017,Transfer Out                                      ,NF,01/05/2017,TSNF,,
+1709,05/05/2017,Transfer Out                                      ,SL,02/14/2017,SL1B,,
+1721,05/05/2017,Transfer Out                                      ,IL,02/29/2016,IL1,,
+1722,05/05/2017,Transfer Out                                      ,NF,08/05/2016,TICF,,
+1732,05/05/2017,Transfer Out                                      ,NF,11/22/2016,ICF,,
+1734,05/05/2017,Transfer Out                                      ,AL,11/05/2016,ALL2,,
+1758,05/05/2017,Transfer Out                                      ,SL,06/21/2016,SL1B,,
+1762,05/05/2017,Transfer Out                                      ,AL,01/06/2016,RES,,
+1762,05/05/2017,Transfer Out                                      ,AL,04/05/2016,ALL1,,
+1762,05/05/2017,Transfer Out                                      ,NF,12/22/2016,ICF,,
+1762,05/05/2017,Transfer Out                                      ,SL,01/08/2016,SL1B,,
+1765,05/05/2017,Transfer Out                                      ,NF,02/24/2017,TICF,,
+1768,05/05/2017,Transfer Out                                      ,AL,03/07/2016,ALL1,,
+1768,05/05/2017,Transfer Out                                      ,NF,02/29/2016,TICF,,
+1768,05/05/2017,Transfer Out                                      ,NF,10/19/2016,ICF,,
+1769,05/05/2017,Transfer Out                                      ,AL,01/05/2016,RES,,
+1769,05/05/2017,Transfer Out                                      ,AL,02/25/2017,ALL1,,
+1769,05/05/2017,Transfer Out                                      ,IL,01/30/2016,IL1,,
+1771,05/05/2017,Transfer Out                                      ,NF,11/03/2016,TSNF,,
+1773,05/05/2017,Transfer Out                                      ,AL,04/29/2017,RES,,
+1773,05/05/2017,Transfer Out                                      ,NF,09/24/2016,TSNF,,
+1785,05/05/2017,Transfer Out                                      ,AL,05/27/2016,ALL1,,
+1791,05/05/2017,Transfer Out                                      ,AL,01/15/2016,ALR2,,
+1794,05/05/2017,Transfer Out                                      ,IL,03/29/2016,IL1,,
+1795,05/05/2017,Transfer Out                                      ,AL,10/26/2016,RES,,
+1800,05/05/2017,Transfer Out                                      ,SL,09/22/2016,SL1B,,
+1802,05/05/2017,Transfer Out                                      ,AL,04/13/2016,RES,,
+1808,05/05/2017,Transfer Out                                      ,NF,02/22/2016,TICF,,
+1809,05/05/2017,Transfer Out                                      ,AL,02/22/2016,RES,,
+1809,05/05/2017,Transfer Out                                      ,IL,04/04/2016,IL1,,
+1809,05/05/2017,Transfer Out                                      ,NF,03/09/2016,TSNF,,
+1809,05/05/2017,Transfer Out                                      ,NF,04/06/2016,ICF,,
+1810,05/05/2017,Transfer Out                                      ,NF,03/10/2017,TSNF,,
+1813,05/05/2017,Transfer Out                                      ,NF,01/08/2016,TICF,,
+1814,05/05/2017,Transfer Out                                      ,AL,01/08/2016,RES,,
+1814,05/05/2017,Transfer Out                                      ,AL,01/18/2016,RES,,
+1819,05/05/2017,Transfer Out                                      ,AL,01/30/2017,ALL1,,
+1819,05/05/2017,Transfer Out                                      ,IL,07/28/2016,IL1,,
+1823,05/05/2017,Transfer Out                                      ,AL,03/31/2016,RES,,
+1823,05/05/2017,Transfer Out                                      ,AL,05/03/2017,ALL1,,
+1823,05/05/2017,Transfer Out                                      ,SL,04/02/2016,SL1B,,
+1841,05/05/2017,Transfer Out                                      ,NF,02/21/2017,TSNF,,
+1841,05/05/2017,Transfer Out                                      ,NF,04/13/2017,TSNF,,
+1847,05/05/2017,Transfer Out                                      ,NF,01/25/2016,ICF,,
+1850,05/05/2017,Transfer Out                                      ,NF,01/07/2016,TSNF,,
+1852,05/05/2017,Transfer Out                                      ,IL,02/17/2017,IL1,,
+1855,05/05/2017,Transfer Out                                      ,AL,06/25/2016,ALL1,,
+1855,05/05/2017,Transfer Out                                      ,SL,06/26/2016,SL1B,,
+1859,05/05/2017,Transfer Out                                      ,NF,04/27/2017,TICF,,
+1861,05/05/2017,Transfer Out                                      ,AL,02/14/2017,ALL1,,
+1870,05/05/2017,Transfer Out                                      ,AL,04/13/2016,RES,,
+1870,05/05/2017,Transfer Out                                      ,AL,06/29/2016,RES,,
+1870,05/05/2017,Transfer Out                                      ,AL,09/07/2016,ALR2,,
+1870,05/05/2017,Transfer Out                                      ,NF,01/07/2016,TICF,,
+1870,05/05/2017,Transfer Out                                      ,NF,09/26/2016,ICF,,
+1870,05/05/2017,Transfer Out                                      ,SL,07/08/2016,SL1R,,
+1872,05/05/2017,Transfer Out                                      ,AL,01/28/2017,ALR2,,
+1872,05/05/2017,Transfer Out                                      ,NF,07/15/2016,TSNF,,
+1872,05/05/2017,Transfer Out                                      ,NF,03/07/2017,ICF,,
+1877,05/05/2017,Transfer Out                                      ,NF,01/03/2016,ICF,,
+1882,05/05/2017,Transfer Out                                      ,AL,01/14/2016,ALL1,,
+1886,05/05/2017,Transfer Out                                      ,AL,09/16/2016,RES,,
+1902,05/05/2017,Transfer Out                                      ,AL,04/19/2016,ALL1,,
+1907,05/05/2017,Transfer Out                                      ,SL,02/27/2016,SL1B,,
+1909,05/05/2017,Transfer Out                                      ,NF,08/01/2016,TSNF,,
+1910,05/05/2017,Transfer Out                                      ,AL,10/19/2016,RES,,
+1916,05/05/2017,Transfer Out                                      ,IL,03/14/2017,IL1,,
+1919,05/05/2017,Transfer Out                                      ,NF,07/19/2016,TSNF,,
+1919,05/05/2017,Transfer Out                                      ,NF,09/16/2016,TSNF,,
+1920,05/05/2017,Transfer Out                                      ,SL,09/09/2016,SL1B,,
+1924,05/05/2017,Transfer Out                                      ,NF,02/18/2017,TSNF,,
+1925,05/05/2017,Transfer Out                                      ,AL,01/31/2017,RES,,
+1925,05/05/2017,Transfer Out                                      ,SL,02/17/2017,SL2B,,
+1930,05/05/2017,Transfer Out                                      ,NF,07/09/2016,ICF,,
+1934,05/05/2017,Transfer Out                                      ,NF,06/11/2016,TSNF,,
+1937,05/05/2017,Transfer Out                                      ,AL,02/26/2016,RES,,
+1939,05/05/2017,Transfer Out                                      ,SL,03/16/2017,SL1B,,
+1940,05/05/2017,Transfer Out                                      ,NF,04/08/2016,TICF,,
+1940,05/05/2017,Transfer Out                                      ,NF,01/13/2017,TSNF,,
+1941,05/05/2017,Transfer Out                                      ,NF,01/05/2016,TSNF,,
+1943,05/05/2017,Transfer Out                                      ,SL,01/29/2016,SL1R,,
+1944,05/05/2017,Transfer Out                                      ,SL,01/14/2016,SL2R,,
+1945,05/05/2017,Transfer Out                                      ,NF,01/25/2016,TICF,,
+1945,05/05/2017,Transfer Out                                      ,NF,03/26/2016,ICF,,
+1950,05/05/2017,Transfer Out                                      ,AL,01/22/2016,RES,,
+1951,05/05/2017,Transfer Out                                      ,NF,02/05/2016,TSNF,,
+1954,05/05/2017,Transfer Out                                      ,NF,02/13/2016,ICF,,
+1955,05/05/2017,Transfer Out                                      ,AL,07/02/2016,RES,,
+1955,05/05/2017,Transfer Out                                      ,AL,09/20/2016,ALR1,,
+1955,05/05/2017,Transfer Out                                      ,NF,06/30/2016,ICF,,
+1955,05/05/2017,Transfer Out                                      ,NF,09/20/2016,ICF,,
+1956,05/05/2017,Transfer Out                                      ,NF,03/10/2016,TICF,,
+1959,05/05/2017,Transfer Out                                      ,AL,04/04/2016,RES,,
+1959,05/05/2017,Transfer Out                                      ,AL,09/05/2016,ALL1,,
+1960,05/05/2017,Transfer Out                                      ,NF,03/31/2016,ICF,,
+1962,05/05/2017,Transfer Out                                      ,AL,04/23/2016,RES,,
+1962,05/05/2017,Transfer Out                                      ,AL,06/08/2016,ALL1,,
+1963,05/05/2017,Transfer Out                                      ,NF,04/04/2017,ICF,,
+1964,05/05/2017,Transfer Out                                      ,AL,04/18/2016,RES,,
+1964,05/05/2017,Transfer Out                                      ,AL,11/21/2016,RES,,
+1965,05/05/2017,Transfer Out                                      ,NF,01/20/2017,TICF,,
+1966,05/05/2017,Transfer Out                                      ,NF,02/10/2017,ICF,,
+1966,05/05/2017,Transfer Out                                      ,NF,03/12/2017,ICF,,
+1966,05/05/2017,Transfer Out                                      ,NF,03/31/2017,ICF,,
+1967,05/05/2017,Transfer Out                                      ,NF,04/15/2016,TSNF,,
+1968,05/05/2017,Transfer Out                                      ,AL,05/02/2016,RES,,
+1969,05/05/2017,Transfer Out                                      ,NF,04/21/2016,TSNF,,
+1969,05/05/2017,Transfer Out                                      ,NF,05/27/2016,TSNF,,
+1970,05/05/2017,Transfer Out                                      ,NF,06/08/2016,ICF,,
+1972,05/05/2017,Transfer Out                                      ,NF,05/03/2016,TSNF,,
+1973,05/05/2017,Transfer Out                                      ,AL,03/02/2017,ALL1,,
+1974,05/05/2017,Transfer Out                                      ,NF,08/18/2016,TSNF,,
+1975,05/05/2017,Transfer Out                                      ,NF,05/24/2016,TSNF,,
+1976,05/05/2017,Transfer Out                                      ,NF,07/27/2016,TSNF,,
+1984,05/05/2017,Transfer Out                                      ,NF,08/23/2016,TSNF,,
+1984,05/05/2017,Transfer Out                                      ,NF,03/09/2017,TSNF,,
+1985,05/05/2017,Transfer Out                                      ,AL,08/29/2016,RES,,
+1985,05/05/2017,Transfer Out                                      ,AL,09/30/2016,ALL1,,
+1988,05/05/2017,Transfer Out                                      ,NF,07/06/2016,TICF,,
+1993,05/05/2017,Transfer Out                                      ,IL,08/16/2016,IL1,,
+2001,05/05/2017,Transfer Out                                      ,AL,04/22/2017,RES,,
+2003,05/05/2017,Transfer Out                                      ,NF,07/24/2016,TICF,,
+2004,05/05/2017,Transfer Out                                      ,NF,11/06/2016,TICF,,
+2004,05/05/2017,Transfer Out                                      ,NF,11/18/2016,TSNF,,
+2006,05/05/2017,Transfer Out                                      ,NF,01/11/2017,TICF,,
+2006,05/05/2017,Transfer Out                                      ,NF,03/19/2017,TICF,,
+2008,05/05/2017,Transfer Out                                      ,AL,08/22/2016,RES,,
+2017,05/05/2017,Transfer Out                                      ,NF,09/16/2016,TSNF,,
+2017,05/05/2017,Transfer Out                                      ,NF,10/18/2016,TSNF,,
+2018,05/05/2017,Transfer Out                                      ,AL,09/22/2016,RES,,
+2019,05/05/2017,Transfer Out                                      ,NF,12/28/2016,TICF,,
+2023,05/05/2017,Transfer Out                                      ,NF,09/28/2016,TICF,,
+2024,05/05/2017,Transfer Out                                      ,AL,11/22/2016,RES,,
+2024,05/05/2017,Transfer Out                                      ,NF,10/25/2016,TSNF,,
+2025,05/05/2017,Transfer Out                                      ,NF,12/16/2016,TICF,,
+2029,05/05/2017,Transfer Out                                      ,NF,03/28/2017,TICF,,
+2033,05/05/2017,Transfer Out                                      ,NF,12/21/2016,TSNF,,
+2035,05/05/2017,Transfer Out                                      ,NF,12/03/2016,TICF,,
+2038,05/05/2017,Transfer Out                                      ,NF,12/14/2016,TSNF,,
+2038,05/05/2017,Transfer Out                                      ,NF,12/22/2016,TSNF,,
+2038,05/05/2017,Transfer Out                                      ,NF,01/21/2017,TSNF,,
+2040,05/05/2017,Transfer Out                                      ,AL,03/30/2017,RES,,
+2040,05/05/2017,Transfer Out                                      ,NF,12/22/2016,TSNF,,
+2040,05/05/2017,Transfer Out                                      ,NF,01/27/2017,TSNF,,
+2040,05/05/2017,Transfer Out                                      ,NF,02/23/2017,TSNF,,
+2042,05/05/2017,Transfer Out                                      ,NF,01/25/2017,TSNF,,
+2043,05/05/2017,Transfer Out                                      ,NF,01/11/2017,MHOS,,
+2045,05/05/2017,Transfer Out                                      ,NF,01/20/2017,TSNF,,
+2046,05/05/2017,Transfer Out                                      ,NF,03/20/2017,TICF,,
+2048,05/05/2017,Transfer Out                                      ,NF,02/24/2017,TSNF,,
+2057,05/05/2017,Transfer Out                                      ,NF,03/27/2017,TSNF,,
+2057,05/05/2017,Transfer Out                                      ,NF,04/15/2017,TSNF,,
+2059,05/05/2017,Transfer Out                                      ,NF,04/22/2017,TICF,,
+2061,05/05/2017,Transfer Out                                      ,NF,04/15/2017,ICF,,
+2062,05/05/2017,Transfer Out                                      ,NF,04/27/2017,TICF,,
+947,05/09/2017,Transfer Out                                      ,IL,05/05/2017,IL2,,
+947,05/09/2017,Transfer In                                       ,NF,05/09/2017,TSNF,MMCCR, HOSP
+1710,05/09/2017,Transfer Out                                      ,SL,05/09/2017,SL1R,,
+1710,05/09/2017,Transfer In                                       ,AL,05/09/2017,ALL1,MANOR, MOVE
+1890,05/10/2017,Transfer Out                                      ,NF,05/09/2017,TSNF,,
+1890,05/10/2017,Transfer In                                       ,IL,05/10/2017,IL1 ,HOME , MOVE
+2073,05/11/2017,Transfer In                                       ,AL,05/11/2017,ALL1,HOME , MOVE
+1768,05/13/2017,Transfer Out                                      ,NF,05/12/2017,ICF,,
+770,05/15/2017,Transfer Out                                      ,AL,05/13/2017,ALR1,,
+1710,05/15/2017,Transfer Out                                      ,SL,05/15/2017,SL1R,,
+770,05/16/2017,Transfer In                                       ,AL,05/15/2017,ALR1,CCARE, MOVE
+1532,05/16/2017,Transfer Out                                      ,IL,05/16/2017,IL1,,
+1532,05/16/2017,Transfer In                                       ,AL,05/16/2017,RES ,BVILL, DIH
+1532,05/18/2017,Transfer Out                                      ,AL,05/17/2017,RES,,
+1532,05/18/2017,Transfer In                                       ,IL,05/18/2017,IL1 ,NA   , NA
+667,05/18/2017,Transfer Out                                      ,AL,05/17/2017,ALL2,,
+802,05/18/2017,Transfer Out                                      ,AL,05/18/2017,RES,,
+802,05/18/2017,Transfer In                                       ,AL,05/18/2017,ALL2,CCARE, MOVE
+1767,05/19/2017,Transfer Out                                      ,AL,05/18/2017,ALR1,,
+1814,05/22/2017,Transfer Out                                      ,SL,05/19/2017,SL2B,,
+1814,05/22/2017,Transfer In                                       ,AL,05/19/2017,RES ,MANOR, DIH
+1814,05/22/2017,Transfer Out                                      ,AL,05/20/2017,RES,,
+1814,05/22/2017,Transfer In                                       ,SL,05/22/2017,SL2B,HOME , MOVE
+1767,05/22/2017,Transfer In                                       ,NF,05/22/2017,TSNF,STLUK, HOSP
+1910,05/22/2017,Transfer Out                                      ,SL,05/20/2017,SL1B,,
+1144,05/22/2017,Transfer Out                                      ,IL,05/22/2017,IL1,,
+1144,05/22/2017,Transfer In                                       ,SL,05/22/2017,SL1B,DRIDG, MOVE
+1792,05/22/2017,Transfer Out                                      ,AL,05/22/2017,ALL1,,
+1792,05/22/2017,Transfer In                                       ,NF,05/22/2017,TICF,ARBOR, DIH
+1535,05/23/2017,Transfer Out                                      ,AL,05/21/2017,ALL1,,
+1209,05/23/2017,Transfer Out                                      ,SL,05/22/2017,SL1B,,
+2025,05/25/2017,Transfer Out                                      ,NF,05/25/2017,TSNF,,
+2025,05/25/2017,Transfer In                                       ,AL,05/25/2017,ALL1,HOME,
+1144,05/26/2017,Transfer Out                                      ,IL,05/25/2017,IL1,,
+1535,05/26/2017,Transfer In                                       ,NF,05/26/2017,TSNF,STLUK, HOSP
+1209,05/26/2017,Transfer Out                                      ,SL,05/26/2017,SL1B,,
+1557,05/30/2017,Transfer Out                                      ,IL,05/26/2017,IL1,,
+2050,05/30/2017,Transfer Out                                      ,SL,05/29/2017,SL1R,,
+1532,05/30/2017,Transfer Out                                      ,IL,05/30/2017,IL1,,
+1532,05/30/2017,Transfer In                                       ,AL,05/30/2017,RES ,BVILL, DIH
+1792,05/31/2017,Transfer Out                                      ,AL,05/27/2017,ALL1,,
+1532,05/31/2017,Transfer Out                                      ,AL,05/31/2017,RES,,
+1532,05/31/2017,Transfer In                                       ,IL,05/31/2017,IL1 ,NA   , NA
+2050,06/02/2017,Transfer In                                       ,NF,06/02/2017,TSNF,MMCCR, HOSP
+2062,06/02/2017,Transfer Out                                      ,NF,06/01/2017,TSNF,,
+1503,06/02/2017,Transfer Out                                      ,AL,06/02/2017,ALL1,,
+1743,06/02/2017,Transfer Out                                      ,SL,06/02/2017,SL1B,,
+1743,06/02/2017,Transfer In                                       ,AL,06/02/2017,RES ,MANOR, DIH
+1908,06/05/2017,Transfer Out                                      ,SL,06/04/2017,SL1B,,
+1908,06/05/2017,Transfer In                                       ,AL,06/04/2017,RES ,HOME , DIH
+2076,06/05/2017,Transfer In                                       ,SL,06/03/2017,SL1B,HOME , MOVE
+1743,06/05/2017,Transfer Out                                      ,AL,06/05/2017,RES,,
+1743,06/05/2017,Transfer In                                       ,SL,06/05/2017,SL1B,HOME , MOVE
+1503,06/05/2017,Transfer In                                       ,NF,06/05/2017,TICF,MMCCR, HOSP
+1172,06/06/2017,Transfer Out                                      ,AL,06/05/2017,ALL2,,
+1535,06/06/2017,Transfer Out                                      ,NF,06/06/2017,TSNF,,
+1535,06/06/2017,Transfer In                                       ,AL,06/06/2017,ALL1,MANOR, DIH
+1767,06/07/2017,Transfer Out                                      ,NF,06/06/2017,TSNF,,
+1172,06/07/2017,Transfer In                                       ,NF,06/07/2017,TICF,CCARE, DIH
+1536,06/08/2017,Transfer Out                                      ,AL,06/07/2017,ALR1,,
+1536,06/08/2017,Transfer In                                       ,NF,06/08/2017,TICF,STLUK, HOSP
+1349,06/08/2017,Transfer Out                                      ,NF,06/08/2017,ICF,,
+1548,06/09/2017,Transfer Out                                      ,IL,06/07/2017,IL2,,
+1548,06/09/2017,Transfer In                                       ,AL,06/07/2017,RES ,HPARK, DIH
+1349,06/09/2017,Transfer In                                       ,IL,06/08/2017,IL2 ,WDLAN, MOVE
+1548,06/09/2017,Transfer Out                                      ,AL,06/08/2017,RES,,
+1548,06/09/2017,Transfer In                                       ,IL,06/09/2017,IL2 ,NA   , NA
+1767,06/09/2017,Transfer In                                       ,NF,06/09/2017,TSNF,STLUK, HOSP
+1545,06/12/2017,Transfer Out                                      ,NF,06/11/2017,ICF,,
+1908,06/12/2017,Transfer Out                                      ,AL,06/12/2017,RES,,
+1908,06/12/2017,Transfer In                                       ,SL,06/12/2017,SL1B,HOME , MOVE
+1727,06/13/2017,Transfer Out                                      ,SL,06/12/2017,SL1B,,
+1908,06/13/2017,Transfer Out                                      ,SL,06/13/2017,SL1B,,
+1908,06/13/2017,Transfer In                                       ,AL,06/13/2017,RES ,MANOR, DIH

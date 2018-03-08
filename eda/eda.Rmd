@@ -1,0 +1,673 @@
+---
+title: "R Notebook"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    df_print: paged
+    fig_caption: yes
+    theme: paper
+    toc: yes
+    toc_depth: 2
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+---
+
+# EDA
+```{r load_data, include = FALSE}
+library(MASS)
+library(data.table)
+library(tidyverse)
+library(corrplot)
+library(gridExtra)
+library(ggthemes)
+library(caret)
+library(randomForest)
+library(party)
+library(rpart)
+library(rpart.plot)
+load("data/falls.RData")
+load("data/methwick.RData")
+load("data/vitals.RData")
+```
+
+```{r names_falls}
+names(falls)
+
+```
+
+```{r names_methwick}
+names(methwick)
+```
+
+```{r dim_falls}
+dim(falls)
+```
+
+```{r dim_methwick}
+dim(methwick)
+```
+
+```{r str_falls}
+str(falls)
+```
+
+```{r str_methwick}
+str(methwick)
+```
+
+```{r summary_falls}
+summary(falls)
+```
+
+```{r summary_methwick}
+summary(methwick)
+```
+
+```{r hours_falls}
+summary(chron::hours(falls$Fall_Time))
+```
+```{r}
+x <- chron::hours(falls$Fall_Time)
+y <- runif(length(x))
+boxplot(y ~ x)
+```
+
+```{r}
+h <- hist(chron::hours(falls$Fall_Time), breaks = seq(0, 24, by = 1), col = "darkgray", border = "black", main = "Proportion of Times")
+rug(chron::hours(falls$Fall_Time))
+```
+
+```{r}
+str(h)
+```
+```{r}
+plot(h, col = heat.colors(length(h$mids))[length(h$count)-rank(h$count)+1], ylim = c(0, max(h$count)+5), main="Falls through Time by hour", sub="Counts shown above bar, actual values shown with rug plot")
+rug(chron::hours(falls$Fall_Time))
+text(h$mids, h$count, h$count, pos=3)
+rm(h)
+```
+
+```{r fall_injuries_wrangling, include = FALSE}
+falls_injuries <- read.csv(file = "data/falls_injuries.csv", header = FALSE)
+falls_injuries$severity <- rowSums(falls_injuries[, 4:104])
+colnames(falls_injuries)[colnames(falls_injuries) == 'V1'] <- 'id'
+colnames(falls_injuries)[colnames(falls_injuries) == 'V2'] <- 'date'
+colnames(falls_injuries)[colnames(falls_injuries) == 'V3'] <- 'time'
+hist(falls_injuries$severity)
+fall_severity <- data.frame(falls_injuries$severity)
+colnames(fall_severity)[colnames(fall_severity) == 'falls_injuries.severity'] <- 'severity'
+fall_severity$severity[fall_severity$severity >= 1] <- 1
+falls <- bind_cols(falls, fall_severity)
+```
+
+```{r falls_notes_wranglign, include = FALSE}
+fn <- read_lines("data/fall_notes.txt")
+fall_notes <- as.data.frame(substr(fn, start = 1, stop = 7), stringsAsFactors = T)
+colnames(fall_notes) <- "ID"
+fall_notes$date <- substr(fn, start = 7, stop = 17)
+fall_notes$time <- substr(fn, start = 18, stop = 27)
+fall_notes$notes <- substr(fn, start = 28, stop = 110000)
+save(fall_notes, file = "data/fall_notes.RData")
+```
+
+```{r vitals_wrangling, include = FALSE}
+vit <- vitals
+setDT(vit)
+vit$newid <- paste(vit$ID, vit$Date, vit$Time, sep = " | ")
+vit$newnumber <- paste(vit$Number, vit$Number2, sep = " | ")
+vit <- vit[, c("Date","ID", "Time", "Notes", "Number", "Number2"):=NULL]
+vit <- reshape(vit, idvar = "newid", timevar = "Vital_Code", direction = "wide")
+vit$ID <- substr(vit$newid, 1, 4)
+vit$date <- substr(vit$newid, 7, 17)
+vit$time <- substr(vit$newid, 20, 33)
+vit$ID <- as.integer(vit$ID)
+vit$ID <- trimws(vit$ID)
+vit$date <- trimws(vit$date)
+vit$date <- lubridate::as_date(vit$date)
+vit$time <- trimws(vit$time)
+vit$time <- chron::times(vit$time, format =  "h:m:s")
+vit$bloodpressure <- vit$`newnumber.BP        `
+vit$oxygen <- vit$`newnumber.OXYGEN    `
+vit$pain <- vit$`newnumber.PAIN      `
+vit$pulse <- vit$`newnumber.PULSE     `
+vit$resp <- vit$`newnumber.RESP      `
+vit$temp <- vit$`newnumber.TEMP      `
+vit$weight <- vit$`newnumber.WEIGHT    `
+vit$height <- vit$`newnumber.HEIGHT    `
+vit$spo2 <- vit$`newnumber.SPO2 DEL  `
+vit$intake <- vit$`newnumber.INTAKE    `
+vit$bloodsugar <- vit$`newnumber.BLOODSUG  `
+vit$fluids <- vit$`newnumber.~FLUIDRES `
+vit$output <- vit$`newnumber.OUTPUT    `
+
+
+vit <- subset(vit, select=-c(`newnumber.BP        `,
+`newnumber.OXYGEN    `,
+`newnumber.PAIN      `,
+`newnumber.PULSE     `,
+`newnumber.RESP      `,
+`newnumber.TEMP      `,
+`newnumber.WEIGHT    `,
+`newnumber.HEIGHT    `,
+`newnumber.SPO2 DEL  `,
+`newnumber.INTAKE    `,
+`newnumber.BLOODSUG  `,
+`newnumber.~FLUIDRES `,
+`newnumber.OUTPUT    `))
+
+vit <- data.frame(lapply(vit, gsub, pattern = "|", replacement = "", fixed = TRUE))
+vit <- data.frame(lapply(vit, trimws))
+vit$bloodpressure[vit$bloodpressure == ""] <- NA
+vit$oxygen[vit$oxygen == ""] <- NA
+vit$pain[vit$pain == ""] <- NA
+vit$pulse[vit$pulse == ""] <- NA
+vit$resp[vit$resp == ""] <- NA
+vit$temp[vit$temp == ""] <- NA
+vit$weight[vit$weight == ""] <- NA
+vit$height[vit$height == ""] <- NA
+vit$spo2[vit$spo2 == ""] <- NA
+vit$intake[vit$intake == ""] <- NA
+vit$bloodsugar[vit$bloodsugar == ""] <- NA
+vit$fluids[vit$fluids == ""] <- NA
+vit$output[vit$output == ""] <- NA
+
+vit$ID <- trimws(vit$ID)
+vit$date <- trimws(vit$date)
+vit$date <- lubridate::as_date(vit$date)
+vit$time <- trimws(vit$time)
+vit$time <- chron::times(vit$time, format =  "h:m:s")
+
+vit$month <- lubridate::month(vit$date)
+vit$day <- lubridate::day(vit$date)
+vit$year <- lubridate::year(vit$date)
+vit$hour <- chron::hours(vit$time)
+
+falls$month <- lubridate::month(falls$Fall_Date)
+falls$day <- lubridate::day(falls$Fall_Date)
+falls$year <- lubridate::year(falls$Fall_Date)
+falls$hour <- chron::hours(falls$Fall_Time)
+
+## add date of fall
+```
+
+```{r}
+fall_notes$date <- trimws(fall_notes$date)
+fall_notes$date <- as.Date(fall_notes$date, "%m/%d/%Y")
+fall_notes$time <- trimws(fall_notes$time)
+fall_notes$time <- chron::times(fall_notes$time, format = "h:m:s")
+
+fall_notes$month <- lubridate::month(fall_notes$date)
+fall_notes$day <- lubridate::day(fall_notes$date)
+fall_notes$year <- lubridate::year(fall_notes$date)
+fall_notes$hour <- chron::hours(fall_notes$time)
+
+vit$ID <- as.integer(vit$ID)
+vit <- vit[ , !(names(vit) %in% c("newid"))]
+fall_notes <- fall_notes[ , !(names(fall_notes) %in% c("date", "time"))]
+falls_complete <- right_join(vit, falls)
+fall_notes$ID <- trimws(fall_notes$ID)
+fall_notes$ID <- as.integer(fall_notes$ID)
+falls_complete <- right_join(fall_notes, falls_complete)
+```
+
+```{r facility_location, include = FALSE}
+f <- read_lines("data/facility_info.txt")
+facility_loc <- as.data.frame(substr(f, start = 1, stop = 3), stringsAsFactors = T)
+colnames(facility_loc) <- "Type"
+facility_loc$Unit <- substr(f, start = 4, stop = 12)
+facility_loc$ID <- substr(f, start = 12, stop = 30)
+facility_loc$ID <- trimws(facility_loc$ID)
+methwick$facility <- facility_loc$Type[match(methwick$id, facility_loc$ID)]
+```
+
+```{r prof_notes_wrangling, include = FALSE}
+p <- read_lines("data/profile_notes.txt")
+prof_notes <- as.data.frame(substr(p, start = 1, stop = 6), stringsAsFactors = T)
+colnames(prof_notes) <- "id"
+prof_notes$conditions <- substr(p, start = 7, stop = 107)
+prof_notes$history <- substr(p, start = 107, stop = 400)
+prof_notes$conditions <- trimws(prof_notes$conditions)
+prof_notes$history <- trimws(prof_notes$history)
+prof_notes$id <- trimws(prof_notes$id)
+prof_notes$conditions[prof_notes$conditions == ""] <- NA
+prof_notes$conditions[prof_notes$conditions == "N/A"] <- NA
+prof_notes$history[prof_notes$history == ""] <- NA
+prof_notes$history[prof_notes$history == "N/A"] <- NA
+
+prof_notes$dementia[grepl("dement", tolower(prof_notes$conditions)) == TRUE |
+                    grepl("dement", tolower(prof_notes$history)) == TRUE] <- 1
+
+prof_notes$dementia[(grepl("dement", tolower(prof_notes$conditions)) == FALSE &
+                    is.na(prof_notes$conditions) == FALSE) |
+                    (grepl("dement", tolower(prof_notes$history))== FALSE &
+                    is.na(prof_notes$history) == FALSE)] <- 0
+
+prof_notes$alzheimers[grepl("alzhe", tolower(prof_notes$conditions)) == TRUE |
+                    grepl("alzhe", tolower(prof_notes$history)) == TRUE] <- 1
+
+prof_notes$alzheimers[(grepl("alzhe", tolower(prof_notes$conditions)) == FALSE &
+                    is.na(prof_notes$conditions) == FALSE) |
+                    (grepl("alzhe", tolower(prof_notes$history))== FALSE &
+                    is.na(prof_notes$history) == FALSE)] <- 0
+
+prof_notes$copd[grepl("copd", tolower(prof_notes$conditions)) == TRUE |
+                    grepl("copd", tolower(prof_notes$history)) == TRUE] <- 1
+
+prof_notes$copd[(grepl("copd", tolower(prof_notes$conditions)) == FALSE &
+                    is.na(prof_notes$conditions) == FALSE) |
+                    (grepl("copd", tolower(prof_notes$history))== FALSE &
+                    is.na(prof_notes$history) == FALSE)] <- 0
+
+prof_notes$diabetes[grepl("diabe", tolower(prof_notes$conditions)) == TRUE |
+                    grepl("diabe", tolower(prof_notes$history)) == TRUE] <- 1
+
+prof_notes$diabetes[(grepl("diabe", tolower(prof_notes$conditions)) == FALSE &
+                    is.na(prof_notes$conditions) == FALSE) |
+                    (grepl("diabe", tolower(prof_notes$history))== FALSE &
+                    is.na(prof_notes$history) == FALSE)] <- 0
+
+prof_notes$hypertension[grepl("hyperte", tolower(prof_notes$conditions)) == TRUE |
+                    grepl("hyperte", tolower(prof_notes$history)) == TRUE] <- 1
+
+prof_notes$hypertension[(grepl("hyperte", tolower(prof_notes$conditions)) == FALSE &
+                    is.na(prof_notes$conditions) == FALSE) |
+                    (grepl("hyperte", tolower(prof_notes$history))== FALSE &
+                    is.na(prof_notes$history) == FALSE)] <- 0
+
+```
+
+```{r data_merge_notes, include = FALSE}
+methwick$dementia <- prof_notes$dementia[match(methwick$id, prof_notes$id)]
+methwick$alzheimers <- prof_notes$alzheimers[match(methwick$id, prof_notes$id)]
+methwick$copd <- prof_notes$copd[match(methwick$id, prof_notes$id)]
+methwick$diabetes <- prof_notes$diabetes[match(methwick$id, prof_notes$id)]
+methwick$hypertension <- prof_notes$hypertension[match(methwick$id, prof_notes$id)]
+
+falls_comp <- falls_complete %>%
+  mutate(id = tolower(ID))
+falls_complete2 <- merge(falls_comp, methwick, by = "id")
+eda <- falls_complete2
+```
+
+## what does the fall distribution  between sexes look like?
+```{r}
+bar <- eda %>%
+  dplyr::select(sex, has_fallen) %>%
+  group_by(sex) %>%
+  summarise(n = n())
+
+ggplot(bar, aes(x = sex, y = n)) +
+  geom_bar(stat = "identity")
+```
+## what does the age range distribution look like?
+```{r}
+agerange <- eda %>%
+  dplyr::select(sex, age_group) %>%
+  group_by(age_group) %>%
+  summarise(n = n())
+
+ggplot(agerange, aes(x = age_group, y = n)) +
+  geom_bar(stat = "identity")
+```
+Seems to correlate with what we would expect
+
+## What does it look like side by side? This plot reinforces the previous two
+```{r}
+sexagerange <- eda %>%
+  dplyr::select(sex, age_group) %>%
+  group_by(age_group, sex) %>%
+  summarise(n = n())
+
+ggplot(sexagerange, aes(x = age_group, y = n, fill = factor(sex))) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_discrete(name = "sex", breaks = c("F","M"), labels = c("F", "M")) +
+  theme(legend.position = "bottom")
+```
+This is what we would expect
+
+## Do women just fall more frequently? Controlling for unique(id)
+```{r}
+sexageidrange <- eda %>%
+  dplyr::select(sex, age_group, id) %>%
+  group_by(age_group, sex, id) %>%
+  summarise(n = n())
+
+ggplot(sexageidrange, aes(x = sex, y = n)) +
+  geom_point(aes(color = sex))
+
+# x <- sexageidrange
+# x$sex <- factor(x$sex)
+# x$color[x$sex == "M"] <- "blue"
+# x$color[x$sex == "F"] <- "red"
+# dotchart(x$n, labels = x$id, cex = .7, groups = x$sex, gcolor = "black", color = x$color)
+# remove(x)
+```
+looks like men have a great occurence of multiple falls and a higher number
+
+## of the fallers how many have been documented to have dementia?
+```{r}
+eda %>%
+  filter(dementia == 1) %>%
+  group_by(id) %>%
+  summarise(n = n())
+```
+
+## of the fallers how many have been documented to have copd?
+```{r}
+eda %>%
+  filter(copd == 1) %>%
+  group_by(id) %>%
+  summarise(n = n())
+```
+
+## of the fallers how many have been documented to have diabetes?
+```{r}
+eda %>%
+  filter(diabetes == 1) %>%
+  group_by(id) %>%
+  summarise(n = n())
+```
+
+## of the fallers how many have been documented to have alzheimers?
+```{r}
+eda %>%
+  filter(alzheimers == 1) %>%
+  group_by(id) %>%
+  summarise(n = n())
+```
+
+## of the fallers how many have been documented to have hypertension?
+```{r}
+eda %>%
+  filter(hypertension == 1) %>%
+  group_by(id) %>%
+  summarise(n = n())
+```
+
+## what is the distribution of the time fallers fall?
+```{r}
+hist(x = chron::hours(eda$time), breaks = 24)
+```
+Looks like 1-3 are big hours, likely coming back from lunch or these are areas of activity
+
+## what day of the week do people fall?
+```{r}
+wdayhist <- eda %>%
+  dplyr::select(id, Fall_Date) %>%
+  mutate(fall_date = lubridate::wday(Fall_Date)) %>%
+  group_by(fall_date) %>%
+  summarise(n = n())
+
+ggplot(wdayhist, aes(x = fall_date, y = n)) +
+  geom_bar(stat = "identity")
+```
+Sunday is the biggest day for falls. Church?
+
+
+## which facility are fallers located in?
+```{r}
+x <- eda %>%
+  dplyr::select(id, facility) %>%
+  group_by(facility) %>%
+  summarise(n = n())
+
+ggplot(x, aes(x = facility, y = n)) +
+  geom_bar(stat = "identity")
+```
+
+## What does the population look like?
+```{r}
+methwick %>%
+  dplyr::select(id, has_fallen, sex) %>%
+  group_by(sex) %>%
+  summarise(n = n()) %>%
+  ggplot(., aes(x = sex, y = n)) +
+  geom_bar(stat = "identity")
+```
+## What about fallers and non-fallers in those populations?
+```{r}
+methwick %>%
+  dplyr::select(has_fallen, sex) %>%
+  group_by(has_fallen, sex) %>%
+  summarise(n = n()) %>%
+  ggplot(., aes(x = sex, y = n, fill = factor(has_fallen))) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_discrete(name = "has_fallen", breaks = c("TRUE","FALSE"), labels = c("TRUE", "FALSE")) +
+  theme(legend.position = "bottom")
+```
+
+## adjusting for facility = NA, what does the current resident population look like?
+```{r}
+methwick %>%
+  filter(is.na(facility) == FALSE) %>%
+  dplyr::select(has_fallen, sex) %>%
+  group_by(has_fallen, sex) %>%
+  summarise(n = n()) %>%
+  ggplot(., aes(x = sex, y = n, fill = factor(has_fallen))) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_discrete(name = "has_fallen", breaks = c("TRUE","FALSE"), labels = c("TRUE", "FALSE")) +
+  theme(legend.position = "bottom")
+```
+
+## How many people are currently residents?(where facility is not na)
+```{r}
+methwick %>%
+  filter(is.na(facility) == FALSE) %>%
+  summarise(n = n())
+```
+
+## fallers and non-fallers by age group
+```{r}
+methwick %>%
+  dplyr::select(has_fallen, age_group) %>%
+  group_by(has_fallen, age_group) %>%
+  summarise(n = n()) %>%
+  ggplot(., aes(x = age_group, y = n, fill = factor(has_fallen))) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_discrete(name = "has_fallen", breaks = c("TRUE","FALSE"), labels = c("TRUE", "FALSE")) +
+  theme(legend.position = "bottom")
+```
+
+## adjusting for people who have a facility=NA which may indicate a non-resident
+```{r}
+methwick %>%
+  filter(is.na(facility) == FALSE) %>%
+  dplyr::select(has_fallen, age_group) %>%
+  group_by(has_fallen, age_group) %>%
+  summarise(n = n()) %>%
+  ggplot(., aes(x = age_group, y = n, fill = factor(has_fallen))) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_discrete(name = "has_fallen", breaks = c("TRUE","FALSE"), labels = c("TRUE", "FALSE")) +
+  theme(legend.position = "bottom")
+```
+## adjusting for people who have a facility=NA and a mobility impairment
+```{r}
+methwick %>%
+  filter(is.na(facility) == FALSE) %>%
+  dplyr::select(has_fallen, mobility_impairment) %>%
+  group_by(has_fallen, mobility_impairment) %>%
+  summarise(n = n()) %>%
+  ggplot(., aes(x = mobility_impairment, y = n, fill = factor(has_fallen))) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_discrete(name = "has_fallen", breaks = c("TRUE","FALSE"), labels = c("TRUE", "FALSE")) +
+  theme(legend.position = "bottom")
+```
+
+```{r, include = FALSE}
+set.seed(666)
+eda$severity[eda$To_Hospital == "Y"] <- 1
+
+readr::write_csv(eda, path = "eda.csv")
+```
+
+# histogram of severity
+```{r}
+hist(eda$severity)
+```
+# 4 Plots corresponding to the GLM for has_fallen data, classifying predictions
+```{r, warnings = FALSE}
+
+eda$dementia[is.na(eda$dementia) == TRUE] <- 0
+eda$alzheimers[is.na(eda$alzheimers) == TRUE] <- 0
+eda$copd[is.na(eda$copd) == TRUE] <- 0
+eda$diabetes[is.na(eda$diabetes) == TRUE] <- 0
+eda$hypertension[is.na(eda$hypertension) == TRUE] <- 0
+
+lmfit <- glm(data = eda, has_fallen ~ day + age + sex + race + pacemaker + visual_impairment + mobility_impairment + bmi + age_group + dementia + alzheimers + hypertension, family = "binomial")
+
+lmfit_data <- methwick %>%
+  dplyr::select(has_fallen = has_fallen,
+         age = age,
+         age_group = age_group,
+         sex = sex,
+         race = race,
+         pacemaker = pacemaker,
+         visual_impairment = visual_impairment,
+         mobility_impairment = mobility_impairment,
+         bmi = bmi,
+         dementia = dementia,
+         alzheimers = alzheimers,
+         copd = copd,
+         diabetes = diabetes,
+         hypertension = hypertension)
+lmfit_data$dementia[is.na(lmfit_data$dementia) == TRUE] <- 0
+lmfit_data$alzheimers[is.na(lmfit_data$alzheimers) == TRUE] <- 0
+lmfit_data$copd[is.na(lmfit_data$copd) == TRUE] <- 0
+lmfit_data$diabetes[is.na(lmfit_data$diabetes) == TRUE] <- 0
+lmfit_data$hypertension[is.na(lmfit_data$hypertension) == TRUE] <- 0
+
+lmfit <- glm(data = lmfit_data, has_fallen ~ age + sex + race + pacemaker + visual_impairment + mobility_impairment + bmi + dementia + alzheimers + copd + diabetes + hypertension, family = "binomial")
+
+plot(lmfit)
+```
+# Summary of has_fallen fit data
+```{r}
+lmfit2 <- glm(data = lmfit_data, has_fallen ~ age + sex + race + pacemaker + visual_impairment + mobility_impairment + bmi + dementia + alzheimers + diabetes + hypertension, family = "binomial")
+
+summary(lmfit2)
+```
+
+
+
+## Testing just the diagnostic varaibles
+
+- wanted to assess the viability of just the clinical diagnostics by themseslves.  Similar results.  
+
+```{r}
+lmfit3 <- glm(data = lmfit_data, has_fallen ~ alzheimers + diabetes + hypertension, family = "binomial")
+
+summary(lmfit3)
+```
+
+# Summary of 70% glm training data
+```{r}
+# Create a df with 80% of data
+set.seed(666)
+index <- sample(nrow(lmfit_data), 0.70*nrow(lmfit_data), replace = F)
+lmfit_training <- lmfit_data[index,]
+lmfit_test <- lmfit_data[-index,]
+# Fit the training model
+lmfit_train <- glm(data = lmfit_training, 
+             has_fallen ~ age + sex + race + pacemaker + visual_impairment + mobility_impairment + bmi + dementia + alzheimers + copd + diabetes + hypertension + 0, 
+             family = binomial(link = "logit"), control = list(maxit = 100))
+summary(lmfit_train)
+lmfit_train$xlevels[["race"]] <- union(lmfit_train$xlevels[["race"]], levels(lmfit_test$race))
+lmfit_train$xlevels[["pacemaker"]] <- union(lmfit_train$xlevels[["pacemaker"]], levels(lmfit_test$pacemaker))
+lmfit_predict <- predict(lmfit_train, lmfit_test, type="response")
+```
+# Summary of glm fit data for has_fallen testing data
+```{r}
+lmfit_testing <- glm(data = lmfit_test, 
+             has_fallen ~ age + sex + race + pacemaker + visual_impairment + mobility_impairment + bmi + dementia + alzheimers + copd + diabetes + hypertension + 0, 
+             family = binomial(link = "logit"), control = list(maxit = 100))
+summary(lmfit_testing)
+```
+# Summary of the prediction data for testing data
+```{r}
+summary(lmfit_predict)
+```
+# Plot to show divergence for predict non_factored has_fallen data
+```{r}
+plot(lmfit_predict)
+```
+#anova description of training data with Chi Squared test
+```{r}
+anova(lmfit_train, test = "Chisq")
+```
+# Accuracy
+```{r}
+lmfit_test$has_fallen <- as.character(lmfit_test$has_fallen)
+lmfit_test$has_fallen[lmfit_test$has_fallen==FALSE] <- "0"
+lmfit_test$has_fallen[lmfit_test$has_fallen==TRUE] <- "1"
+lmfit_results <- predict(lmfit_train,newdata=lmfit_test,type='response')
+classification_errors <- mean(lmfit_results != lmfit_test$has_fallen)
+print(paste('Logistic Regression Accuracy',1-classification_errors))
+```
+# Confusion matrix for has_fallen
+```{r}
+print("Confusion Matrix for Logistic Regression"); table(lmfit_test$has_fallen, lmfit_results > 0.5)
+```
+# Odds Ratios for has_fallen data
+```{r, warning=FALSE}
+exp(cbind(OR=coef(lmfit_train), confint(lmfit_train)))
+```
+
+# Severity Ctree
+
+```{r}
+# tree <- ctree(has_fallen~has_fallen ~ age + sex + race + pacemaker + visual_impairment + mobility_impairment + bmi + dementia + alzheimers + copd + diabetes + hypertension , lmfit_training)
+# plot(tree, type = 'simple')
+
+fall_tree <- party::ctree(severity ~ month + day + age + sex + race + pacemaker + visual_impairment + mobility_impairment + dementia + alzheimers + copd + diabetes + hypertension , data = eda)
+summary(fall_tree)
+plot(fall_tree, type = 'simple')
+```
+
+```{r}
+# test_tree <- rpart(factor(severity) ~ year + age + sex + race + pacemaker + visual_impairment + mobility_impairment , data = eda)
+set.seed(666)
+eda_recode <- eda
+# eda_recode$severity_split[eda$severity == 1] <- 0
+# eda_recode$severity_split[eda$severity >= 2] <- 1
+index <- sample(nrow(eda_recode), 0.80*nrow(eda_recode), replace = F)
+training <- eda_recode[index,]
+testing <- eda_recode[-index,]
+```
+
+# Odds ratio and histogram of the prediction relating to severity
+```{r}
+# Fit the training model
+trained <- glm(data = training, 
+             severity ~ month + day + age + sex + race + pacemaker + visual_impairment + Prior_Physical + mobility_impairment, family = binomial(link = "logit"), control = list(maxit = 100))
+summary(trained)
+
+trained$xlevels[["race"]] <- union(trained$xlevels[["race"]], levels(testing$race))
+trained$xlevels[["pacemaker"]] <- union(trained$xlevels[["pacemaker"]], levels(testing$pacemaker))
+prediction <- predict(trained, testing, type="response")
+table(testing$severity, prediction > 0.5)
+tpred <- predict(trained, training, type = "response")
+table(training$severity, tpred > 0.5)
+hist(prediction)
+exp(cbind(OR=coef(trained), confint(trained)))
+```
+
+# rpart tree for severity data, non-factored
+```{r}
+test_tree <- rpart(severity ~ month + age + sex + race + pacemaker + visual_impairment + mobility_impairment , data = eda)
+par(xpd = TRUE)
+rpart.plot(test_tree, compress = TRUE)
+dtree.pred <- predict(test_tree, testing, type = "vector")
+dtree.perf <- table(testing$severity, dtree.pred, dnn=c("Actual", "Predicted"))
+dtree.perf
+```
+# Summary and histograms for the test_tree and severity data
+```{r}
+summary(test_tree)
+rpart.plot(test_tree)
+
+summary(eda$severity)
+hist(eda$severity)
+```
